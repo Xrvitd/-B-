@@ -1,0 +1,21 @@
+5->2    dis: 77.2       total_flow: 3083.19     fib1: 1 fib2: 0 fib3: 0 total_cost: 77.2
+6->3    dis: 51.7       total_flow: 881.948     fib1: 1 fib2: 0 fib3: 0 total_cost: 51.7
+1->4    dis: 142        total_flow: 10334.2     fib1: 0 fib2: 2 fib3: 0 total_cost: 355
+1->5    dis: 65.1       total_flow: 5234.7      fib1: 0 fib2: 1 fib3: 0 total_cost: 81.375
+8->6    dis: 76.5       total_flow: 1173.02     fib1: 1 fib2: 0 fib3: 0 total_cost: 76.5
+8->7    dis: 67.6       total_flow: 7581.91     fib1: 0 fib2: 0 fib3: 1 total_cost: 101.4
+1->8    dis: 26.1       total_flow: 11464.5     fib1: 0 fib2: 2 fib3: 0 total_cost: 65.25
+8->9    dis: 88.1       total_flow: 1880.21     fib1: 1 fib2: 0 fib3: 0 total_cost: 88.1
+13->10  dis: 46.4       total_flow: 2325.98     fib1: 1 fib2: 0 fib3: 0 total_cost: 46.4
+4->11   dis: 131        total_flow: 5113.44     fib1: 0 fib2: 1 fib3: 0 total_cost: 163.75
+13->12  dis: 30.1       total_flow: 452.458     fib1: 1 fib2: 0 fib3: 0 total_cost: 30.1
+11->13  dis: 170        total_flow: 4417.88     fib1: 0 fib2: 1 fib3: 0 total_cost: 212.5
+7->14   dis: 160        total_flow: 6659.25     fib1: 0 fib2: 0 fib3: 1 total_cost: 240
+16->15  dis: 96         total_flow: 3300.11     fib1: 1 fib2: 0 fib3: 0 total_cost: 96
+14->16  dis: 126        total_flow: 6279.78     fib1: 0 fib2: 0 fib3: 1 total_cost: 189
+20->17  dis: 199        total_flow: 437.338     fib1: 1 fib2: 0 fib3: 0 total_cost: 199
+4->18   dis: 86.9       total_flow: 3842.13     fib1: 1 fib2: 0 fib3: 0 total_cost: 86.9
+18->19  dis: 193        total_flow: 3000.6      fib1: 1 fib2: 0 fib3: 0 total_cost: 193
+1->20   dis: 142        total_flow: 3267.83     fib1: 1 fib2: 0 fib3: 0 total_cost: 142
+9->21   dis: 57.3       total_flow: 978.198     fib1: 1 fib2: 0 fib3: 0 total_cost: 57.3
+3.04044e-06
