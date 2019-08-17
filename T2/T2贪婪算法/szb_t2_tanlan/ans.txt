@@ -1,0 +1,6633 @@
+----------------------------- 50---------------------------------------
+
+
+bs:   1
+MaxMag= 36.2731   MinMag= 21.5841    Ak= 14.689
+Avg = 32.2286
+bs:   2
+MaxMag= 37.1527   MinMag= 26.5946    Ak= 10.5581
+Avg = 33.3716
+bs:   3
+MaxMag= 35.5242   MinMag= 30.2174    Ak= 5.30679
+Avg = 32.9808
+bs:   4
+MaxMag= 34.994   MinMag= 31.4924    Ak= 3.50159
+Avg = 33.1256
+bs:   5
+MaxMag= 36.1117   MinMag= 30.8819    Ak= 5.22978
+Avg = 33.5448
+bs:   6
+MaxMag= 35.5849   MinMag= 31.5388    Ak= 4.04612
+Avg = 33.9481
+bs:   7
+MaxMag= 35.4544   MinMag= 32.0839    Ak= 3.37045
+Avg = 33.8344
+bs:   8
+MaxMag= 35.2329   MinMag= 31.5819    Ak= 3.65092
+Avg = 33.7394
+bs:   9
+MaxMag= 35.0241   MinMag= 31.9143    Ak= 3.10975
+Avg = 33.63
+bs:   10
+MaxMag= 35.2882   MinMag= 32.7921    Ak= 2.49612
+Avg = 34.0998
+----------------------------- 50.1---------------------------------------
+
+
+bs:   1
+MaxMag= 36.2731   MinMag= 21.5841    Ak= 14.689
+Avg = 32.2286
+bs:   2
+MaxMag= 36.8742   MinMag= 25.634    Ak= 11.2402
+Avg = 33.0877
+bs:   3
+MaxMag= 35.5242   MinMag= 30.2174    Ak= 5.30679
+Avg = 32.9808
+bs:   4
+MaxMag= 35.6754   MinMag= 30.0029    Ak= 5.67244
+Avg = 33.5558
+bs:   5
+MaxMag= 35.0919   MinMag= 30.4459    Ak= 4.64596
+Avg = 33.4591
+bs:   6
+MaxMag= 35.5839   MinMag= 31.5481    Ak= 4.03577
+Avg = 33.9485
+bs:   7
+MaxMag= 35.4544   MinMag= 32.0839    Ak= 3.37045
+Avg = 33.8344
+bs:   8
+MaxMag= 35.2329   MinMag= 31.5819    Ak= 3.65092
+Avg = 33.7394
+bs:   9
+MaxMag= 35.0241   MinMag= 31.9143    Ak= 3.10975
+Avg = 33.63
+bs:   10
+MaxMag= 35.5484   MinMag= 32.1564    Ak= 3.39199
+Avg = 33.9574
+----------------------------- 50.2---------------------------------------
+
+
+bs:   1
+MaxMag= 36.2731   MinMag= 21.5841    Ak= 14.689
+Avg = 32.2286
+bs:   2
+MaxMag= 36.8742   MinMag= 25.634    Ak= 11.2402
+Avg = 33.0877
+bs:   3
+MaxMag= 35.7332   MinMag= 29.691    Ak= 6.04222
+Avg = 32.8857
+bs:   4
+MaxMag= 35.6754   MinMag= 30.0029    Ak= 5.67244
+Avg = 33.5558
+bs:   5
+MaxMag= 35.169   MinMag= 31.9706    Ak= 3.19838
+Avg = 33.8009
+bs:   6
+MaxMag= 35.7578   MinMag= 31.4731    Ak= 4.28469
+Avg = 33.9594
+bs:   7
+MaxMag= 35.4544   MinMag= 32.0839    Ak= 3.37045
+Avg = 33.8344
+bs:   8
+MaxMag= 35.3608   MinMag= 31.8954    Ak= 3.46549
+Avg = 33.6059
+bs:   9
+MaxMag= 35.1009   MinMag= 32.1758    Ak= 2.92513
+Avg = 33.7966
+bs:   10
+MaxMag= 35.5484   MinMag= 32.1564    Ak= 3.39199
+Avg = 33.9574
+----------------------------- 50.3---------------------------------------
+
+
+bs:   1
+MaxMag= 36.2731   MinMag= 21.5841    Ak= 14.689
+Avg = 32.2286
+bs:   2
+MaxMag= 36.7004   MinMag= 26.0038    Ak= 10.6966
+Avg = 32.7132
+bs:   3
+MaxMag= 35.3169   MinMag= 30.0195    Ak= 5.29734
+Avg = 32.8622
+bs:   4
+MaxMag= 35.6501   MinMag= 31.1983    Ak= 4.45174
+Avg = 33.4879
+bs:   5
+MaxMag= 35.601   MinMag= 31.5004    Ak= 4.10054
+Avg = 33.8257
+bs:   6
+MaxMag= 35.7578   MinMag= 31.4731    Ak= 4.28469
+Avg = 33.9594
+bs:   7
+MaxMag= 35.4544   MinMag= 32.0839    Ak= 3.37045
+Avg = 33.8344
+bs:   8
+MaxMag= 35.3608   MinMag= 31.8954    Ak= 3.46549
+Avg = 33.6059
+bs:   9
+MaxMag= 34.9794   MinMag= 32.3259    Ak= 2.65356
+Avg = 33.805
+bs:   10
+MaxMag= 35.5484   MinMag= 32.1564    Ak= 3.39199
+Avg = 33.9574
+----------------------------- 50.4---------------------------------------
+
+
+bs:   1
+MaxMag= 36.2731   MinMag= 21.5841    Ak= 14.689
+Avg = 32.2286
+bs:   2
+MaxMag= 36.7004   MinMag= 26.0038    Ak= 10.6966
+Avg = 32.7132
+bs:   3
+MaxMag= 35.3169   MinMag= 30.0195    Ak= 5.29734
+Avg = 32.8622
+bs:   4
+MaxMag= 35.6754   MinMag= 30.0029    Ak= 5.67244
+Avg = 33.5558
+bs:   5
+MaxMag= 35.9179   MinMag= 31.2959    Ak= 4.62195
+Avg = 33.8892
+bs:   6
+MaxMag= 35.7578   MinMag= 31.4731    Ak= 4.28469
+Avg = 33.9594
+bs:   7
+MaxMag= 35.2723   MinMag= 31.9157    Ak= 3.35662
+Avg = 33.9317
+bs:   8
+MaxMag= 35.61   MinMag= 32.423    Ak= 3.18698
+Avg = 33.7142
+bs:   9
+MaxMag= 35.1808   MinMag= 32.2047    Ak= 2.97618
+Avg = 33.8262
+bs:   10
+MaxMag= 35.5484   MinMag= 32.1564    Ak= 3.39199
+Avg = 33.9574
+----------------------------- 50.5---------------------------------------
+
+
+bs:   1
+MaxMag= 36.2731   MinMag= 21.5841    Ak= 14.689
+Avg = 32.2286
+bs:   2
+MaxMag= 36.7004   MinMag= 26.0038    Ak= 10.6966
+Avg = 32.7132
+bs:   3
+MaxMag= 35.3169   MinMag= 30.0195    Ak= 5.29734
+Avg = 32.8622
+bs:   4
+MaxMag= 36.2613   MinMag= 31.1802    Ak= 5.08106
+Avg = 33.5893
+bs:   5
+MaxMag= 35.9179   MinMag= 31.2959    Ak= 4.62195
+Avg = 33.8892
+bs:   6
+MaxMag= 35.7578   MinMag= 31.4731    Ak= 4.28469
+Avg = 33.9594
+bs:   7
+MaxMag= 35.2723   MinMag= 31.9157    Ak= 3.35662
+Avg = 33.9317
+bs:   8
+MaxMag= 35.3646   MinMag= 31.9645    Ak= 3.40011
+Avg = 33.8578
+bs:   9
+MaxMag= 35.1009   MinMag= 32.1758    Ak= 2.92513
+Avg = 33.7966
+bs:   10
+MaxMag= 35.5484   MinMag= 32.1564    Ak= 3.39199
+Avg = 33.9574
+----------------------------- 50.6---------------------------------------
+
+
+bs:   1
+MaxMag= 36.5712   MinMag= 25.6949    Ak= 10.8763
+Avg = 32.1162
+bs:   2
+MaxMag= 36.7004   MinMag= 26.0038    Ak= 10.6966
+Avg = 32.7132
+bs:   3
+MaxMag= 35.3169   MinMag= 30.0195    Ak= 5.29734
+Avg = 32.8622
+bs:   4
+MaxMag= 36.2613   MinMag= 31.1802    Ak= 5.08106
+Avg = 33.5893
+bs:   5
+MaxMag= 35.923   MinMag= 30.5255    Ak= 5.3975
+Avg = 33.9003
+bs:   6
+MaxMag= 35.7578   MinMag= 31.4731    Ak= 4.28469
+Avg = 33.9594
+bs:   7
+MaxMag= 35.2723   MinMag= 31.9157    Ak= 3.35662
+Avg = 33.9317
+bs:   8
+MaxMag= 35.3646   MinMag= 31.9645    Ak= 3.40011
+Avg = 33.8578
+bs:   9
+MaxMag= 34.9335   MinMag= 32.576    Ak= 2.3575
+Avg = 33.7504
+bs:   10
+MaxMag= 35.7153   MinMag= 32.5149    Ak= 3.20037
+Avg = 34.0339
+----------------------------- 50.7---------------------------------------
+
+
+bs:   1
+MaxMag= 35.915   MinMag= 23.7173    Ak= 12.1977
+Avg = 32.1297
+bs:   2
+MaxMag= 36.7004   MinMag= 26.0038    Ak= 10.6966
+Avg = 32.7132
+bs:   3
+MaxMag= 35.5107   MinMag= 29.5993    Ak= 5.91146
+Avg = 32.8877
+bs:   4
+MaxMag= 36.2613   MinMag= 31.1802    Ak= 5.08106
+Avg = 33.5893
+bs:   5
+MaxMag= 35.923   MinMag= 30.5255    Ak= 5.3975
+Avg = 33.9003
+bs:   6
+MaxMag= 35.7578   MinMag= 31.4731    Ak= 4.28469
+Avg = 33.9594
+bs:   7
+MaxMag= 35.2723   MinMag= 31.9157    Ak= 3.35662
+Avg = 33.9317
+bs:   8
+MaxMag= 35.5719   MinMag= 31.3677    Ak= 4.20418
+Avg = 33.8652
+bs:   9
+MaxMag= 35.7557   MinMag= 32.1468    Ak= 3.60882
+Avg = 33.8113
+bs:   10
+MaxMag= 35.7153   MinMag= 32.5149    Ak= 3.20037
+Avg = 34.0339
+----------------------------- 50.8---------------------------------------
+
+
+bs:   1
+MaxMag= 35.915   MinMag= 23.7173    Ak= 12.1977
+Avg = 32.1297
+bs:   2
+MaxMag= 36.9432   MinMag= 24.4024    Ak= 12.5408
+Avg = 32.745
+bs:   3
+MaxMag= 35.5107   MinMag= 29.5993    Ak= 5.91146
+Avg = 32.8877
+bs:   4
+MaxMag= 36.2613   MinMag= 31.1802    Ak= 5.08106
+Avg = 33.5893
+bs:   5
+MaxMag= 35.923   MinMag= 30.5255    Ak= 5.3975
+Avg = 33.9003
+bs:   6
+MaxMag= 35.7578   MinMag= 31.4731    Ak= 4.28469
+Avg = 33.9594
+bs:   7
+MaxMag= 35.2723   MinMag= 31.9157    Ak= 3.35662
+Avg = 33.9317
+bs:   8
+MaxMag= 35.615   MinMag= 31.9427    Ak= 3.67234
+Avg = 33.912
+bs:   9
+MaxMag= 35.4042   MinMag= 32.1068    Ak= 3.29743
+Avg = 34.0063
+bs:   10
+MaxMag= 35.7153   MinMag= 32.5149    Ak= 3.20037
+Avg = 34.0339
+----------------------------- 50.9---------------------------------------
+
+
+bs:   1
+MaxMag= 35.915   MinMag= 23.7173    Ak= 12.1977
+Avg = 32.1297
+bs:   2
+MaxMag= 37.1155   MinMag= 23.9332    Ak= 13.1822
+Avg = 33.6709
+bs:   3
+MaxMag= 35.5107   MinMag= 29.5993    Ak= 5.91146
+Avg = 32.8877
+bs:   4
+MaxMag= 36.0171   MinMag= 30.3215    Ak= 5.69564
+Avg = 33.4981
+bs:   5
+MaxMag= 35.923   MinMag= 30.5255    Ak= 5.3975
+Avg = 33.9003
+bs:   6
+MaxMag= 36.0077   MinMag= 31.6911    Ak= 4.31661
+Avg = 34.0515
+bs:   7
+MaxMag= 35.4737   MinMag= 31.9704    Ak= 3.50331
+Avg = 33.9294
+bs:   8
+MaxMag= 35.2519   MinMag= 32.1115    Ak= 3.14048
+Avg = 33.8941
+bs:   9
+MaxMag= 35.1778   MinMag= 32.2223    Ak= 2.95551
+Avg = 34.0323
+bs:   10
+MaxMag= 35.1289   MinMag= 32.2653    Ak= 2.86364
+Avg = 33.9887
+----------------------------- 51---------------------------------------
+
+
+bs:   1
+MaxMag= 35.915   MinMag= 23.7173    Ak= 12.1977
+Avg = 32.1297
+bs:   2
+MaxMag= 37.0113   MinMag= 27.116    Ak= 9.89532
+Avg = 33.7915
+bs:   3
+MaxMag= 35.5107   MinMag= 29.5993    Ak= 5.91146
+Avg = 32.8877
+bs:   4
+MaxMag= 36.0171   MinMag= 30.3215    Ak= 5.69564
+Avg = 33.4981
+bs:   5
+MaxMag= 35.923   MinMag= 30.5255    Ak= 5.3975
+Avg = 33.9003
+bs:   6
+MaxMag= 36.0077   MinMag= 31.6911    Ak= 4.31661
+Avg = 34.0515
+bs:   7
+MaxMag= 35.4737   MinMag= 31.9704    Ak= 3.50331
+Avg = 33.9294
+bs:   8
+MaxMag= 35.2996   MinMag= 31.9088    Ak= 3.39078
+Avg = 33.8902
+bs:   9
+MaxMag= 35.1778   MinMag= 32.2223    Ak= 2.95551
+Avg = 34.0323
+bs:   10
+MaxMag= 35.1289   MinMag= 32.2653    Ak= 2.86364
+Avg = 33.9887
+----------------------------- 51.1---------------------------------------
+
+
+bs:   1
+MaxMag= 35.915   MinMag= 23.7173    Ak= 12.1977
+Avg = 32.1297
+bs:   2
+MaxMag= 37.1158   MinMag= 23.9352    Ak= 13.1805
+Avg = 33.6708
+bs:   3
+MaxMag= 36.0758   MinMag= 29.1575    Ak= 6.9183
+Avg = 32.9366
+bs:   4
+MaxMag= 36.2679   MinMag= 30.5821    Ak= 5.68579
+Avg = 33.5696
+bs:   5
+MaxMag= 35.923   MinMag= 30.5255    Ak= 5.3975
+Avg = 33.9003
+bs:   6
+MaxMag= 36.0077   MinMag= 31.6911    Ak= 4.31661
+Avg = 34.0515
+bs:   7
+MaxMag= 35.5731   MinMag= 32.142    Ak= 3.43113
+Avg = 33.9444
+bs:   8
+MaxMag= 35.2996   MinMag= 31.9088    Ak= 3.39078
+Avg = 33.8902
+bs:   9
+MaxMag= 35.4042   MinMag= 32.1068    Ak= 3.29743
+Avg = 34.0063
+bs:   10
+MaxMag= 35.1289   MinMag= 32.2653    Ak= 2.86364
+Avg = 33.9887
+----------------------------- 51.2---------------------------------------
+
+
+bs:   1
+MaxMag= 36.2731   MinMag= 21.5841    Ak= 14.689
+Avg = 32.2286
+bs:   2
+MaxMag= 36.9947   MinMag= 26.3357    Ak= 10.659
+Avg = 33.6204
+bs:   3
+MaxMag= 36.0127   MinMag= 29.7683    Ak= 6.24436
+Avg = 33.0009
+bs:   4
+MaxMag= 36.2679   MinMag= 30.5821    Ak= 5.68579
+Avg = 33.5696
+bs:   5
+MaxMag= 35.923   MinMag= 30.5255    Ak= 5.3975
+Avg = 33.9003
+bs:   6
+MaxMag= 36.0077   MinMag= 31.6911    Ak= 4.31661
+Avg = 34.0515
+bs:   7
+MaxMag= 35.5731   MinMag= 32.142    Ak= 3.43113
+Avg = 33.9444
+bs:   8
+MaxMag= 35.2996   MinMag= 31.9088    Ak= 3.39078
+Avg = 33.8902
+bs:   9
+MaxMag= 35.6498   MinMag= 32.0386    Ak= 3.61121
+Avg = 34.2489
+bs:   10
+MaxMag= 35.4947   MinMag= 32.4178    Ak= 3.0769
+Avg = 34.0622
+----------------------------- 51.3---------------------------------------
+
+
+bs:   1
+MaxMag= 36.2731   MinMag= 21.5841    Ak= 14.689
+Avg = 32.2286
+bs:   2
+MaxMag= 37.0734   MinMag= 27.285    Ak= 9.78838
+Avg = 33.6299
+bs:   3
+MaxMag= 36.0127   MinMag= 29.7683    Ak= 6.24436
+Avg = 33.0009
+bs:   4
+MaxMag= 36.5783   MinMag= 30.5493    Ak= 6.02895
+Avg = 33.2938
+bs:   5
+MaxMag= 36.2066   MinMag= 30.4865    Ak= 5.7201
+Avg = 33.8236
+bs:   6
+MaxMag= 36.0084   MinMag= 31.69    Ak= 4.31842
+Avg = 34.0516
+bs:   7
+MaxMag= 35.5731   MinMag= 32.142    Ak= 3.43113
+Avg = 33.9444
+bs:   8
+MaxMag= 35.5906   MinMag= 31.9904    Ak= 3.60016
+Avg = 34.0442
+bs:   9
+MaxMag= 35.6498   MinMag= 32.0386    Ak= 3.61121
+Avg = 34.2489
+bs:   10
+MaxMag= 35.4947   MinMag= 32.4178    Ak= 3.0769
+Avg = 34.0622
+----------------------------- 51.4---------------------------------------
+
+
+bs:   1
+MaxMag= 36.2731   MinMag= 21.5841    Ak= 14.689
+Avg = 32.2286
+bs:   2
+MaxMag= 37.0734   MinMag= 27.285    Ak= 9.78838
+Avg = 33.6299
+bs:   3
+MaxMag= 36.0607   MinMag= 28.5719    Ak= 7.48888
+Avg = 33.1385
+bs:   4
+MaxMag= 36.2067   MinMag= 30.4021    Ak= 5.80469
+Avg = 33.651
+bs:   5
+MaxMag= 36.2066   MinMag= 30.4865    Ak= 5.7201
+Avg = 33.8236
+bs:   6
+MaxMag= 35.543   MinMag= 31.9046    Ak= 3.63842
+Avg = 33.9767
+bs:   7
+MaxMag= 35.5731   MinMag= 32.142    Ak= 3.43113
+Avg = 33.9444
+bs:   8
+MaxMag= 35.5906   MinMag= 31.9904    Ak= 3.60016
+Avg = 34.0442
+bs:   9
+MaxMag= 35.6498   MinMag= 32.0386    Ak= 3.61121
+Avg = 34.2489
+bs:   10
+MaxMag= 35.4947   MinMag= 32.4178    Ak= 3.0769
+Avg = 34.0622
+----------------------------- 51.5---------------------------------------
+
+
+bs:   1
+MaxMag= 36.2731   MinMag= 21.5841    Ak= 14.689
+Avg = 32.2286
+bs:   2
+MaxMag= 37.0425   MinMag= 26.705    Ak= 10.3376
+Avg = 33.7078
+bs:   3
+MaxMag= 36.0607   MinMag= 28.5719    Ak= 7.48888
+Avg = 33.1385
+bs:   4
+MaxMag= 36.3115   MinMag= 30.2029    Ak= 6.1086
+Avg = 33.705
+bs:   5
+MaxMag= 35.5976   MinMag= 31.4568    Ak= 4.14077
+Avg = 33.7753
+bs:   6
+MaxMag= 35.543   MinMag= 31.9046    Ak= 3.63842
+Avg = 33.9767
+bs:   7
+MaxMag= 35.6315   MinMag= 32.2413    Ak= 3.39021
+Avg = 34.0931
+bs:   8
+MaxMag= 35.5906   MinMag= 31.9904    Ak= 3.60016
+Avg = 34.0442
+bs:   9
+MaxMag= 35.6498   MinMag= 32.0386    Ak= 3.61121
+Avg = 34.2489
+bs:   10
+MaxMag= 35.4947   MinMag= 32.4178    Ak= 3.0769
+Avg = 34.0622
+----------------------------- 51.6---------------------------------------
+
+
+bs:   1
+MaxMag= 36.2731   MinMag= 21.5841    Ak= 14.689
+Avg = 32.2286
+bs:   2
+MaxMag= 37.2488   MinMag= 22.0059    Ak= 15.2429
+Avg = 33.0597
+bs:   3
+MaxMag= 36.0607   MinMag= 28.5719    Ak= 7.48888
+Avg = 33.1385
+bs:   4
+MaxMag= 36.3115   MinMag= 30.2029    Ak= 6.1086
+Avg = 33.705
+bs:   5
+MaxMag= 36.2066   MinMag= 30.4865    Ak= 5.7201
+Avg = 33.8236
+bs:   6
+MaxMag= 35.543   MinMag= 31.9046    Ak= 3.63842
+Avg = 33.9767
+bs:   7
+MaxMag= 35.6315   MinMag= 32.2413    Ak= 3.39021
+Avg = 34.0931
+bs:   8
+MaxMag= 35.5906   MinMag= 31.9904    Ak= 3.60016
+Avg = 34.0442
+bs:   9
+MaxMag= 35.6498   MinMag= 32.0386    Ak= 3.61121
+Avg = 34.2489
+bs:   10
+MaxMag= 35.6373   MinMag= 32.5866    Ak= 3.05068
+Avg = 34.106
+----------------------------- 51.7---------------------------------------
+
+
+bs:   1
+MaxMag= 36.2731   MinMag= 21.5841    Ak= 14.689
+Avg = 32.2286
+bs:   2
+MaxMag= 37.2488   MinMag= 22.0059    Ak= 15.2429
+Avg = 33.0597
+bs:   3
+MaxMag= 35.6563   MinMag= 29.0429    Ak= 6.61334
+Avg = 33.0469
+bs:   4
+MaxMag= 36.3115   MinMag= 30.2029    Ak= 6.1086
+Avg = 33.705
+bs:   5
+MaxMag= 35.7342   MinMag= 31.2621    Ak= 4.47208
+Avg = 33.8981
+bs:   6
+MaxMag= 35.543   MinMag= 31.9046    Ak= 3.63842
+Avg = 33.9767
+bs:   7
+MaxMag= 35.6315   MinMag= 32.2413    Ak= 3.39021
+Avg = 34.0931
+bs:   8
+MaxMag= 35.528   MinMag= 31.9904    Ak= 3.53763
+Avg = 34.0237
+bs:   9
+MaxMag= 35.6498   MinMag= 32.0386    Ak= 3.61121
+Avg = 34.2489
+bs:   10
+MaxMag= 35.4281   MinMag= 32.4957    Ak= 2.93242
+Avg = 34.1572
+----------------------------- 51.8---------------------------------------
+
+
+bs:   1
+MaxMag= 36.2731   MinMag= 21.5841    Ak= 14.689
+Avg = 32.2286
+bs:   2
+MaxMag= 37.2488   MinMag= 22.0059    Ak= 15.2429
+Avg = 33.0597
+bs:   3
+MaxMag= 35.6616   MinMag= 29.8169    Ak= 5.84472
+Avg = 33.0247
+bs:   4
+MaxMag= 36.3115   MinMag= 30.2029    Ak= 6.1086
+Avg = 33.705
+bs:   5
+MaxMag= 36.0232   MinMag= 31.2411    Ak= 4.78217
+Avg = 34.0624
+bs:   6
+MaxMag= 35.543   MinMag= 31.9046    Ak= 3.63842
+Avg = 33.9767
+bs:   7
+MaxMag= 35.6315   MinMag= 32.2413    Ak= 3.39021
+Avg = 34.0931
+bs:   8
+MaxMag= 35.7093   MinMag= 32.2124    Ak= 3.49699
+Avg = 34.0598
+bs:   9
+MaxMag= 35.6498   MinMag= 32.0386    Ak= 3.61121
+Avg = 34.2489
+bs:   10
+MaxMag= 35.4281   MinMag= 32.4957    Ak= 2.93242
+Avg = 34.1572
+----------------------------- 51.9---------------------------------------
+
+
+bs:   1
+MaxMag= 36.2731   MinMag= 21.5841    Ak= 14.689
+Avg = 32.2286
+bs:   2
+MaxMag= 36.7482   MinMag= 25.4689    Ak= 11.2792
+Avg = 32.9892
+bs:   3
+MaxMag= 35.6592   MinMag= 29.0348    Ak= 6.62442
+Avg = 33.0467
+bs:   4
+MaxMag= 36.3115   MinMag= 30.2029    Ak= 6.1086
+Avg = 33.705
+bs:   5
+MaxMag= 35.9709   MinMag= 30.7159    Ak= 5.25497
+Avg = 33.9479
+bs:   6
+MaxMag= 35.543   MinMag= 31.9046    Ak= 3.63842
+Avg = 33.9767
+bs:   7
+MaxMag= 35.6315   MinMag= 32.2413    Ak= 3.39021
+Avg = 34.0931
+bs:   8
+MaxMag= 35.7093   MinMag= 32.2124    Ak= 3.49699
+Avg = 34.0598
+bs:   9
+MaxMag= 35.6498   MinMag= 32.0386    Ak= 3.61121
+Avg = 34.2489
+bs:   10
+MaxMag= 35.4281   MinMag= 32.4957    Ak= 2.93242
+Avg = 34.1572
+----------------------------- 52---------------------------------------
+
+
+bs:   1
+MaxMag= 36.2731   MinMag= 21.5841    Ak= 14.689
+Avg = 32.2286
+bs:   2
+MaxMag= 36.7482   MinMag= 25.4689    Ak= 11.2792
+Avg = 32.9892
+bs:   3
+MaxMag= 35.6364   MinMag= 28.8653    Ak= 6.77105
+Avg = 32.9552
+bs:   4
+MaxMag= 35.9672   MinMag= 30.9234    Ak= 5.04382
+Avg = 33.8626
+bs:   5
+MaxMag= 35.9709   MinMag= 30.7159    Ak= 5.25497
+Avg = 33.9479
+bs:   6
+MaxMag= 35.543   MinMag= 31.9046    Ak= 3.63842
+Avg = 33.9767
+bs:   7
+MaxMag= 35.6315   MinMag= 32.2413    Ak= 3.39021
+Avg = 34.0931
+bs:   8
+MaxMag= 35.411   MinMag= 31.8336    Ak= 3.57744
+Avg = 33.9845
+bs:   9
+MaxMag= 35.6498   MinMag= 32.0386    Ak= 3.61121
+Avg = 34.2489
+bs:   10
+MaxMag= 35.7487   MinMag= 32.962    Ak= 2.78663
+Avg = 34.3311
+----------------------------- 52.1---------------------------------------
+
+
+bs:   1
+MaxMag= 36.2731   MinMag= 21.5841    Ak= 14.689
+Avg = 32.2286
+bs:   2
+MaxMag= 36.7482   MinMag= 25.4689    Ak= 11.2792
+Avg = 32.9892
+bs:   3
+MaxMag= 35.6364   MinMag= 28.8653    Ak= 6.77105
+Avg = 32.9552
+bs:   4
+MaxMag= 35.9672   MinMag= 30.9234    Ak= 5.04382
+Avg = 33.8626
+bs:   5
+MaxMag= 36.1011   MinMag= 31.2725    Ak= 4.82855
+Avg = 33.9359
+bs:   6
+MaxMag= 35.543   MinMag= 31.9046    Ak= 3.63842
+Avg = 33.9767
+bs:   7
+MaxMag= 35.6315   MinMag= 32.2413    Ak= 3.39021
+Avg = 34.0931
+bs:   8
+MaxMag= 35.5619   MinMag= 32.9234    Ak= 2.63848
+Avg = 34.2843
+bs:   9
+MaxMag= 35.6498   MinMag= 32.0386    Ak= 3.61121
+Avg = 34.2489
+bs:   10
+MaxMag= 35.7487   MinMag= 32.962    Ak= 2.78663
+Avg = 34.3311
+----------------------------- 52.2---------------------------------------
+
+
+bs:   1
+MaxMag= 36.2731   MinMag= 21.5841    Ak= 14.689
+Avg = 32.2286
+bs:   2
+MaxMag= 37.8266   MinMag= 26.321    Ak= 11.5056
+Avg = 33.2315
+bs:   3
+MaxMag= 36.0864   MinMag= 29.0794    Ak= 7.00697
+Avg = 33.1339
+bs:   4
+MaxMag= 35.9672   MinMag= 30.9234    Ak= 5.04382
+Avg = 33.8626
+bs:   5
+MaxMag= 35.9046   MinMag= 31.6295    Ak= 4.2751
+Avg = 33.9079
+bs:   6
+MaxMag= 35.543   MinMag= 31.9046    Ak= 3.63842
+Avg = 33.9767
+bs:   7
+MaxMag= 35.6315   MinMag= 32.2413    Ak= 3.39021
+Avg = 34.0931
+bs:   8
+MaxMag= 35.7089   MinMag= 32.7292    Ak= 2.97968
+Avg = 34.2233
+bs:   9
+MaxMag= 35.859   MinMag= 32.4258    Ak= 3.43323
+Avg = 34.1234
+bs:   10
+MaxMag= 35.7487   MinMag= 32.962    Ak= 2.78663
+Avg = 34.3311
+----------------------------- 52.3---------------------------------------
+
+
+bs:   1
+MaxMag= 36.2731   MinMag= 21.5841    Ak= 14.689
+Avg = 32.2286
+bs:   2
+MaxMag= 37.2544   MinMag= 25.3832    Ak= 11.8712
+Avg = 33.7251
+bs:   3
+MaxMag= 36.0864   MinMag= 29.0794    Ak= 7.00697
+Avg = 33.1339
+bs:   4
+MaxMag= 35.9672   MinMag= 30.9234    Ak= 5.04382
+Avg = 33.8626
+bs:   5
+MaxMag= 35.7796   MinMag= 31.5751    Ak= 4.20443
+Avg = 34.0846
+bs:   6
+MaxMag= 35.543   MinMag= 31.9046    Ak= 3.63842
+Avg = 33.9767
+bs:   7
+MaxMag= 35.6315   MinMag= 32.2413    Ak= 3.39021
+Avg = 34.0931
+bs:   8
+MaxMag= 35.7089   MinMag= 32.7292    Ak= 2.97968
+Avg = 34.2233
+bs:   9
+MaxMag= 35.859   MinMag= 32.4258    Ak= 3.43323
+Avg = 34.1234
+bs:   10
+MaxMag= 35.7487   MinMag= 32.962    Ak= 2.78663
+Avg = 34.3311
+----------------------------- 52.4---------------------------------------
+
+
+bs:   1
+MaxMag= 36.2731   MinMag= 21.5841    Ak= 14.689
+Avg = 32.2286
+bs:   2
+MaxMag= 37.2544   MinMag= 25.3832    Ak= 11.8712
+Avg = 33.7251
+bs:   3
+MaxMag= 36.0864   MinMag= 29.0794    Ak= 7.00697
+Avg = 33.1339
+bs:   4
+MaxMag= 36.88   MinMag= 31.4237    Ak= 5.4563
+Avg = 33.9411
+bs:   5
+MaxMag= 35.7796   MinMag= 31.5751    Ak= 4.20443
+Avg = 34.0846
+bs:   6
+MaxMag= 35.3732   MinMag= 30.6197    Ak= 4.75349
+Avg = 34.0904
+bs:   7
+MaxMag= 36.1049   MinMag= 32.5369    Ak= 3.56797
+Avg = 34.1198
+bs:   8
+MaxMag= 35.7089   MinMag= 32.7292    Ak= 2.97968
+Avg = 34.2233
+bs:   9
+MaxMag= 35.859   MinMag= 32.4258    Ak= 3.43323
+Avg = 34.1234
+bs:   10
+MaxMag= 35.7487   MinMag= 32.962    Ak= 2.78663
+Avg = 34.3311
+----------------------------- 52.5---------------------------------------
+
+
+bs:   1
+MaxMag= 36.2731   MinMag= 21.5841    Ak= 14.689
+Avg = 32.2286
+bs:   2
+MaxMag= 37.2544   MinMag= 25.3832    Ak= 11.8712
+Avg = 33.7251
+bs:   3
+MaxMag= 36.0864   MinMag= 29.0794    Ak= 7.00697
+Avg = 33.1339
+bs:   4
+MaxMag= 36.5057   MinMag= 30.264    Ak= 6.24168
+Avg = 33.7548
+bs:   5
+MaxMag= 35.7796   MinMag= 31.5751    Ak= 4.20443
+Avg = 34.0846
+bs:   6
+MaxMag= 35.7886   MinMag= 31.9789    Ak= 3.8097
+Avg = 34.1516
+bs:   7
+MaxMag= 36.1049   MinMag= 32.5369    Ak= 3.56797
+Avg = 34.1198
+bs:   8
+MaxMag= 35.7089   MinMag= 32.7292    Ak= 2.97968
+Avg = 34.2233
+bs:   9
+MaxMag= 35.859   MinMag= 32.4258    Ak= 3.43323
+Avg = 34.1234
+bs:   10
+MaxMag= 35.8105   MinMag= 33.0816    Ak= 2.7289
+Avg = 34.331
+----------------------------- 52.6---------------------------------------
+
+
+bs:   1
+MaxMag= 36.2731   MinMag= 21.5841    Ak= 14.689
+Avg = 32.2286
+bs:   2
+MaxMag= 37.2544   MinMag= 25.3832    Ak= 11.8712
+Avg = 33.7251
+bs:   3
+MaxMag= 36.0793   MinMag= 28.3372    Ak= 7.74204
+Avg = 33.2041
+bs:   4
+MaxMag= 36.5057   MinMag= 30.264    Ak= 6.24168
+Avg = 33.7548
+bs:   5
+MaxMag= 35.7796   MinMag= 31.5751    Ak= 4.20443
+Avg = 34.0846
+bs:   6
+MaxMag= 36.128   MinMag= 32.5783    Ak= 3.54965
+Avg = 34.4271
+bs:   7
+MaxMag= 36.1049   MinMag= 32.5369    Ak= 3.56797
+Avg = 34.1198
+bs:   8
+MaxMag= 35.7089   MinMag= 32.7292    Ak= 2.97968
+Avg = 34.2233
+bs:   9
+MaxMag= 35.7403   MinMag= 31.6961    Ak= 4.0442
+Avg = 34.2167
+bs:   10
+MaxMag= 35.7481   MinMag= 32.9713    Ak= 2.7768
+Avg = 34.4344
+----------------------------- 52.7---------------------------------------
+
+
+bs:   1
+MaxMag= 36.2731   MinMag= 21.5841    Ak= 14.689
+Avg = 32.2286
+bs:   2
+MaxMag= 37.2544   MinMag= 25.3832    Ak= 11.8712
+Avg = 33.7251
+bs:   3
+MaxMag= 36.0793   MinMag= 28.3372    Ak= 7.74204
+Avg = 33.2041
+bs:   4
+MaxMag= 35.9783   MinMag= 30.5974    Ak= 5.38093
+Avg = 34.0839
+bs:   5
+MaxMag= 36.3323   MinMag= 32.1145    Ak= 4.2178
+Avg = 34.1871
+bs:   6
+MaxMag= 36.128   MinMag= 32.5783    Ak= 3.54965
+Avg = 34.4271
+bs:   7
+MaxMag= 36.1049   MinMag= 32.5369    Ak= 3.56797
+Avg = 34.1198
+bs:   8
+MaxMag= 35.7089   MinMag= 32.7292    Ak= 2.97968
+Avg = 34.2233
+bs:   9
+MaxMag= 35.9209   MinMag= 32.1992    Ak= 3.72168
+Avg = 34.1645
+bs:   10
+MaxMag= 35.7481   MinMag= 32.9713    Ak= 2.7768
+Avg = 34.4344
+----------------------------- 52.8---------------------------------------
+
+
+bs:   1
+MaxMag= 36.2731   MinMag= 21.5841    Ak= 14.689
+Avg = 32.2286
+bs:   2
+MaxMag= 37.2544   MinMag= 25.3832    Ak= 11.8712
+Avg = 33.7251
+bs:   3
+MaxMag= 36.5818   MinMag= 29.8487    Ak= 6.73303
+Avg = 33.3971
+bs:   4
+MaxMag= 35.9783   MinMag= 30.5974    Ak= 5.38093
+Avg = 34.0839
+bs:   5
+MaxMag= 36.3323   MinMag= 32.1145    Ak= 4.2178
+Avg = 34.1871
+bs:   6
+MaxMag= 36.128   MinMag= 32.5783    Ak= 3.54965
+Avg = 34.4271
+bs:   7
+MaxMag= 35.8682   MinMag= 32.5716    Ak= 3.29662
+Avg = 34.2222
+bs:   8
+MaxMag= 35.7089   MinMag= 32.7292    Ak= 2.97968
+Avg = 34.2233
+bs:   9
+MaxMag= 35.9209   MinMag= 32.1992    Ak= 3.72168
+Avg = 34.1645
+bs:   10
+MaxMag= 35.7481   MinMag= 32.9713    Ak= 2.7768
+Avg = 34.4344
+----------------------------- 52.9---------------------------------------
+
+
+bs:   1
+MaxMag= 36.2731   MinMag= 21.5841    Ak= 14.689
+Avg = 32.2286
+bs:   2
+MaxMag= 37.0755   MinMag= 25.7034    Ak= 11.3722
+Avg = 33.7395
+bs:   3
+MaxMag= 36.5818   MinMag= 29.8487    Ak= 6.73303
+Avg = 33.3971
+bs:   4
+MaxMag= 35.9783   MinMag= 30.5974    Ak= 5.38093
+Avg = 34.0839
+bs:   5
+MaxMag= 36.3323   MinMag= 32.1145    Ak= 4.2178
+Avg = 34.1871
+bs:   6
+MaxMag= 36.128   MinMag= 32.5783    Ak= 3.54965
+Avg = 34.4271
+bs:   7
+MaxMag= 36.1049   MinMag= 32.5369    Ak= 3.56797
+Avg = 34.1198
+bs:   8
+MaxMag= 35.7086   MinMag= 32.7296    Ak= 2.97895
+Avg = 34.2233
+bs:   9
+MaxMag= 35.9209   MinMag= 32.1992    Ak= 3.72168
+Avg = 34.1645
+bs:   10
+MaxMag= 35.7481   MinMag= 32.9713    Ak= 2.7768
+Avg = 34.4344
+----------------------------- 53---------------------------------------
+
+
+bs:   1
+MaxMag= 36.3104   MinMag= 22.7408    Ak= 13.5696
+Avg = 32.2872
+bs:   2
+MaxMag= 37.0755   MinMag= 25.7034    Ak= 11.3722
+Avg = 33.7395
+bs:   3
+MaxMag= 35.9586   MinMag= 29.1864    Ak= 6.77216
+Avg = 33.1235
+bs:   4
+MaxMag= 35.9783   MinMag= 30.5974    Ak= 5.38093
+Avg = 34.0839
+bs:   5
+MaxMag= 36.3316   MinMag= 32.1109    Ak= 4.22067
+Avg = 34.1871
+bs:   6
+MaxMag= 36.128   MinMag= 32.5783    Ak= 3.54965
+Avg = 34.4271
+bs:   7
+MaxMag= 35.8756   MinMag= 32.1224    Ak= 3.75316
+Avg = 34.2951
+bs:   8
+MaxMag= 35.8715   MinMag= 32.428    Ak= 3.44341
+Avg = 34.2488
+bs:   9
+MaxMag= 35.4704   MinMag= 32.3996    Ak= 3.07073
+Avg = 34.1993
+bs:   10
+MaxMag= 35.7481   MinMag= 32.9713    Ak= 2.7768
+Avg = 34.4344
+----------------------------- 53.1---------------------------------------
+
+
+bs:   1
+MaxMag= 36.3104   MinMag= 22.7408    Ak= 13.5696
+Avg = 32.2872
+bs:   2
+MaxMag= 37.4923   MinMag= 27.54    Ak= 9.95232
+Avg = 33.8216
+bs:   3
+MaxMag= 36.5949   MinMag= 28.8487    Ak= 7.74618
+Avg = 33.4351
+bs:   4
+MaxMag= 35.9783   MinMag= 30.5974    Ak= 5.38093
+Avg = 34.0839
+bs:   5
+MaxMag= 36.0103   MinMag= 31.8399    Ak= 4.17036
+Avg = 34.0647
+bs:   6
+MaxMag= 36.128   MinMag= 32.5783    Ak= 3.54965
+Avg = 34.4271
+bs:   7
+MaxMag= 35.8756   MinMag= 32.1224    Ak= 3.75316
+Avg = 34.2951
+bs:   8
+MaxMag= 35.8715   MinMag= 32.428    Ak= 3.44341
+Avg = 34.2488
+bs:   9
+MaxMag= 35.4704   MinMag= 32.3996    Ak= 3.07073
+Avg = 34.1993
+bs:   10
+MaxMag= 35.7481   MinMag= 32.9713    Ak= 2.7768
+Avg = 34.4344
+----------------------------- 53.2---------------------------------------
+
+
+bs:   1
+MaxMag= 36.3104   MinMag= 22.7408    Ak= 13.5696
+Avg = 32.2872
+bs:   2
+MaxMag= 37.4923   MinMag= 27.54    Ak= 9.95232
+Avg = 33.8216
+bs:   3
+MaxMag= 36.5949   MinMag= 28.8487    Ak= 7.74618
+Avg = 33.4351
+bs:   4
+MaxMag= 35.9783   MinMag= 30.5974    Ak= 5.38093
+Avg = 34.0839
+bs:   5
+MaxMag= 36.0103   MinMag= 31.8399    Ak= 4.17036
+Avg = 34.0647
+bs:   6
+MaxMag= 36.128   MinMag= 32.5783    Ak= 3.54965
+Avg = 34.4271
+bs:   7
+MaxMag= 35.8756   MinMag= 32.1224    Ak= 3.75316
+Avg = 34.2951
+bs:   8
+MaxMag= 35.881   MinMag= 32.7734    Ak= 3.10757
+Avg = 34.3304
+bs:   9
+MaxMag= 35.999   MinMag= 32.5284    Ak= 3.47068
+Avg = 34.0414
+bs:   10
+MaxMag= 35.6967   MinMag= 32.769    Ak= 2.92775
+Avg = 34.4094
+----------------------------- 53.3---------------------------------------
+
+
+bs:   1
+MaxMag= 36.7539   MinMag= 23.466    Ak= 13.2878
+Avg = 32.5972
+bs:   2
+MaxMag= 37.4923   MinMag= 27.54    Ak= 9.95232
+Avg = 33.8216
+bs:   3
+MaxMag= 36.744   MinMag= 29.4059    Ak= 7.3381
+Avg = 33.5162
+bs:   4
+MaxMag= 36.9125   MinMag= 30.7195    Ak= 6.19303
+Avg = 34.2212
+bs:   5
+MaxMag= 36.0103   MinMag= 31.8399    Ak= 4.17036
+Avg = 34.0647
+bs:   6
+MaxMag= 36.128   MinMag= 32.5783    Ak= 3.54965
+Avg = 34.4271
+bs:   7
+MaxMag= 35.684   MinMag= 32.2495    Ak= 3.43441
+Avg = 34.241
+bs:   8
+MaxMag= 35.881   MinMag= 32.7734    Ak= 3.10757
+Avg = 34.3304
+bs:   9
+MaxMag= 35.999   MinMag= 32.5284    Ak= 3.47068
+Avg = 34.0414
+bs:   10
+MaxMag= 35.6967   MinMag= 32.769    Ak= 2.92775
+Avg = 34.4094
+----------------------------- 53.4---------------------------------------
+
+
+bs:   1
+MaxMag= 36.7539   MinMag= 23.466    Ak= 13.2878
+Avg = 32.5972
+bs:   2
+MaxMag= 37.4923   MinMag= 27.54    Ak= 9.95232
+Avg = 33.8216
+bs:   3
+MaxMag= 35.981   MinMag= 28.9607    Ak= 7.02034
+Avg = 33.3535
+bs:   4
+MaxMag= 36.9125   MinMag= 30.7195    Ak= 6.19303
+Avg = 34.2212
+bs:   5
+MaxMag= 36.0103   MinMag= 31.8399    Ak= 4.17036
+Avg = 34.0647
+bs:   6
+MaxMag= 36.128   MinMag= 32.5783    Ak= 3.54965
+Avg = 34.4271
+bs:   7
+MaxMag= 35.684   MinMag= 32.2495    Ak= 3.43441
+Avg = 34.241
+bs:   8
+MaxMag= 36.3182   MinMag= 32.2517    Ak= 4.06654
+Avg = 34.3188
+bs:   9
+MaxMag= 35.498   MinMag= 32.7065    Ak= 2.79146
+Avg = 34.2645
+bs:   10
+MaxMag= 35.6591   MinMag= 32.4754    Ak= 3.18368
+Avg = 34.2865
+----------------------------- 53.5---------------------------------------
+
+
+bs:   1
+MaxMag= 36.7539   MinMag= 23.466    Ak= 13.2878
+Avg = 32.5972
+bs:   2
+MaxMag= 37.4923   MinMag= 27.54    Ak= 9.95232
+Avg = 33.8216
+bs:   3
+MaxMag= 36.6729   MinMag= 28.1379    Ak= 8.53499
+Avg = 33.6185
+bs:   4
+MaxMag= 35.4629   MinMag= 29.5899    Ak= 5.87298
+Avg = 33.6283
+bs:   5
+MaxMag= 36.0103   MinMag= 31.8399    Ak= 4.17036
+Avg = 34.0647
+bs:   6
+MaxMag= 36.128   MinMag= 32.5783    Ak= 3.54965
+Avg = 34.4271
+bs:   7
+MaxMag= 35.684   MinMag= 32.2495    Ak= 3.43441
+Avg = 34.241
+bs:   8
+MaxMag= 36.3182   MinMag= 32.2517    Ak= 4.06654
+Avg = 34.3188
+bs:   9
+MaxMag= 35.498   MinMag= 32.7065    Ak= 2.79146
+Avg = 34.2645
+bs:   10
+MaxMag= 35.6591   MinMag= 32.4754    Ak= 3.18368
+Avg = 34.2865
+----------------------------- 53.6---------------------------------------
+
+
+bs:   1
+MaxMag= 36.7539   MinMag= 23.466    Ak= 13.2878
+Avg = 32.5972
+bs:   2
+MaxMag= 37.5674   MinMag= 23.9806    Ak= 13.5868
+Avg = 33.8696
+bs:   3
+MaxMag= 36.9235   MinMag= 30.1056    Ak= 6.81788
+Avg = 33.6278
+bs:   4
+MaxMag= 35.4629   MinMag= 29.5899    Ak= 5.87298
+Avg = 33.6283
+bs:   5
+MaxMag= 35.9146   MinMag= 31.7799    Ak= 4.13478
+Avg = 34.1049
+bs:   6
+MaxMag= 36.128   MinMag= 32.5783    Ak= 3.54965
+Avg = 34.4271
+bs:   7
+MaxMag= 35.684   MinMag= 32.2495    Ak= 3.43441
+Avg = 34.241
+bs:   8
+MaxMag= 36.3182   MinMag= 32.2517    Ak= 4.06654
+Avg = 34.3188
+bs:   9
+MaxMag= 35.498   MinMag= 32.7065    Ak= 2.79146
+Avg = 34.2645
+bs:   10
+MaxMag= 35.4069   MinMag= 31.9413    Ak= 3.4656
+Avg = 34.3467
+----------------------------- 53.7---------------------------------------
+
+
+bs:   1
+MaxMag= 36.7539   MinMag= 23.466    Ak= 13.2878
+Avg = 32.5972
+bs:   2
+MaxMag= 37.5674   MinMag= 23.9806    Ak= 13.5868
+Avg = 33.8696
+bs:   3
+MaxMag= 36.9235   MinMag= 30.1056    Ak= 6.81788
+Avg = 33.6278
+bs:   4
+MaxMag= 35.4629   MinMag= 29.5899    Ak= 5.87298
+Avg = 33.6283
+bs:   5
+MaxMag= 35.7897   MinMag= 31.7391    Ak= 4.05054
+Avg = 34.1282
+bs:   6
+MaxMag= 36.1748   MinMag= 32.2278    Ak= 3.94699
+Avg = 34.3811
+bs:   7
+MaxMag= 35.684   MinMag= 32.2495    Ak= 3.43441
+Avg = 34.241
+bs:   8
+MaxMag= 36.0893   MinMag= 31.4133    Ak= 4.67599
+Avg = 34.2727
+bs:   9
+MaxMag= 35.498   MinMag= 32.7065    Ak= 2.79146
+Avg = 34.2645
+bs:   10
+MaxMag= 35.8383   MinMag= 32.8519    Ak= 2.98646
+Avg = 34.4951
+----------------------------- 53.8---------------------------------------
+
+
+bs:   1
+MaxMag= 36.7539   MinMag= 23.466    Ak= 13.2878
+Avg = 32.5972
+bs:   2
+MaxMag= 37.5674   MinMag= 23.9806    Ak= 13.5868
+Avg = 33.8696
+bs:   3
+MaxMag= 36.5078   MinMag= 27.9392    Ak= 8.56854
+Avg = 33.3961
+bs:   4
+MaxMag= 37.1669   MinMag= 31.3504    Ak= 5.8165
+Avg = 34.1221
+bs:   5
+MaxMag= 35.7897   MinMag= 31.7391    Ak= 4.05054
+Avg = 34.1282
+bs:   6
+MaxMag= 36.1748   MinMag= 32.2278    Ak= 3.94699
+Avg = 34.3811
+bs:   7
+MaxMag= 36.5168   MinMag= 32.2466    Ak= 4.27026
+Avg = 34.5835
+bs:   8
+MaxMag= 36.0893   MinMag= 31.4133    Ak= 4.67599
+Avg = 34.2727
+bs:   9
+MaxMag= 35.7559   MinMag= 32.8032    Ak= 2.95272
+Avg = 34.3011
+bs:   10
+MaxMag= 35.7864   MinMag= 33.4649    Ak= 2.32153
+Avg = 34.5245
+----------------------------- 53.9---------------------------------------
+
+
+bs:   1
+MaxMag= 36.7539   MinMag= 23.466    Ak= 13.2878
+Avg = 32.5972
+bs:   2
+MaxMag= 37.5674   MinMag= 23.9806    Ak= 13.5868
+Avg = 33.8696
+bs:   3
+MaxMag= 36.5078   MinMag= 27.9392    Ak= 8.56854
+Avg = 33.3961
+bs:   4
+MaxMag= 36.5336   MinMag= 30.6845    Ak= 5.84907
+Avg = 33.9704
+bs:   5
+MaxMag= 35.7897   MinMag= 31.7391    Ak= 4.05054
+Avg = 34.1282
+bs:   6
+MaxMag= 36.1748   MinMag= 32.2278    Ak= 3.94699
+Avg = 34.3811
+bs:   7
+MaxMag= 36.1749   MinMag= 32.4249    Ak= 3.75002
+Avg = 34.3973
+bs:   8
+MaxMag= 36.0893   MinMag= 31.4133    Ak= 4.67599
+Avg = 34.2727
+bs:   9
+MaxMag= 35.7559   MinMag= 32.8032    Ak= 2.95272
+Avg = 34.3011
+bs:   10
+MaxMag= 35.7864   MinMag= 33.4649    Ak= 2.32153
+Avg = 34.5245
+----------------------------- 54---------------------------------------
+
+
+bs:   1
+MaxMag= 37.0169   MinMag= 18.7614    Ak= 18.2554
+Avg = 32.444
+bs:   2
+MaxMag= 37.5674   MinMag= 23.9806    Ak= 13.5868
+Avg = 33.8696
+bs:   3
+MaxMag= 35.9295   MinMag= 27.9531    Ak= 7.97638
+Avg = 33.3235
+bs:   4
+MaxMag= 36.5336   MinMag= 30.6845    Ak= 5.84907
+Avg = 33.9704
+bs:   5
+MaxMag= 36.371   MinMag= 31.653    Ak= 4.71793
+Avg = 34.2591
+bs:   6
+MaxMag= 36.1194   MinMag= 32.4722    Ak= 3.64728
+Avg = 34.5109
+bs:   7
+MaxMag= 36.1749   MinMag= 32.4249    Ak= 3.75002
+Avg = 34.3973
+bs:   8
+MaxMag= 35.8193   MinMag= 31.7334    Ak= 4.08589
+Avg = 34.369
+bs:   9
+MaxMag= 35.7559   MinMag= 32.8032    Ak= 2.95272
+Avg = 34.3011
+bs:   10
+MaxMag= 35.7864   MinMag= 33.4649    Ak= 2.32153
+Avg = 34.5245
+----------------------------- 54.1---------------------------------------
+
+
+bs:   1
+MaxMag= 37.0169   MinMag= 18.7614    Ak= 18.2554
+Avg = 32.444
+bs:   2
+MaxMag= 37.5674   MinMag= 23.9806    Ak= 13.5868
+Avg = 33.8696
+bs:   3
+MaxMag= 36.5899   MinMag= 28.0939    Ak= 8.49606
+Avg = 33.5176
+bs:   4
+MaxMag= 36.5412   MinMag= 29.8127    Ak= 6.7285
+Avg = 34.0008
+bs:   5
+MaxMag= 36.371   MinMag= 31.653    Ak= 4.71793
+Avg = 34.2591
+bs:   6
+MaxMag= 36.1194   MinMag= 32.4722    Ak= 3.64728
+Avg = 34.5109
+bs:   7
+MaxMag= 36.3991   MinMag= 32.914    Ak= 3.48512
+Avg = 34.633
+bs:   8
+MaxMag= 36.2298   MinMag= 31.998    Ak= 4.23181
+Avg = 34.4584
+bs:   9
+MaxMag= 35.7559   MinMag= 32.8032    Ak= 2.95272
+Avg = 34.3011
+bs:   10
+MaxMag= 35.7864   MinMag= 33.4649    Ak= 2.32153
+Avg = 34.5245
+----------------------------- 54.2---------------------------------------
+
+
+bs:   1
+MaxMag= 37.0169   MinMag= 18.7614    Ak= 18.2554
+Avg = 32.444
+bs:   2
+MaxMag= 37.5674   MinMag= 23.9806    Ak= 13.5868
+Avg = 33.8696
+bs:   3
+MaxMag= 36.5899   MinMag= 28.0939    Ak= 8.49606
+Avg = 33.5176
+bs:   4
+MaxMag= 36.1073   MinMag= 30.2906    Ak= 5.81675
+Avg = 33.947
+bs:   5
+MaxMag= 36.371   MinMag= 31.653    Ak= 4.71793
+Avg = 34.2591
+bs:   6
+MaxMag= 36.1194   MinMag= 32.4722    Ak= 3.64728
+Avg = 34.5109
+bs:   7
+MaxMag= 36.2322   MinMag= 32.055    Ak= 4.17721
+Avg = 34.5665
+bs:   8
+MaxMag= 36.2298   MinMag= 31.998    Ak= 4.23181
+Avg = 34.4584
+bs:   9
+MaxMag= 35.7559   MinMag= 32.8032    Ak= 2.95272
+Avg = 34.3011
+bs:   10
+MaxMag= 35.7864   MinMag= 33.4649    Ak= 2.32153
+Avg = 34.5245
+----------------------------- 54.3---------------------------------------
+
+
+bs:   1
+MaxMag= 37.0169   MinMag= 18.7614    Ak= 18.2554
+Avg = 32.444
+bs:   2
+MaxMag= 37.5674   MinMag= 23.9806    Ak= 13.5868
+Avg = 33.8696
+bs:   3
+MaxMag= 36.5899   MinMag= 28.0939    Ak= 8.49606
+Avg = 33.5176
+bs:   4
+MaxMag= 36.1073   MinMag= 30.2906    Ak= 5.81675
+Avg = 33.947
+bs:   5
+MaxMag= 36.2677   MinMag= 32.2734    Ak= 3.9943
+Avg = 34.4559
+bs:   6
+MaxMag= 36.1194   MinMag= 32.4722    Ak= 3.64728
+Avg = 34.5109
+bs:   7
+MaxMag= 36.175   MinMag= 32.5916    Ak= 3.58338
+Avg = 34.6021
+bs:   8
+MaxMag= 35.9226   MinMag= 32.5257    Ak= 3.39693
+Avg = 34.621
+bs:   9
+MaxMag= 35.8344   MinMag= 31.8294    Ak= 4.005
+Avg = 34.5644
+bs:   10
+MaxMag= 35.7476   MinMag= 32.8599    Ak= 2.88769
+Avg = 34.6779
+----------------------------- 54.4---------------------------------------
+
+
+bs:   1
+MaxMag= 37.0169   MinMag= 18.7614    Ak= 18.2554
+Avg = 32.444
+bs:   2
+MaxMag= 37.5674   MinMag= 23.9806    Ak= 13.5868
+Avg = 33.8696
+bs:   3
+MaxMag= 36.1146   MinMag= 25.8171    Ak= 10.2975
+Avg = 33.4321
+bs:   4
+MaxMag= 36.1073   MinMag= 30.2906    Ak= 5.81675
+Avg = 33.947
+bs:   5
+MaxMag= 36.2677   MinMag= 32.2734    Ak= 3.9943
+Avg = 34.4559
+bs:   6
+MaxMag= 36.1194   MinMag= 32.4722    Ak= 3.64728
+Avg = 34.5109
+bs:   7
+MaxMag= 36.175   MinMag= 32.5916    Ak= 3.58338
+Avg = 34.6021
+bs:   8
+MaxMag= 35.9226   MinMag= 32.5257    Ak= 3.39693
+Avg = 34.621
+bs:   9
+MaxMag= 35.8344   MinMag= 31.8294    Ak= 4.005
+Avg = 34.5644
+bs:   10
+MaxMag= 35.8749   MinMag= 33.0851    Ak= 2.78981
+Avg = 34.5473
+----------------------------- 54.5---------------------------------------
+
+
+bs:   1
+MaxMag= 37.0169   MinMag= 18.7614    Ak= 18.2554
+Avg = 32.444
+bs:   2
+MaxMag= 37.5674   MinMag= 23.9806    Ak= 13.5868
+Avg = 33.8696
+bs:   3
+MaxMag= 36.1146   MinMag= 25.8171    Ak= 10.2975
+Avg = 33.4321
+bs:   4
+MaxMag= 36.8478   MinMag= 30.7756    Ak= 6.07217
+Avg = 34.2162
+bs:   5
+MaxMag= 36.2677   MinMag= 32.2734    Ak= 3.9943
+Avg = 34.4559
+bs:   6
+MaxMag= 36.9517   MinMag= 32.2794    Ak= 4.67226
+Avg = 34.4947
+bs:   7
+MaxMag= 36.1684   MinMag= 31.5798    Ak= 4.58853
+Avg = 34.6101
+bs:   8
+MaxMag= 35.9226   MinMag= 32.5257    Ak= 3.39693
+Avg = 34.621
+bs:   9
+MaxMag= 35.8344   MinMag= 31.8294    Ak= 4.005
+Avg = 34.5644
+bs:   10
+MaxMag= 35.8749   MinMag= 33.0851    Ak= 2.78981
+Avg = 34.5473
+----------------------------- 54.6---------------------------------------
+
+
+bs:   1
+MaxMag= 37.823   MinMag= 22.7032    Ak= 15.1198
+Avg = 32.5166
+bs:   2
+MaxMag= 37.8114   MinMag= 28.1128    Ak= 9.69857
+Avg = 33.9883
+bs:   3
+MaxMag= 36.1146   MinMag= 25.8171    Ak= 10.2975
+Avg = 33.4321
+bs:   4
+MaxMag= 36.1251   MinMag= 31.7288    Ak= 4.39636
+Avg = 34.2158
+bs:   5
+MaxMag= 36.7599   MinMag= 31.7739    Ak= 4.98598
+Avg = 34.4309
+bs:   6
+MaxMag= 36.2308   MinMag= 32.4306    Ak= 3.80021
+Avg = 34.5108
+bs:   7
+MaxMag= 36.1684   MinMag= 31.5798    Ak= 4.58853
+Avg = 34.6101
+bs:   8
+MaxMag= 35.9226   MinMag= 32.5257    Ak= 3.39693
+Avg = 34.621
+bs:   9
+MaxMag= 36.0217   MinMag= 33.258    Ak= 2.76372
+Avg = 34.6235
+bs:   10
+MaxMag= 35.8749   MinMag= 33.0851    Ak= 2.78981
+Avg = 34.5473
+----------------------------- 54.7---------------------------------------
+
+
+bs:   1
+MaxMag= 37.823   MinMag= 22.7032    Ak= 15.1198
+Avg = 32.5166
+bs:   2
+MaxMag= 37.8114   MinMag= 28.1128    Ak= 9.69857
+Avg = 33.9883
+bs:   3
+MaxMag= 36.3964   MinMag= 28.0693    Ak= 8.32702
+Avg = 33.5452
+bs:   4
+MaxMag= 36.2441   MinMag= 30.6593    Ak= 5.58474
+Avg = 34.088
+bs:   5
+MaxMag= 36.5819   MinMag= 31.2577    Ak= 5.32424
+Avg = 34.4755
+bs:   6
+MaxMag= 36.71   MinMag= 32.0721    Ak= 4.63781
+Avg = 34.5578
+bs:   7
+MaxMag= 36.3405   MinMag= 32.5878    Ak= 3.75263
+Avg = 34.6783
+bs:   8
+MaxMag= 36.1677   MinMag= 32.6193    Ak= 3.54837
+Avg = 34.6561
+bs:   9
+MaxMag= 36.0205   MinMag= 33.2603    Ak= 2.76015
+Avg = 34.6236
+bs:   10
+MaxMag= 35.8749   MinMag= 33.0851    Ak= 2.78981
+Avg = 34.5473
+----------------------------- 54.8---------------------------------------
+
+
+bs:   1
+MaxMag= 37.823   MinMag= 22.7032    Ak= 15.1198
+Avg = 32.5166
+bs:   2
+MaxMag= 37.8114   MinMag= 28.1128    Ak= 9.69857
+Avg = 33.9883
+bs:   3
+MaxMag= 36.4163   MinMag= 28.9268    Ak= 7.48954
+Avg = 33.584
+bs:   4
+MaxMag= 36.8186   MinMag= 30.2157    Ak= 6.60295
+Avg = 34.1941
+bs:   5
+MaxMag= 36.5819   MinMag= 31.2577    Ak= 5.32424
+Avg = 34.4755
+bs:   6
+MaxMag= 36.0643   MinMag= 32.5205    Ak= 3.54387
+Avg = 34.5184
+bs:   7
+MaxMag= 36.175   MinMag= 32.5916    Ak= 3.58338
+Avg = 34.6021
+bs:   8
+MaxMag= 36.4017   MinMag= 33.024    Ak= 3.37769
+Avg = 34.7071
+bs:   9
+MaxMag= 36.0205   MinMag= 33.2603    Ak= 2.76015
+Avg = 34.6236
+bs:   10
+MaxMag= 35.9066   MinMag= 32.7855    Ak= 3.12114
+Avg = 34.5451
+----------------------------- 54.9---------------------------------------
+
+
+bs:   1
+MaxMag= 37.823   MinMag= 22.7032    Ak= 15.1198
+Avg = 32.5166
+bs:   2
+MaxMag= 38.0067   MinMag= 27.6366    Ak= 10.3701
+Avg = 33.9685
+bs:   3
+MaxMag= 36.4163   MinMag= 28.9268    Ak= 7.48954
+Avg = 33.584
+bs:   4
+MaxMag= 36.2369   MinMag= 30.3673    Ak= 5.86967
+Avg = 34.2611
+bs:   5
+MaxMag= 36.0606   MinMag= 32.2297    Ak= 3.83093
+Avg = 34.4615
+bs:   6
+MaxMag= 36.3915   MinMag= 32.3267    Ak= 4.06487
+Avg = 34.7369
+bs:   7
+MaxMag= 37.2415   MinMag= 32.9255    Ak= 4.31593
+Avg = 34.7965
+bs:   8
+MaxMag= 36.4017   MinMag= 33.024    Ak= 3.37769
+Avg = 34.7071
+bs:   9
+MaxMag= 36.0205   MinMag= 33.2603    Ak= 2.76015
+Avg = 34.6236
+bs:   10
+MaxMag= 35.7487   MinMag= 33.1508    Ak= 2.59781
+Avg = 34.4868
+----------------------------- 55---------------------------------------
+
+
+bs:   1
+MaxMag= 37.3414   MinMag= 24.4908    Ak= 12.8506
+Avg = 32.4903
+bs:   2
+MaxMag= 37.5674   MinMag= 23.9806    Ak= 13.5868
+Avg = 33.8696
+bs:   3
+MaxMag= 36.4163   MinMag= 28.9268    Ak= 7.48954
+Avg = 33.584
+bs:   4
+MaxMag= 36.5377   MinMag= 30.791    Ak= 5.74671
+Avg = 34.3702
+bs:   5
+MaxMag= 36.3445   MinMag= 31.7415    Ak= 4.60304
+Avg = 34.6958
+bs:   6
+MaxMag= 36.3324   MinMag= 31.9645    Ak= 4.36788
+Avg = 34.5692
+bs:   7
+MaxMag= 37.4907   MinMag= 32.9607    Ak= 4.52996
+Avg = 34.711
+bs:   8
+MaxMag= 36.4017   MinMag= 33.024    Ak= 3.37769
+Avg = 34.7071
+bs:   9
+MaxMag= 36.2386   MinMag= 32.8241    Ak= 3.41455
+Avg = 34.552
+bs:   10
+MaxMag= 35.7487   MinMag= 33.1508    Ak= 2.59781
+Avg = 34.4868
+----------------------------- 55.1---------------------------------------
+
+
+bs:   1
+MaxMag= 37.3414   MinMag= 24.4908    Ak= 12.8506
+Avg = 32.4903
+bs:   2
+MaxMag= 37.5674   MinMag= 23.9806    Ak= 13.5868
+Avg = 33.8696
+bs:   3
+MaxMag= 36.4163   MinMag= 28.9268    Ak= 7.48954
+Avg = 33.584
+bs:   4
+MaxMag= 36.5377   MinMag= 30.791    Ak= 5.74671
+Avg = 34.3702
+bs:   5
+MaxMag= 36.3445   MinMag= 31.7415    Ak= 4.60304
+Avg = 34.6958
+bs:   6
+MaxMag= 36.3157   MinMag= 32.8169    Ak= 3.49885
+Avg = 34.6867
+bs:   7
+MaxMag= 36.032   MinMag= 32.532    Ak= 3.50003
+Avg = 34.5618
+bs:   8
+MaxMag= 36.4017   MinMag= 33.024    Ak= 3.37769
+Avg = 34.7071
+bs:   9
+MaxMag= 36.2386   MinMag= 32.8241    Ak= 3.41455
+Avg = 34.552
+bs:   10
+MaxMag= 35.7487   MinMag= 33.1508    Ak= 2.59781
+Avg = 34.4868
+----------------------------- 55.2---------------------------------------
+
+
+bs:   1
+MaxMag= 37.3414   MinMag= 24.4908    Ak= 12.8506
+Avg = 32.4903
+bs:   2
+MaxMag= 37.5674   MinMag= 23.9806    Ak= 13.5868
+Avg = 33.8696
+bs:   3
+MaxMag= 36.4163   MinMag= 28.9268    Ak= 7.48954
+Avg = 33.584
+bs:   4
+MaxMag= 36.5377   MinMag= 30.791    Ak= 5.74671
+Avg = 34.3702
+bs:   5
+MaxMag= 36.3445   MinMag= 31.7415    Ak= 4.60304
+Avg = 34.6958
+bs:   6
+MaxMag= 36.3157   MinMag= 32.8169    Ak= 3.49885
+Avg = 34.6867
+bs:   7
+MaxMag= 36.23   MinMag= 33.043    Ak= 3.18696
+Avg = 34.6907
+bs:   8
+MaxMag= 36.4017   MinMag= 33.024    Ak= 3.37769
+Avg = 34.7071
+bs:   9
+MaxMag= 36.2386   MinMag= 32.8241    Ak= 3.41455
+Avg = 34.552
+bs:   10
+MaxMag= 35.9699   MinMag= 33.1919    Ak= 2.778
+Avg = 34.7753
+----------------------------- 55.3---------------------------------------
+
+
+bs:   1
+MaxMag= 37.9553   MinMag= 24.1217    Ak= 13.8337
+Avg = 32.5342
+bs:   2
+MaxMag= 37.5674   MinMag= 23.9806    Ak= 13.5868
+Avg = 33.8696
+bs:   3
+MaxMag= 36.6166   MinMag= 29.1697    Ak= 7.44683
+Avg = 33.6877
+bs:   4
+MaxMag= 36.5377   MinMag= 30.791    Ak= 5.74671
+Avg = 34.3702
+bs:   5
+MaxMag= 36.569   MinMag= 32.1116    Ak= 4.45738
+Avg = 34.7109
+bs:   6
+MaxMag= 36.3157   MinMag= 32.8169    Ak= 3.49885
+Avg = 34.6867
+bs:   7
+MaxMag= 36.23   MinMag= 33.043    Ak= 3.18696
+Avg = 34.6907
+bs:   8
+MaxMag= 36.4017   MinMag= 33.024    Ak= 3.37769
+Avg = 34.7071
+bs:   9
+MaxMag= 36.2386   MinMag= 32.8241    Ak= 3.41455
+Avg = 34.552
+bs:   10
+MaxMag= 35.946   MinMag= 32.7682    Ak= 3.17778
+Avg = 34.729
+----------------------------- 55.4---------------------------------------
+
+
+bs:   1
+MaxMag= 37.9553   MinMag= 24.1217    Ak= 13.8337
+Avg = 32.5342
+bs:   2
+MaxMag= 37.7287   MinMag= 25.3666    Ak= 12.3621
+Avg = 34.0191
+bs:   3
+MaxMag= 36.6166   MinMag= 29.1697    Ak= 7.44683
+Avg = 33.6877
+bs:   4
+MaxMag= 36.5377   MinMag= 30.791    Ak= 5.74671
+Avg = 34.3702
+bs:   5
+MaxMag= 36.569   MinMag= 32.1116    Ak= 4.45738
+Avg = 34.7109
+bs:   6
+MaxMag= 36.3157   MinMag= 32.8169    Ak= 3.49885
+Avg = 34.6867
+bs:   7
+MaxMag= 36.4792   MinMag= 33.0273    Ak= 3.45189
+Avg = 34.713
+bs:   8
+MaxMag= 36.4017   MinMag= 33.024    Ak= 3.37769
+Avg = 34.7071
+bs:   9
+MaxMag= 36.2386   MinMag= 32.8241    Ak= 3.41455
+Avg = 34.552
+bs:   10
+MaxMag= 35.946   MinMag= 32.7682    Ak= 3.17778
+Avg = 34.729
+----------------------------- 55.5---------------------------------------
+
+
+bs:   1
+MaxMag= 37.4021   MinMag= 20.4556    Ak= 16.9465
+Avg = 32.7347
+bs:   2
+MaxMag= 37.7287   MinMag= 25.3666    Ak= 12.3621
+Avg = 34.0191
+bs:   3
+MaxMag= 36.6716   MinMag= 28.521    Ak= 8.15063
+Avg = 33.6337
+bs:   4
+MaxMag= 36.9221   MinMag= 31.0883    Ak= 5.83382
+Avg = 34.311
+bs:   5
+MaxMag= 36.569   MinMag= 32.1116    Ak= 4.45738
+Avg = 34.7109
+bs:   6
+MaxMag= 36.3157   MinMag= 32.8169    Ak= 3.49885
+Avg = 34.6867
+bs:   7
+MaxMag= 36.4792   MinMag= 33.0273    Ak= 3.45189
+Avg = 34.713
+bs:   8
+MaxMag= 36.5144   MinMag= 33.1604    Ak= 3.35405
+Avg = 34.8683
+bs:   9
+MaxMag= 36.2386   MinMag= 32.8241    Ak= 3.41455
+Avg = 34.552
+bs:   10
+MaxMag= 35.946   MinMag= 32.7682    Ak= 3.17778
+Avg = 34.729
+----------------------------- 55.6---------------------------------------
+
+
+bs:   1
+MaxMag= 37.6749   MinMag= 25.4291    Ak= 12.2458
+Avg = 32.4921
+bs:   2
+MaxMag= 38.0413   MinMag= 27.1694    Ak= 10.8719
+Avg = 34.0181
+bs:   3
+MaxMag= 36.3322   MinMag= 28.6956    Ak= 7.63657
+Avg = 33.6944
+bs:   4
+MaxMag= 36.3966   MinMag= 30.3544    Ak= 6.0422
+Avg = 34.2163
+bs:   5
+MaxMag= 36.569   MinMag= 32.1116    Ak= 4.45738
+Avg = 34.7109
+bs:   6
+MaxMag= 36.3157   MinMag= 32.8169    Ak= 3.49885
+Avg = 34.6867
+bs:   7
+MaxMag= 36.4792   MinMag= 33.0273    Ak= 3.45189
+Avg = 34.713
+bs:   8
+MaxMag= 36.3673   MinMag= 33.2104    Ak= 3.15698
+Avg = 34.7499
+bs:   9
+MaxMag= 35.9992   MinMag= 33.1907    Ak= 2.80842
+Avg = 34.8804
+bs:   10
+MaxMag= 35.946   MinMag= 32.7682    Ak= 3.17778
+Avg = 34.729
+----------------------------- 55.7---------------------------------------
+
+
+bs:   1
+MaxMag= 37.6749   MinMag= 25.4291    Ak= 12.2458
+Avg = 32.4921
+bs:   2
+MaxMag= 38.0413   MinMag= 27.1694    Ak= 10.8719
+Avg = 34.0181
+bs:   3
+MaxMag= 36.9147   MinMag= 29.2891    Ak= 7.62561
+Avg = 33.7661
+bs:   4
+MaxMag= 36.3966   MinMag= 30.3544    Ak= 6.0422
+Avg = 34.2163
+bs:   5
+MaxMag= 36.569   MinMag= 32.1116    Ak= 4.45738
+Avg = 34.7109
+bs:   6
+MaxMag= 36.3157   MinMag= 32.8169    Ak= 3.49885
+Avg = 34.6867
+bs:   7
+MaxMag= 36.4792   MinMag= 33.0273    Ak= 3.45189
+Avg = 34.713
+bs:   8
+MaxMag= 36.3675   MinMag= 33.2095    Ak= 3.15801
+Avg = 34.7499
+bs:   9
+MaxMag= 36.4577   MinMag= 33.4809    Ak= 2.9768
+Avg = 34.9309
+bs:   10
+MaxMag= 36.2447   MinMag= 33.4057    Ak= 2.83908
+Avg = 34.8265
+----------------------------- 55.8---------------------------------------
+
+
+bs:   1
+MaxMag= 37.6749   MinMag= 25.4291    Ak= 12.2458
+Avg = 32.4921
+bs:   2
+MaxMag= 38.0413   MinMag= 27.1694    Ak= 10.8719
+Avg = 34.0181
+bs:   3
+MaxMag= 36.9147   MinMag= 29.2891    Ak= 7.62561
+Avg = 33.7661
+bs:   4
+MaxMag= 36.3966   MinMag= 30.3544    Ak= 6.0422
+Avg = 34.2163
+bs:   5
+MaxMag= 36.6392   MinMag= 31.6937    Ak= 4.94555
+Avg = 34.7926
+bs:   6
+MaxMag= 36.3157   MinMag= 32.8169    Ak= 3.49885
+Avg = 34.6867
+bs:   7
+MaxMag= 36.4792   MinMag= 33.0273    Ak= 3.45189
+Avg = 34.713
+bs:   8
+MaxMag= 36.3675   MinMag= 33.2095    Ak= 3.15801
+Avg = 34.7499
+bs:   9
+MaxMag= 36.4577   MinMag= 33.4809    Ak= 2.9768
+Avg = 34.9309
+bs:   10
+MaxMag= 36.2447   MinMag= 33.4057    Ak= 2.83908
+Avg = 34.8265
+----------------------------- 55.9---------------------------------------
+
+
+bs:   1
+MaxMag= 36.587   MinMag= 22.9641    Ak= 13.623
+Avg = 32.5597
+bs:   2
+MaxMag= 38.0413   MinMag= 27.1694    Ak= 10.8719
+Avg = 34.0181
+bs:   3
+MaxMag= 36.9147   MinMag= 29.2891    Ak= 7.62561
+Avg = 33.7661
+bs:   4
+MaxMag= 36.9238   MinMag= 31.0895    Ak= 5.83428
+Avg = 34.3112
+bs:   5
+MaxMag= 36.6392   MinMag= 31.6937    Ak= 4.94555
+Avg = 34.7926
+bs:   6
+MaxMag= 36.3157   MinMag= 32.8169    Ak= 3.49885
+Avg = 34.6867
+bs:   7
+MaxMag= 36.4792   MinMag= 33.0273    Ak= 3.45189
+Avg = 34.713
+bs:   8
+MaxMag= 36.2654   MinMag= 33.2228    Ak= 3.04252
+Avg = 34.6392
+bs:   9
+MaxMag= 36.4044   MinMag= 33.6815    Ak= 2.72294
+Avg = 34.8814
+bs:   10
+MaxMag= 36.2447   MinMag= 33.4057    Ak= 2.83908
+Avg = 34.8265
+----------------------------- 56---------------------------------------
+
+
+bs:   1
+MaxMag= 36.587   MinMag= 22.9641    Ak= 13.623
+Avg = 32.5597
+bs:   2
+MaxMag= 38.0413   MinMag= 27.1694    Ak= 10.8719
+Avg = 34.0181
+bs:   3
+MaxMag= 36.9147   MinMag= 29.2891    Ak= 7.62561
+Avg = 33.7661
+bs:   4
+MaxMag= 36.9238   MinMag= 31.0895    Ak= 5.83428
+Avg = 34.3112
+bs:   5
+MaxMag= 36.569   MinMag= 32.1116    Ak= 4.45738
+Avg = 34.7109
+bs:   6
+MaxMag= 36.5581   MinMag= 32.1821    Ak= 4.37604
+Avg = 34.6166
+bs:   7
+MaxMag= 36.4792   MinMag= 33.0273    Ak= 3.45189
+Avg = 34.713
+bs:   8
+MaxMag= 36.2654   MinMag= 33.2228    Ak= 3.04252
+Avg = 34.6392
+bs:   9
+MaxMag= 36.4044   MinMag= 33.6815    Ak= 2.72294
+Avg = 34.8814
+bs:   10
+MaxMag= 36.0379   MinMag= 33.2619    Ak= 2.77591
+Avg = 34.8963
+----------------------------- 56.1---------------------------------------
+
+
+bs:   1
+MaxMag= 36.587   MinMag= 22.9641    Ak= 13.623
+Avg = 32.5597
+bs:   2
+MaxMag= 38.0413   MinMag= 27.1694    Ak= 10.8719
+Avg = 34.0181
+bs:   3
+MaxMag= 36.8046   MinMag= 26.9891    Ak= 9.8155
+Avg = 34.1115
+bs:   4
+MaxMag= 36.9238   MinMag= 31.0895    Ak= 5.83428
+Avg = 34.3112
+bs:   5
+MaxMag= 36.569   MinMag= 32.1116    Ak= 4.45738
+Avg = 34.7109
+bs:   6
+MaxMag= 36.5581   MinMag= 32.1821    Ak= 4.37604
+Avg = 34.6166
+bs:   7
+MaxMag= 36.7386   MinMag= 32.7232    Ak= 4.01542
+Avg = 34.7746
+bs:   8
+MaxMag= 36.8959   MinMag= 33.4493    Ak= 3.44658
+Avg = 34.8188
+bs:   9
+MaxMag= 36.4044   MinMag= 33.6815    Ak= 2.72294
+Avg = 34.8814
+bs:   10
+MaxMag= 36.0379   MinMag= 33.2619    Ak= 2.77591
+Avg = 34.8963
+----------------------------- 56.2---------------------------------------
+
+
+bs:   1
+MaxMag= 36.587   MinMag= 22.9641    Ak= 13.623
+Avg = 32.5597
+bs:   2
+MaxMag= 38.0413   MinMag= 27.1694    Ak= 10.8719
+Avg = 34.0181
+bs:   3
+MaxMag= 36.8051   MinMag= 26.994    Ak= 9.811
+Avg = 34.1121
+bs:   4
+MaxMag= 37.1485   MinMag= 31.5347    Ak= 5.61382
+Avg = 34.4356
+bs:   5
+MaxMag= 36.569   MinMag= 32.1116    Ak= 4.45738
+Avg = 34.7109
+bs:   6
+MaxMag= 36.5581   MinMag= 32.1821    Ak= 4.37604
+Avg = 34.6166
+bs:   7
+MaxMag= 36.7386   MinMag= 32.7232    Ak= 4.01542
+Avg = 34.7746
+bs:   8
+MaxMag= 36.8959   MinMag= 33.4493    Ak= 3.44658
+Avg = 34.8188
+bs:   9
+MaxMag= 36.4044   MinMag= 33.6815    Ak= 2.72294
+Avg = 34.8814
+bs:   10
+MaxMag= 36.0379   MinMag= 33.2619    Ak= 2.77591
+Avg = 34.8963
+----------------------------- 56.3---------------------------------------
+
+
+bs:   1
+MaxMag= 36.587   MinMag= 22.9641    Ak= 13.623
+Avg = 32.5597
+bs:   2
+MaxMag= 38.0413   MinMag= 27.1694    Ak= 10.8719
+Avg = 34.0181
+bs:   3
+MaxMag= 36.8051   MinMag= 26.994    Ak= 9.811
+Avg = 34.1121
+bs:   4
+MaxMag= 37.1485   MinMag= 31.5347    Ak= 5.61382
+Avg = 34.4356
+bs:   5
+MaxMag= 36.569   MinMag= 32.1116    Ak= 4.45738
+Avg = 34.7109
+bs:   6
+MaxMag= 36.8294   MinMag= 32.3866    Ak= 4.44278
+Avg = 34.7564
+bs:   7
+MaxMag= 36.8069   MinMag= 33.1219    Ak= 3.68502
+Avg = 34.7945
+bs:   8
+MaxMag= 36.8959   MinMag= 33.4493    Ak= 3.44658
+Avg = 34.8188
+bs:   9
+MaxMag= 36.5445   MinMag= 33.6643    Ak= 2.88017
+Avg = 34.9573
+bs:   10
+MaxMag= 36.0379   MinMag= 33.2619    Ak= 2.77591
+Avg = 34.8963
+----------------------------- 56.4---------------------------------------
+
+
+bs:   1
+MaxMag= 36.587   MinMag= 22.9641    Ak= 13.623
+Avg = 32.5597
+bs:   2
+MaxMag= 37.6495   MinMag= 27.8434    Ak= 9.80612
+Avg = 33.9741
+bs:   3
+MaxMag= 36.8051   MinMag= 26.994    Ak= 9.811
+Avg = 34.1121
+bs:   4
+MaxMag= 37.1485   MinMag= 31.5347    Ak= 5.61382
+Avg = 34.4356
+bs:   5
+MaxMag= 36.569   MinMag= 32.1116    Ak= 4.45738
+Avg = 34.7109
+bs:   6
+MaxMag= 36.8294   MinMag= 32.3866    Ak= 4.44278
+Avg = 34.7564
+bs:   7
+MaxMag= 36.8069   MinMag= 33.1219    Ak= 3.68502
+Avg = 34.7945
+bs:   8
+MaxMag= 36.8282   MinMag= 33.3953    Ak= 3.43284
+Avg = 34.9385
+bs:   9
+MaxMag= 36.5445   MinMag= 33.6643    Ak= 2.88017
+Avg = 34.9573
+bs:   10
+MaxMag= 36.2503   MinMag= 33.3098    Ak= 2.94051
+Avg = 34.8513
+----------------------------- 56.5---------------------------------------
+
+
+bs:   1
+MaxMag= 37.0106   MinMag= 21.712    Ak= 15.2987
+Avg = 32.6896
+bs:   2
+MaxMag= 37.8948   MinMag= 27.9176    Ak= 9.97722
+Avg = 34.0432
+bs:   3
+MaxMag= 37.0345   MinMag= 26.6287    Ak= 10.4057
+Avg = 34.164
+bs:   4
+MaxMag= 36.6328   MinMag= 31.2964    Ak= 5.33639
+Avg = 34.4294
+bs:   5
+MaxMag= 36.569   MinMag= 32.1116    Ak= 4.45738
+Avg = 34.7109
+bs:   6
+MaxMag= 36.7727   MinMag= 32.5446    Ak= 4.22813
+Avg = 34.8268
+bs:   7
+MaxMag= 36.8069   MinMag= 33.1219    Ak= 3.68502
+Avg = 34.7945
+bs:   8
+MaxMag= 36.6459   MinMag= 32.891    Ak= 3.75498
+Avg = 34.7516
+bs:   9
+MaxMag= 36.5445   MinMag= 33.6643    Ak= 2.88017
+Avg = 34.9573
+bs:   10
+MaxMag= 36.4079   MinMag= 33.0136    Ak= 3.39425
+Avg = 35.0971
+----------------------------- 56.6---------------------------------------
+
+
+bs:   1
+MaxMag= 37.0106   MinMag= 21.712    Ak= 15.2987
+Avg = 32.6896
+bs:   2
+MaxMag= 37.8948   MinMag= 27.9176    Ak= 9.97722
+Avg = 34.0432
+bs:   3
+MaxMag= 37.1275   MinMag= 26.0495    Ak= 11.078
+Avg = 34.1863
+bs:   4
+MaxMag= 36.8033   MinMag= 31.1259    Ak= 5.6774
+Avg = 34.3593
+bs:   5
+MaxMag= 36.4608   MinMag= 31.3349    Ak= 5.12588
+Avg = 34.5656
+bs:   6
+MaxMag= 36.7727   MinMag= 32.5446    Ak= 4.22813
+Avg = 34.8268
+bs:   7
+MaxMag= 36.8069   MinMag= 33.1219    Ak= 3.68502
+Avg = 34.7945
+bs:   8
+MaxMag= 36.6459   MinMag= 32.891    Ak= 3.75498
+Avg = 34.7516
+bs:   9
+MaxMag= 36.5445   MinMag= 33.6643    Ak= 2.88017
+Avg = 34.9573
+bs:   10
+MaxMag= 36.4079   MinMag= 33.0136    Ak= 3.39425
+Avg = 35.0971
+----------------------------- 56.7---------------------------------------
+
+
+bs:   1
+MaxMag= 37.0106   MinMag= 21.712    Ak= 15.2987
+Avg = 32.6896
+bs:   2
+MaxMag= 37.4407   MinMag= 26.3413    Ak= 11.0994
+Avg = 33.8707
+bs:   3
+MaxMag= 36.9708   MinMag= 26.4709    Ak= 10.4999
+Avg = 33.8466
+bs:   4
+MaxMag= 36.8033   MinMag= 31.1259    Ak= 5.6774
+Avg = 34.3593
+bs:   5
+MaxMag= 36.5883   MinMag= 31.5143    Ak= 5.07399
+Avg = 34.6461
+bs:   6
+MaxMag= 36.7244   MinMag= 32.2091    Ak= 4.51532
+Avg = 34.6908
+bs:   7
+MaxMag= 36.8069   MinMag= 33.1219    Ak= 3.68502
+Avg = 34.7945
+bs:   8
+MaxMag= 36.6459   MinMag= 32.891    Ak= 3.75498
+Avg = 34.7516
+bs:   9
+MaxMag= 36.5445   MinMag= 33.6643    Ak= 2.88017
+Avg = 34.9573
+bs:   10
+MaxMag= 36.4079   MinMag= 33.0136    Ak= 3.39425
+Avg = 35.0971
+----------------------------- 56.8---------------------------------------
+
+
+bs:   1
+MaxMag= 37.175   MinMag= 23.5608    Ak= 13.6141
+Avg = 32.6726
+bs:   2
+MaxMag= 37.4407   MinMag= 26.3413    Ak= 11.0994
+Avg = 33.8707
+bs:   3
+MaxMag= 36.9708   MinMag= 26.4709    Ak= 10.4999
+Avg = 33.8466
+bs:   4
+MaxMag= 37.0692   MinMag= 31.2025    Ak= 5.86671
+Avg = 34.4656
+bs:   5
+MaxMag= 36.5883   MinMag= 31.5143    Ak= 5.07399
+Avg = 34.6461
+bs:   6
+MaxMag= 36.7244   MinMag= 32.2091    Ak= 4.51532
+Avg = 34.6908
+bs:   7
+MaxMag= 36.8069   MinMag= 33.1219    Ak= 3.68502
+Avg = 34.7945
+bs:   8
+MaxMag= 36.6459   MinMag= 32.891    Ak= 3.75498
+Avg = 34.7516
+bs:   9
+MaxMag= 36.5445   MinMag= 33.6643    Ak= 2.88017
+Avg = 34.9573
+bs:   10
+MaxMag= 36.4079   MinMag= 33.0136    Ak= 3.39425
+Avg = 35.0971
+----------------------------- 56.9---------------------------------------
+
+
+bs:   1
+MaxMag= 37.175   MinMag= 23.5608    Ak= 13.6141
+Avg = 32.6726
+bs:   2
+MaxMag= 37.5953   MinMag= 27.154    Ak= 10.4413
+Avg = 33.8159
+bs:   3
+MaxMag= 36.3634   MinMag= 26.6083    Ak= 9.75509
+Avg = 33.7748
+bs:   4
+MaxMag= 37.0692   MinMag= 31.2025    Ak= 5.86671
+Avg = 34.4656
+bs:   5
+MaxMag= 36.4819   MinMag= 32.2889    Ak= 4.19294
+Avg = 34.8513
+bs:   6
+MaxMag= 36.7244   MinMag= 32.2091    Ak= 4.51532
+Avg = 34.6908
+bs:   7
+MaxMag= 36.8069   MinMag= 33.1219    Ak= 3.68502
+Avg = 34.7945
+bs:   8
+MaxMag= 36.6459   MinMag= 32.891    Ak= 3.75498
+Avg = 34.7516
+bs:   9
+MaxMag= 36.5445   MinMag= 33.6643    Ak= 2.88017
+Avg = 34.9573
+bs:   10
+MaxMag= 36.4079   MinMag= 33.0136    Ak= 3.39425
+Avg = 35.0971
+----------------------------- 57---------------------------------------
+
+
+bs:   1
+MaxMag= 36.9066   MinMag= 22.8119    Ak= 14.0947
+Avg = 32.6122
+bs:   2
+MaxMag= 37.5953   MinMag= 27.154    Ak= 10.4413
+Avg = 33.8159
+bs:   3
+MaxMag= 36.3634   MinMag= 26.6083    Ak= 9.75509
+Avg = 33.7748
+bs:   4
+MaxMag= 37.0692   MinMag= 31.2025    Ak= 5.86671
+Avg = 34.4656
+bs:   5
+MaxMag= 36.7613   MinMag= 32.6518    Ak= 4.10955
+Avg = 34.881
+bs:   6
+MaxMag= 36.7244   MinMag= 32.2091    Ak= 4.51532
+Avg = 34.6908
+bs:   7
+MaxMag= 36.8069   MinMag= 33.1219    Ak= 3.68502
+Avg = 34.7945
+bs:   8
+MaxMag= 36.6459   MinMag= 32.891    Ak= 3.75498
+Avg = 34.7516
+bs:   9
+MaxMag= 36.5445   MinMag= 33.6643    Ak= 2.88017
+Avg = 34.9573
+bs:   10
+MaxMag= 36.4079   MinMag= 33.0136    Ak= 3.39425
+Avg = 35.0971
+----------------------------- 57.1---------------------------------------
+
+
+bs:   1
+MaxMag= 36.9066   MinMag= 22.8119    Ak= 14.0947
+Avg = 32.6122
+bs:   2
+MaxMag= 37.5953   MinMag= 27.154    Ak= 10.4413
+Avg = 33.8159
+bs:   3
+MaxMag= 36.7202   MinMag= 28.8411    Ak= 7.87914
+Avg = 33.8009
+bs:   4
+MaxMag= 37.0692   MinMag= 31.2025    Ak= 5.86671
+Avg = 34.4656
+bs:   5
+MaxMag= 36.9085   MinMag= 32.1524    Ak= 4.75616
+Avg = 34.79
+bs:   6
+MaxMag= 36.7244   MinMag= 32.2091    Ak= 4.51532
+Avg = 34.6908
+bs:   7
+MaxMag= 36.8069   MinMag= 33.1219    Ak= 3.68502
+Avg = 34.7945
+bs:   8
+MaxMag= 36.767   MinMag= 33.107    Ak= 3.66003
+Avg = 35.0128
+bs:   9
+MaxMag= 36.5445   MinMag= 33.6643    Ak= 2.88017
+Avg = 34.9573
+bs:   10
+MaxMag= 36.4079   MinMag= 33.0136    Ak= 3.39425
+Avg = 35.0971
+----------------------------- 57.2---------------------------------------
+
+
+bs:   1
+MaxMag= 36.9066   MinMag= 22.8119    Ak= 14.0947
+Avg = 32.6122
+bs:   2
+MaxMag= 37.5953   MinMag= 27.154    Ak= 10.4413
+Avg = 33.8159
+bs:   3
+MaxMag= 36.7202   MinMag= 28.8411    Ak= 7.87914
+Avg = 33.8009
+bs:   4
+MaxMag= 37.0692   MinMag= 31.2025    Ak= 5.86671
+Avg = 34.4656
+bs:   5
+MaxMag= 36.9085   MinMag= 32.1524    Ak= 4.75616
+Avg = 34.79
+bs:   6
+MaxMag= 36.7171   MinMag= 32.0055    Ak= 4.71162
+Avg = 34.7403
+bs:   7
+MaxMag= 36.8069   MinMag= 33.1219    Ak= 3.68502
+Avg = 34.7945
+bs:   8
+MaxMag= 36.767   MinMag= 33.107    Ak= 3.66003
+Avg = 35.0128
+bs:   9
+MaxMag= 36.6801   MinMag= 33.3568    Ak= 3.32333
+Avg = 34.9648
+bs:   10
+MaxMag= 36.0035   MinMag= 32.6519    Ak= 3.3516
+Avg = 34.8231
+----------------------------- 57.3---------------------------------------
+
+
+bs:   1
+MaxMag= 36.9066   MinMag= 22.8119    Ak= 14.0947
+Avg = 32.6122
+bs:   2
+MaxMag= 37.5953   MinMag= 27.154    Ak= 10.4413
+Avg = 33.8159
+bs:   3
+MaxMag= 37.2863   MinMag= 22.3356    Ak= 14.9507
+Avg = 34.3944
+bs:   4
+MaxMag= 37.0692   MinMag= 31.2025    Ak= 5.86671
+Avg = 34.4656
+bs:   5
+MaxMag= 36.9085   MinMag= 32.1524    Ak= 4.75616
+Avg = 34.79
+bs:   6
+MaxMag= 36.7171   MinMag= 32.0055    Ak= 4.71162
+Avg = 34.7403
+bs:   7
+MaxMag= 36.8069   MinMag= 33.1219    Ak= 3.68502
+Avg = 34.7945
+bs:   8
+MaxMag= 37.2805   MinMag= 33.238    Ak= 4.04254
+Avg = 35.0418
+bs:   9
+MaxMag= 36.5445   MinMag= 33.6643    Ak= 2.88017
+Avg = 34.9573
+bs:   10
+MaxMag= 36.3292   MinMag= 32.6325    Ak= 3.69666
+Avg = 35.0404
+----------------------------- 57.4---------------------------------------
+
+
+bs:   1
+MaxMag= 36.8217   MinMag= 23.8494    Ak= 12.9723
+Avg = 32.4314
+bs:   2
+MaxMag= 37.5573   MinMag= 26.9904    Ak= 10.5669
+Avg = 33.8504
+bs:   3
+MaxMag= 36.9899   MinMag= 25.1997    Ak= 11.7902
+Avg = 33.9797
+bs:   4
+MaxMag= 37.0692   MinMag= 31.2025    Ak= 5.86671
+Avg = 34.4656
+bs:   5
+MaxMag= 37.415   MinMag= 32.6841    Ak= 4.73082
+Avg = 35.0218
+bs:   6
+MaxMag= 36.7171   MinMag= 32.0055    Ak= 4.71162
+Avg = 34.7403
+bs:   7
+MaxMag= 36.8069   MinMag= 33.1219    Ak= 3.68502
+Avg = 34.7945
+bs:   8
+MaxMag= 37.2805   MinMag= 33.238    Ak= 4.04254
+Avg = 35.0418
+bs:   9
+MaxMag= 36.3365   MinMag= 33.3831    Ak= 2.9534
+Avg = 34.8719
+bs:   10
+MaxMag= 36.3292   MinMag= 32.6325    Ak= 3.69666
+Avg = 35.0404
+----------------------------- 57.5---------------------------------------
+
+
+bs:   1
+MaxMag= 36.8217   MinMag= 23.8494    Ak= 12.9723
+Avg = 32.4314
+bs:   2
+MaxMag= 37.5573   MinMag= 26.9904    Ak= 10.5669
+Avg = 33.8504
+bs:   3
+MaxMag= 37.2863   MinMag= 22.3356    Ak= 14.9507
+Avg = 34.3944
+bs:   4
+MaxMag= 36.9215   MinMag= 31.1053    Ak= 5.81621
+Avg = 34.5195
+bs:   5
+MaxMag= 36.6789   MinMag= 32.4547    Ak= 4.22418
+Avg = 34.8895
+bs:   6
+MaxMag= 36.5607   MinMag= 32.36    Ak= 4.20066
+Avg = 34.7747
+bs:   7
+MaxMag= 36.8069   MinMag= 33.1219    Ak= 3.68502
+Avg = 34.7945
+bs:   8
+MaxMag= 37.2805   MinMag= 33.238    Ak= 4.04254
+Avg = 35.0418
+bs:   9
+MaxMag= 36.221   MinMag= 33.5545    Ak= 2.66649
+Avg = 34.9347
+bs:   10
+MaxMag= 36.3292   MinMag= 32.6325    Ak= 3.69666
+Avg = 35.0404
+----------------------------- 57.6---------------------------------------
+
+
+bs:   1
+MaxMag= 37.8348   MinMag= 23.0222    Ak= 14.8126
+Avg = 32.8468
+bs:   2
+MaxMag= 37.5573   MinMag= 26.9904    Ak= 10.5669
+Avg = 33.8504
+bs:   3
+MaxMag= 37.2863   MinMag= 22.3356    Ak= 14.9507
+Avg = 34.3944
+bs:   4
+MaxMag= 36.9215   MinMag= 31.1053    Ak= 5.81621
+Avg = 34.5195
+bs:   5
+MaxMag= 36.6789   MinMag= 32.4547    Ak= 4.22418
+Avg = 34.8895
+bs:   6
+MaxMag= 36.5607   MinMag= 32.36    Ak= 4.20066
+Avg = 34.7747
+bs:   7
+MaxMag= 36.8069   MinMag= 33.1219    Ak= 3.68502
+Avg = 34.7945
+bs:   8
+MaxMag= 37.2805   MinMag= 33.238    Ak= 4.04254
+Avg = 35.0418
+bs:   9
+MaxMag= 36.221   MinMag= 33.5545    Ak= 2.66649
+Avg = 34.9347
+bs:   10
+MaxMag= 36.3292   MinMag= 32.6325    Ak= 3.69666
+Avg = 35.0404
+----------------------------- 57.7---------------------------------------
+
+
+bs:   1
+MaxMag= 37.8348   MinMag= 23.0222    Ak= 14.8126
+Avg = 32.8468
+bs:   2
+MaxMag= 38.0037   MinMag= 24.6987    Ak= 13.305
+Avg = 33.8979
+bs:   3
+MaxMag= 37.2863   MinMag= 22.3356    Ak= 14.9507
+Avg = 34.3944
+bs:   4
+MaxMag= 36.5641   MinMag= 31.1139    Ak= 5.45021
+Avg = 34.3995
+bs:   5
+MaxMag= 36.8691   MinMag= 31.946    Ak= 4.92309
+Avg = 35.13
+bs:   6
+MaxMag= 37.0268   MinMag= 32.151    Ak= 4.87573
+Avg = 34.787
+bs:   7
+MaxMag= 37.1262   MinMag= 32.759    Ak= 4.36712
+Avg = 35.1477
+bs:   8
+MaxMag= 37.0964   MinMag= 33.4136    Ak= 3.68289
+Avg = 34.8686
+bs:   9
+MaxMag= 36.221   MinMag= 33.5545    Ak= 2.66649
+Avg = 34.9347
+bs:   10
+MaxMag= 36.3292   MinMag= 32.6325    Ak= 3.69666
+Avg = 35.0404
+----------------------------- 57.8---------------------------------------
+
+
+bs:   1
+MaxMag= 37.8348   MinMag= 23.0222    Ak= 14.8126
+Avg = 32.8468
+bs:   2
+MaxMag= 38.0037   MinMag= 24.6987    Ak= 13.305
+Avg = 33.8979
+bs:   3
+MaxMag= 37.2863   MinMag= 22.3356    Ak= 14.9507
+Avg = 34.3944
+bs:   4
+MaxMag= 36.5641   MinMag= 31.1139    Ak= 5.45021
+Avg = 34.3995
+bs:   5
+MaxMag= 36.6362   MinMag= 32.575    Ak= 4.06114
+Avg = 34.8839
+bs:   6
+MaxMag= 37.0268   MinMag= 32.151    Ak= 4.87573
+Avg = 34.787
+bs:   7
+MaxMag= 36.7561   MinMag= 32.4837    Ak= 4.27245
+Avg = 35.13
+bs:   8
+MaxMag= 36.5958   MinMag= 33.8956    Ak= 2.70019
+Avg = 35.2022
+bs:   9
+MaxMag= 36.3463   MinMag= 33.4443    Ak= 2.90195
+Avg = 34.9421
+bs:   10
+MaxMag= 36.3292   MinMag= 32.6325    Ak= 3.69666
+Avg = 35.0404
+----------------------------- 57.9---------------------------------------
+
+
+bs:   1
+MaxMag= 37.8348   MinMag= 23.0222    Ak= 14.8126
+Avg = 32.8468
+bs:   2
+MaxMag= 38.0037   MinMag= 24.6987    Ak= 13.305
+Avg = 33.8979
+bs:   3
+MaxMag= 37.2289   MinMag= 25.8083    Ak= 11.4207
+Avg = 34.281
+bs:   4
+MaxMag= 36.5641   MinMag= 31.1139    Ak= 5.45021
+Avg = 34.3995
+bs:   5
+MaxMag= 37.0255   MinMag= 32.2757    Ak= 4.74986
+Avg = 35.0335
+bs:   6
+MaxMag= 37.0268   MinMag= 32.151    Ak= 4.87573
+Avg = 34.787
+bs:   7
+MaxMag= 36.9185   MinMag= 31.9459    Ak= 4.97262
+Avg = 35.2024
+bs:   8
+MaxMag= 36.5958   MinMag= 33.8956    Ak= 2.70019
+Avg = 35.2022
+bs:   9
+MaxMag= 36.0055   MinMag= 33.6127    Ak= 2.39277
+Avg = 35.0108
+bs:   10
+MaxMag= 36.3292   MinMag= 32.6325    Ak= 3.69666
+Avg = 35.0404
+----------------------------- 58---------------------------------------
+
+
+bs:   1
+MaxMag= 37.8348   MinMag= 23.0222    Ak= 14.8126
+Avg = 32.8468
+bs:   2
+MaxMag= 38.0037   MinMag= 24.6987    Ak= 13.305
+Avg = 33.8979
+bs:   3
+MaxMag= 37.2289   MinMag= 25.8083    Ak= 11.4207
+Avg = 34.281
+bs:   4
+MaxMag= 37.1464   MinMag= 31.1172    Ak= 6.0292
+Avg = 34.554
+bs:   5
+MaxMag= 37.2602   MinMag= 32.5942    Ak= 4.66596
+Avg = 35.0905
+bs:   6
+MaxMag= 37.0268   MinMag= 32.151    Ak= 4.87573
+Avg = 34.787
+bs:   7
+MaxMag= 36.5909   MinMag= 33.0243    Ak= 3.56656
+Avg = 35.2153
+bs:   8
+MaxMag= 36.5958   MinMag= 33.8956    Ak= 2.70019
+Avg = 35.2022
+bs:   9
+MaxMag= 36.2529   MinMag= 33.5834    Ak= 2.66949
+Avg = 35.0686
+bs:   10
+MaxMag= 36.3292   MinMag= 32.6325    Ak= 3.69666
+Avg = 35.0404
+----------------------------- 58.1---------------------------------------
+
+
+bs:   1
+MaxMag= 37.8348   MinMag= 23.0222    Ak= 14.8126
+Avg = 32.8468
+bs:   2
+MaxMag= 38.0037   MinMag= 24.6987    Ak= 13.305
+Avg = 33.8979
+bs:   3
+MaxMag= 37.2289   MinMag= 25.8083    Ak= 11.4207
+Avg = 34.281
+bs:   4
+MaxMag= 37.1464   MinMag= 31.1172    Ak= 6.0292
+Avg = 34.554
+bs:   5
+MaxMag= 36.9728   MinMag= 32.5278    Ak= 4.44498
+Avg = 34.7575
+bs:   6
+MaxMag= 36.7827   MinMag= 33.3497    Ak= 3.433
+Avg = 34.9164
+bs:   7
+MaxMag= 36.5403   MinMag= 33.139    Ak= 3.40133
+Avg = 35.1633
+bs:   8
+MaxMag= 36.5958   MinMag= 33.8956    Ak= 2.70019
+Avg = 35.2022
+bs:   9
+MaxMag= 36.3841   MinMag= 33.412    Ak= 2.9721
+Avg = 35.0151
+bs:   10
+MaxMag= 36.2706   MinMag= 33.4254    Ak= 2.84518
+Avg = 35.1067
+----------------------------- 58.2---------------------------------------
+
+
+bs:   1
+MaxMag= 37.8348   MinMag= 23.0222    Ak= 14.8126
+Avg = 32.8468
+bs:   2
+MaxMag= 38.6733   MinMag= 27.1114    Ak= 11.5619
+Avg = 34.4269
+bs:   3
+MaxMag= 37.2289   MinMag= 25.8083    Ak= 11.4207
+Avg = 34.281
+bs:   4
+MaxMag= 37.1464   MinMag= 31.1172    Ak= 6.0292
+Avg = 34.554
+bs:   5
+MaxMag= 36.9728   MinMag= 32.5278    Ak= 4.44498
+Avg = 34.7575
+bs:   6
+MaxMag= 36.7827   MinMag= 33.3497    Ak= 3.433
+Avg = 34.9164
+bs:   7
+MaxMag= 36.7591   MinMag= 33.1615    Ak= 3.59759
+Avg = 35.1537
+bs:   8
+MaxMag= 37.022   MinMag= 33.3941    Ak= 3.62783
+Avg = 35.1342
+bs:   9
+MaxMag= 36.3841   MinMag= 33.412    Ak= 2.9721
+Avg = 35.0151
+bs:   10
+MaxMag= 36.3037   MinMag= 33.0558    Ak= 3.24796
+Avg = 34.9662
+----------------------------- 58.3---------------------------------------
+
+
+bs:   1
+MaxMag= 37.8348   MinMag= 23.0222    Ak= 14.8126
+Avg = 32.8468
+bs:   2
+MaxMag= 38.6733   MinMag= 27.1114    Ak= 11.5619
+Avg = 34.4269
+bs:   3
+MaxMag= 37.2285   MinMag= 25.81    Ak= 11.4186
+Avg = 34.281
+bs:   4
+MaxMag= 37.1464   MinMag= 31.1172    Ak= 6.0292
+Avg = 34.554
+bs:   5
+MaxMag= 36.5998   MinMag= 31.7876    Ak= 4.81219
+Avg = 34.7664
+bs:   6
+MaxMag= 36.7827   MinMag= 33.3497    Ak= 3.433
+Avg = 34.9164
+bs:   7
+MaxMag= 36.7591   MinMag= 33.1615    Ak= 3.59759
+Avg = 35.1537
+bs:   8
+MaxMag= 37.1997   MinMag= 33.0473    Ak= 4.15236
+Avg = 35.1496
+bs:   9
+MaxMag= 36.3841   MinMag= 33.412    Ak= 2.9721
+Avg = 35.0151
+bs:   10
+MaxMag= 36.3037   MinMag= 33.0558    Ak= 3.24796
+Avg = 34.9662
+----------------------------- 58.4---------------------------------------
+
+
+bs:   1
+MaxMag= 37.3782   MinMag= 22.6251    Ak= 14.7532
+Avg = 32.6879
+bs:   2
+MaxMag= 38.6733   MinMag= 27.1114    Ak= 11.5619
+Avg = 34.4269
+bs:   3
+MaxMag= 37.6962   MinMag= 24.4435    Ak= 13.2528
+Avg = 34.4243
+bs:   4
+MaxMag= 37.1595   MinMag= 31.639    Ak= 5.5205
+Avg = 34.3463
+bs:   5
+MaxMag= 37.1486   MinMag= 32.9096    Ak= 4.23905
+Avg = 35.2667
+bs:   6
+MaxMag= 36.8388   MinMag= 32.2463    Ak= 4.59248
+Avg = 34.8868
+bs:   7
+MaxMag= 36.7591   MinMag= 33.1615    Ak= 3.59759
+Avg = 35.1537
+bs:   8
+MaxMag= 37.1997   MinMag= 33.0473    Ak= 4.15236
+Avg = 35.1496
+bs:   9
+MaxMag= 36.3841   MinMag= 33.412    Ak= 2.9721
+Avg = 35.0151
+bs:   10
+MaxMag= 36.3037   MinMag= 33.0558    Ak= 3.24796
+Avg = 34.9662
+----------------------------- 58.5---------------------------------------
+
+
+bs:   1
+MaxMag= 37.3782   MinMag= 22.6251    Ak= 14.7532
+Avg = 32.6879
+bs:   2
+MaxMag= 37.8357   MinMag= 27.5616    Ak= 10.2741
+Avg = 34.0831
+bs:   3
+MaxMag= 37.6962   MinMag= 24.4435    Ak= 13.2528
+Avg = 34.4243
+bs:   4
+MaxMag= 37.1595   MinMag= 31.639    Ak= 5.5205
+Avg = 34.3463
+bs:   5
+MaxMag= 37.1486   MinMag= 32.9096    Ak= 4.23905
+Avg = 35.2667
+bs:   6
+MaxMag= 36.8388   MinMag= 32.2463    Ak= 4.59248
+Avg = 34.8868
+bs:   7
+MaxMag= 36.7591   MinMag= 33.1615    Ak= 3.59759
+Avg = 35.1537
+bs:   8
+MaxMag= 37.1997   MinMag= 33.0473    Ak= 4.15236
+Avg = 35.1496
+bs:   9
+MaxMag= 36.2522   MinMag= 32.859    Ak= 3.39321
+Avg = 35.0201
+bs:   10
+MaxMag= 36.3037   MinMag= 33.0558    Ak= 3.24796
+Avg = 34.9662
+----------------------------- 58.6---------------------------------------
+
+
+bs:   1
+MaxMag= 37.3782   MinMag= 22.6251    Ak= 14.7532
+Avg = 32.6879
+bs:   2
+MaxMag= 37.8357   MinMag= 27.5616    Ak= 10.2741
+Avg = 34.0831
+bs:   3
+MaxMag= 37.2831   MinMag= 22.3207    Ak= 14.9624
+Avg = 34.3942
+bs:   4
+MaxMag= 37.1595   MinMag= 31.639    Ak= 5.5205
+Avg = 34.3463
+bs:   5
+MaxMag= 37.3083   MinMag= 32.6781    Ak= 4.63013
+Avg = 35.084
+bs:   6
+MaxMag= 36.8388   MinMag= 32.2463    Ak= 4.59248
+Avg = 34.8868
+bs:   7
+MaxMag= 37.2305   MinMag= 33.6339    Ak= 3.59658
+Avg = 35.3743
+bs:   8
+MaxMag= 37.3023   MinMag= 33.5172    Ak= 3.78502
+Avg = 35.1977
+bs:   9
+MaxMag= 36.3712   MinMag= 33.8433    Ak= 2.52793
+Avg = 35.1602
+bs:   10
+MaxMag= 36.3037   MinMag= 33.0558    Ak= 3.24796
+Avg = 34.9662
+----------------------------- 58.7---------------------------------------
+
+
+bs:   1
+MaxMag= 37.3782   MinMag= 22.6251    Ak= 14.7532
+Avg = 32.6879
+bs:   2
+MaxMag= 37.8357   MinMag= 27.5616    Ak= 10.2741
+Avg = 34.0831
+bs:   3
+MaxMag= 37.2831   MinMag= 22.3207    Ak= 14.9624
+Avg = 34.3942
+bs:   4
+MaxMag= 36.8105   MinMag= 31.8941    Ak= 4.91634
+Avg = 34.6118
+bs:   5
+MaxMag= 37.3083   MinMag= 32.6781    Ak= 4.63013
+Avg = 35.084
+bs:   6
+MaxMag= 36.8388   MinMag= 32.2463    Ak= 4.59248
+Avg = 34.8868
+bs:   7
+MaxMag= 36.6643   MinMag= 32.8914    Ak= 3.77285
+Avg = 35.2132
+bs:   8
+MaxMag= 37.3023   MinMag= 33.5172    Ak= 3.78502
+Avg = 35.1977
+bs:   9
+MaxMag= 36.7023   MinMag= 33.8166    Ak= 2.88571
+Avg = 35.2359
+bs:   10
+MaxMag= 36.3037   MinMag= 33.0558    Ak= 3.24796
+Avg = 34.9662
+----------------------------- 58.8---------------------------------------
+
+
+bs:   1
+MaxMag= 37.3782   MinMag= 22.6251    Ak= 14.7532
+Avg = 32.6879
+bs:   2
+MaxMag= 37.9146   MinMag= 27.6731    Ak= 10.2415
+Avg = 34.1224
+bs:   3
+MaxMag= 37.2831   MinMag= 22.3207    Ak= 14.9624
+Avg = 34.3942
+bs:   4
+MaxMag= 36.8105   MinMag= 31.8941    Ak= 4.91634
+Avg = 34.6118
+bs:   5
+MaxMag= 37.3083   MinMag= 32.6781    Ak= 4.63013
+Avg = 35.084
+bs:   6
+MaxMag= 37.4226   MinMag= 32.5585    Ak= 4.86414
+Avg = 35.1737
+bs:   7
+MaxMag= 37.2276   MinMag= 33.3619    Ak= 3.86574
+Avg = 35.262
+bs:   8
+MaxMag= 36.9225   MinMag= 33.5823    Ak= 3.34018
+Avg = 35.2552
+bs:   9
+MaxMag= 36.7438   MinMag= 33.9908    Ak= 2.75296
+Avg = 35.3887
+bs:   10
+MaxMag= 36.4565   MinMag= 33.775    Ak= 2.68149
+Avg = 35.237
+----------------------------- 58.9---------------------------------------
+
+
+bs:   1
+MaxMag= 37.3782   MinMag= 22.6251    Ak= 14.7532
+Avg = 32.6879
+bs:   2
+MaxMag= 37.9146   MinMag= 27.6731    Ak= 10.2415
+Avg = 34.1224
+bs:   3
+MaxMag= 37.2831   MinMag= 22.3207    Ak= 14.9624
+Avg = 34.3942
+bs:   4
+MaxMag= 36.8105   MinMag= 31.8941    Ak= 4.91634
+Avg = 34.6118
+bs:   5
+MaxMag= 37.3083   MinMag= 32.6781    Ak= 4.63013
+Avg = 35.084
+bs:   6
+MaxMag= 36.6907   MinMag= 33.0248    Ak= 3.66592
+Avg = 35.1408
+bs:   7
+MaxMag= 36.9991   MinMag= 33.6441    Ak= 3.35494
+Avg = 35.3396
+bs:   8
+MaxMag= 37.0273   MinMag= 33.0217    Ak= 4.00569
+Avg = 35.1236
+bs:   9
+MaxMag= 36.7438   MinMag= 33.9908    Ak= 2.75296
+Avg = 35.3887
+bs:   10
+MaxMag= 36.4565   MinMag= 33.775    Ak= 2.68149
+Avg = 35.237
+----------------------------- 59---------------------------------------
+
+
+bs:   1
+MaxMag= 37.0265   MinMag= 20.9681    Ak= 16.0584
+Avg = 32.7698
+bs:   2
+MaxMag= 37.9146   MinMag= 27.6731    Ak= 10.2415
+Avg = 34.1224
+bs:   3
+MaxMag= 38.5696   MinMag= 29.6032    Ak= 8.96642
+Avg = 34.8999
+bs:   4
+MaxMag= 36.8105   MinMag= 31.8941    Ak= 4.91634
+Avg = 34.6118
+bs:   5
+MaxMag= 36.8583   MinMag= 32.4326    Ak= 4.4257
+Avg = 35.1278
+bs:   6
+MaxMag= 37.4038   MinMag= 32.341    Ak= 5.06276
+Avg = 35.3581
+bs:   7
+MaxMag= 36.9991   MinMag= 33.6441    Ak= 3.35494
+Avg = 35.3396
+bs:   8
+MaxMag= 37.0273   MinMag= 33.0217    Ak= 4.00569
+Avg = 35.1236
+bs:   9
+MaxMag= 36.9365   MinMag= 33.8581    Ak= 3.07834
+Avg = 35.3191
+bs:   10
+MaxMag= 36.4565   MinMag= 33.775    Ak= 2.68149
+Avg = 35.237
+----------------------------- 59.1---------------------------------------
+
+
+bs:   1
+MaxMag= 37.0265   MinMag= 20.9681    Ak= 16.0584
+Avg = 32.7698
+bs:   2
+MaxMag= 37.9146   MinMag= 27.6731    Ak= 10.2415
+Avg = 34.1224
+bs:   3
+MaxMag= 38.5696   MinMag= 29.6032    Ak= 8.96642
+Avg = 34.8999
+bs:   4
+MaxMag= 36.8105   MinMag= 31.8941    Ak= 4.91634
+Avg = 34.6118
+bs:   5
+MaxMag= 36.8583   MinMag= 32.4326    Ak= 4.4257
+Avg = 35.1278
+bs:   6
+MaxMag= 36.732   MinMag= 31.1888    Ak= 5.5432
+Avg = 34.899
+bs:   7
+MaxMag= 36.9991   MinMag= 33.6441    Ak= 3.35494
+Avg = 35.3396
+bs:   8
+MaxMag= 37.0273   MinMag= 33.0217    Ak= 4.00569
+Avg = 35.1236
+bs:   9
+MaxMag= 37.0077   MinMag= 33.9668    Ak= 3.0409
+Avg = 35.3025
+bs:   10
+MaxMag= 36.4565   MinMag= 33.775    Ak= 2.68149
+Avg = 35.237
+----------------------------- 59.2---------------------------------------
+
+
+bs:   1
+MaxMag= 38.5663   MinMag= 24.0763    Ak= 14.49
+Avg = 32.7945
+bs:   2
+MaxMag= 37.9146   MinMag= 27.6731    Ak= 10.2415
+Avg = 34.1224
+bs:   3
+MaxMag= 38.5561   MinMag= 29.0844    Ak= 9.4717
+Avg = 34.9585
+bs:   4
+MaxMag= 37.304   MinMag= 31.0396    Ak= 6.26447
+Avg = 34.63
+bs:   5
+MaxMag= 36.6438   MinMag= 32.4489    Ak= 4.19487
+Avg = 35.1271
+bs:   6
+MaxMag= 36.732   MinMag= 31.1888    Ak= 5.5432
+Avg = 34.899
+bs:   7
+MaxMag= 36.9991   MinMag= 33.6441    Ak= 3.35494
+Avg = 35.3396
+bs:   8
+MaxMag= 36.875   MinMag= 33.493    Ak= 3.38202
+Avg = 35.4703
+bs:   9
+MaxMag= 37.0077   MinMag= 33.9668    Ak= 3.0409
+Avg = 35.3025
+bs:   10
+MaxMag= 36.4565   MinMag= 33.775    Ak= 2.68149
+Avg = 35.237
+----------------------------- 59.3---------------------------------------
+
+
+bs:   1
+MaxMag= 38.5663   MinMag= 24.0763    Ak= 14.49
+Avg = 32.7945
+bs:   2
+MaxMag= 37.9146   MinMag= 27.6731    Ak= 10.2415
+Avg = 34.1224
+bs:   3
+MaxMag= 39.0671   MinMag= 28.9554    Ak= 10.1117
+Avg = 34.8999
+bs:   4
+MaxMag= 37.0567   MinMag= 30.992    Ak= 6.0647
+Avg = 34.7
+bs:   5
+MaxMag= 36.6438   MinMag= 32.4489    Ak= 4.19487
+Avg = 35.1271
+bs:   6
+MaxMag= 37.2075   MinMag= 32.6744    Ak= 4.53308
+Avg = 35.2187
+bs:   7
+MaxMag= 36.7867   MinMag= 33.5185    Ak= 3.2682
+Avg = 35.31
+bs:   8
+MaxMag= 36.875   MinMag= 33.493    Ak= 3.38202
+Avg = 35.4703
+bs:   9
+MaxMag= 37.0077   MinMag= 33.9668    Ak= 3.0409
+Avg = 35.3025
+bs:   10
+MaxMag= 36.4565   MinMag= 33.775    Ak= 2.68149
+Avg = 35.237
+----------------------------- 59.4---------------------------------------
+
+
+bs:   1
+MaxMag= 38.5663   MinMag= 24.0763    Ak= 14.49
+Avg = 32.7945
+bs:   2
+MaxMag= 39.8967   MinMag= 23.8385    Ak= 16.0582
+Avg = 34.574
+bs:   3
+MaxMag= 38.3913   MinMag= 28.1948    Ak= 10.1965
+Avg = 34.8755
+bs:   4
+MaxMag= 37.0567   MinMag= 30.992    Ak= 6.0647
+Avg = 34.7
+bs:   5
+MaxMag= 36.6438   MinMag= 32.4489    Ak= 4.19487
+Avg = 35.1271
+bs:   6
+MaxMag= 37.2075   MinMag= 32.6744    Ak= 4.53308
+Avg = 35.2187
+bs:   7
+MaxMag= 36.7825   MinMag= 33.5206    Ak= 3.2619
+Avg = 35.3095
+bs:   8
+MaxMag= 36.875   MinMag= 33.493    Ak= 3.38202
+Avg = 35.4703
+bs:   9
+MaxMag= 36.7539   MinMag= 33.8878    Ak= 2.86612
+Avg = 35.3318
+bs:   10
+MaxMag= 36.4565   MinMag= 33.775    Ak= 2.68149
+Avg = 35.237
+----------------------------- 59.5---------------------------------------
+
+
+bs:   1
+MaxMag= 38.2278   MinMag= 19.0758    Ak= 19.152
+Avg = 32.9649
+bs:   2
+MaxMag= 39.8967   MinMag= 23.8385    Ak= 16.0582
+Avg = 34.574
+bs:   3
+MaxMag= 37.2153   MinMag= 26.0109    Ak= 11.2044
+Avg = 34.3496
+bs:   4
+MaxMag= 37.0567   MinMag= 30.992    Ak= 6.0647
+Avg = 34.7
+bs:   5
+MaxMag= 36.7681   MinMag= 32.6683    Ak= 4.09983
+Avg = 35.1352
+bs:   6
+MaxMag= 37.165   MinMag= 32.6599    Ak= 4.50516
+Avg = 35.2576
+bs:   7
+MaxMag= 36.9991   MinMag= 33.6441    Ak= 3.35494
+Avg = 35.3396
+bs:   8
+MaxMag= 36.5814   MinMag= 32.9001    Ak= 3.68132
+Avg = 35.1944
+bs:   9
+MaxMag= 36.7539   MinMag= 33.8878    Ak= 2.86612
+Avg = 35.3318
+bs:   10
+MaxMag= 36.5488   MinMag= 33.212    Ak= 3.33679
+Avg = 35.2975
+----------------------------- 59.6---------------------------------------
+
+
+bs:   1
+MaxMag= 38.2278   MinMag= 19.0758    Ak= 19.152
+Avg = 32.9649
+bs:   2
+MaxMag= 39.8967   MinMag= 23.8385    Ak= 16.0582
+Avg = 34.574
+bs:   3
+MaxMag= 37.3178   MinMag= 25.4224    Ak= 11.8954
+Avg = 34.4061
+bs:   4
+MaxMag= 37.0567   MinMag= 30.992    Ak= 6.0647
+Avg = 34.7
+bs:   5
+MaxMag= 37.2948   MinMag= 32.4774    Ak= 4.81746
+Avg = 34.9874
+bs:   6
+MaxMag= 37.165   MinMag= 32.6599    Ak= 4.50516
+Avg = 35.2576
+bs:   7
+MaxMag= 36.9991   MinMag= 33.6441    Ak= 3.35494
+Avg = 35.3396
+bs:   8
+MaxMag= 37.2481   MinMag= 33.8451    Ak= 3.40304
+Avg = 35.4794
+bs:   9
+MaxMag= 36.7539   MinMag= 33.8878    Ak= 2.86612
+Avg = 35.3318
+bs:   10
+MaxMag= 36.5488   MinMag= 33.212    Ak= 3.33679
+Avg = 35.2975
+----------------------------- 59.7---------------------------------------
+
+
+bs:   1
+MaxMag= 38.2278   MinMag= 19.0758    Ak= 19.152
+Avg = 32.9649
+bs:   2
+MaxMag= 39.8967   MinMag= 23.8385    Ak= 16.0582
+Avg = 34.574
+bs:   3
+MaxMag= 37.2153   MinMag= 26.0109    Ak= 11.2044
+Avg = 34.3496
+bs:   4
+MaxMag= 37.0567   MinMag= 30.992    Ak= 6.0647
+Avg = 34.7
+bs:   5
+MaxMag= 37.2948   MinMag= 32.4774    Ak= 4.81746
+Avg = 34.9874
+bs:   6
+MaxMag= 37.165   MinMag= 32.6599    Ak= 4.50516
+Avg = 35.2576
+bs:   7
+MaxMag= 36.9991   MinMag= 33.6441    Ak= 3.35494
+Avg = 35.3396
+bs:   8
+MaxMag= 37.2481   MinMag= 33.8451    Ak= 3.40304
+Avg = 35.4794
+bs:   9
+MaxMag= 36.7539   MinMag= 33.8878    Ak= 2.86612
+Avg = 35.3318
+bs:   10
+MaxMag= 36.5488   MinMag= 33.212    Ak= 3.33679
+Avg = 35.2975
+----------------------------- 59.8---------------------------------------
+
+
+bs:   1
+MaxMag= 38.2278   MinMag= 19.0758    Ak= 19.152
+Avg = 32.9649
+bs:   2
+MaxMag= 39.7496   MinMag= 27.8728    Ak= 11.8769
+Avg = 34.7413
+bs:   3
+MaxMag= 37.5576   MinMag= 25.0721    Ak= 12.4855
+Avg = 34.4318
+bs:   4
+MaxMag= 37.0567   MinMag= 30.992    Ak= 6.0647
+Avg = 34.7
+bs:   5
+MaxMag= 37.2561   MinMag= 31.5293    Ak= 5.72679
+Avg = 35.1866
+bs:   6
+MaxMag= 37.1723   MinMag= 32.7213    Ak= 4.45098
+Avg = 35.1639
+bs:   7
+MaxMag= 36.9991   MinMag= 33.6441    Ak= 3.35494
+Avg = 35.3396
+bs:   8
+MaxMag= 37.2481   MinMag= 33.8451    Ak= 3.40304
+Avg = 35.4794
+bs:   9
+MaxMag= 36.7539   MinMag= 33.8878    Ak= 2.86612
+Avg = 35.3318
+bs:   10
+MaxMag= 36.5488   MinMag= 33.212    Ak= 3.33679
+Avg = 35.2975
+----------------------------- 59.9---------------------------------------
+
+
+bs:   1
+MaxMag= 38.2278   MinMag= 19.0758    Ak= 19.152
+Avg = 32.9649
+bs:   2
+MaxMag= 38.9588   MinMag= 26.6968    Ak= 12.262
+Avg = 34.235
+bs:   3
+MaxMag= 37.5576   MinMag= 25.0721    Ak= 12.4855
+Avg = 34.4318
+bs:   4
+MaxMag= 37.0567   MinMag= 30.992    Ak= 6.0647
+Avg = 34.7
+bs:   5
+MaxMag= 37.8417   MinMag= 31.5627    Ak= 6.27904
+Avg = 35.1039
+bs:   6
+MaxMag= 37.1723   MinMag= 32.7213    Ak= 4.45098
+Avg = 35.1639
+bs:   7
+MaxMag= 36.9991   MinMag= 33.6441    Ak= 3.35494
+Avg = 35.3396
+bs:   8
+MaxMag= 37.2481   MinMag= 33.8451    Ak= 3.40304
+Avg = 35.4794
+bs:   9
+MaxMag= 37.1823   MinMag= 34.2558    Ak= 2.92647
+Avg = 35.5431
+bs:   10
+MaxMag= 36.5488   MinMag= 33.2125    Ak= 3.33625
+Avg = 35.2976
+----------------------------- 60---------------------------------------
+
+
+bs:   1
+MaxMag= 38.2278   MinMag= 19.0758    Ak= 19.152
+Avg = 32.9649
+bs:   2
+MaxMag= 39.26   MinMag= 27.5872    Ak= 11.6728
+Avg = 34.5039
+bs:   3
+MaxMag= 37.4397   MinMag= 26.6715    Ak= 10.7682
+Avg = 34.4714
+bs:   4
+MaxMag= 37.0881   MinMag= 30.9125    Ak= 6.17553
+Avg = 34.6675
+bs:   5
+MaxMag= 37.8417   MinMag= 31.5627    Ak= 6.27904
+Avg = 35.1039
+bs:   6
+MaxMag= 37.1723   MinMag= 32.7213    Ak= 4.45098
+Avg = 35.1639
+bs:   7
+MaxMag= 36.9991   MinMag= 33.644    Ak= 3.35508
+Avg = 35.3396
+bs:   8
+MaxMag= 37.2481   MinMag= 33.8451    Ak= 3.40304
+Avg = 35.4794
+bs:   9
+MaxMag= 37.1823   MinMag= 34.2558    Ak= 2.92647
+Avg = 35.5431
+bs:   10
+MaxMag= 36.5488   MinMag= 33.2125    Ak= 3.33625
+Avg = 35.2976
+----------------------------- 60.1---------------------------------------
+
+
+bs:   1
+MaxMag= 38.2278   MinMag= 19.0758    Ak= 19.152
+Avg = 32.9649
+bs:   2
+MaxMag= 38.7455   MinMag= 26.7759    Ak= 11.9696
+Avg = 34.62
+bs:   3
+MaxMag= 37.7347   MinMag= 27.7682    Ak= 9.96653
+Avg = 34.3053
+bs:   4
+MaxMag= 37.0881   MinMag= 30.9125    Ak= 6.17553
+Avg = 34.6675
+bs:   5
+MaxMag= 37.8417   MinMag= 31.5627    Ak= 6.27904
+Avg = 35.1039
+bs:   6
+MaxMag= 37.1723   MinMag= 32.7213    Ak= 4.45098
+Avg = 35.1639
+bs:   7
+MaxMag= 36.9991   MinMag= 33.644    Ak= 3.35508
+Avg = 35.3396
+bs:   8
+MaxMag= 37.2481   MinMag= 33.8451    Ak= 3.40304
+Avg = 35.4794
+bs:   9
+MaxMag= 36.7512   MinMag= 33.8516    Ak= 2.89963
+Avg = 35.4102
+bs:   10
+MaxMag= 36.5488   MinMag= 33.2125    Ak= 3.33625
+Avg = 35.2976
+----------------------------- 60.2---------------------------------------
+
+
+bs:   1
+MaxMag= 38.2278   MinMag= 19.0758    Ak= 19.152
+Avg = 32.9649
+bs:   2
+MaxMag= 38.4775   MinMag= 25.2884    Ak= 13.1891
+Avg = 34.4681
+bs:   3
+MaxMag= 37.7347   MinMag= 27.7682    Ak= 9.96653
+Avg = 34.3053
+bs:   4
+MaxMag= 37.1807   MinMag= 31.5404    Ak= 5.6403
+Avg = 34.8431
+bs:   5
+MaxMag= 37.3665   MinMag= 32.2231    Ak= 5.14335
+Avg = 35.2079
+bs:   6
+MaxMag= 36.8922   MinMag= 32.7644    Ak= 4.12781
+Avg = 35.1074
+bs:   7
+MaxMag= 36.9991   MinMag= 33.6441    Ak= 3.35494
+Avg = 35.3396
+bs:   8
+MaxMag= 37.2481   MinMag= 33.8451    Ak= 3.40304
+Avg = 35.4794
+bs:   9
+MaxMag= 36.9681   MinMag= 34.0494    Ak= 2.91871
+Avg = 35.5351
+bs:   10
+MaxMag= 36.5488   MinMag= 33.2125    Ak= 3.33625
+Avg = 35.2976
+----------------------------- 60.3---------------------------------------
+
+
+bs:   1
+MaxMag= 38.2278   MinMag= 19.0758    Ak= 19.152
+Avg = 32.9649
+bs:   2
+MaxMag= 38.4775   MinMag= 25.2884    Ak= 13.1891
+Avg = 34.4681
+bs:   3
+MaxMag= 37.2727   MinMag= 26.5778    Ak= 10.6949
+Avg = 34.599
+bs:   4
+MaxMag= 37.3022   MinMag= 31.6002    Ak= 5.70196
+Avg = 34.6125
+bs:   5
+MaxMag= 37.3679   MinMag= 32.9911    Ak= 4.37678
+Avg = 35.1698
+bs:   6
+MaxMag= 36.8922   MinMag= 32.7644    Ak= 4.12781
+Avg = 35.1074
+bs:   7
+MaxMag= 36.9991   MinMag= 33.6441    Ak= 3.35494
+Avg = 35.3396
+bs:   8
+MaxMag= 37.2481   MinMag= 33.8451    Ak= 3.40304
+Avg = 35.4794
+bs:   9
+MaxMag= 36.9681   MinMag= 34.0494    Ak= 2.91871
+Avg = 35.5351
+bs:   10
+MaxMag= 36.6463   MinMag= 33.5099    Ak= 3.13646
+Avg = 35.4597
+----------------------------- 60.4---------------------------------------
+
+
+bs:   1
+MaxMag= 38.2278   MinMag= 19.0758    Ak= 19.152
+Avg = 32.9649
+bs:   2
+MaxMag= 38.9955   MinMag= 28.4255    Ak= 10.57
+Avg = 34.5346
+bs:   3
+MaxMag= 38.0121   MinMag= 29.6992    Ak= 8.31289
+Avg = 35.0809
+bs:   4
+MaxMag= 37.3022   MinMag= 31.6002    Ak= 5.70196
+Avg = 34.6125
+bs:   5
+MaxMag= 37.3679   MinMag= 32.9911    Ak= 4.37678
+Avg = 35.1698
+bs:   6
+MaxMag= 37.2667   MinMag= 33.8192    Ak= 3.44751
+Avg = 35.4507
+bs:   7
+MaxMag= 36.9991   MinMag= 33.6441    Ak= 3.35494
+Avg = 35.3396
+bs:   8
+MaxMag= 36.8126   MinMag= 33.6844    Ak= 3.12816
+Avg = 35.3804
+bs:   9
+MaxMag= 37.1197   MinMag= 33.3724    Ak= 3.74731
+Avg = 35.3649
+bs:   10
+MaxMag= 36.6463   MinMag= 33.5099    Ak= 3.13646
+Avg = 35.4597
+----------------------------- 60.5---------------------------------------
+
+
+bs:   1
+MaxMag= 38.2278   MinMag= 19.0758    Ak= 19.152
+Avg = 32.9649
+bs:   2
+MaxMag= 38.9955   MinMag= 28.4255    Ak= 10.57
+Avg = 34.5346
+bs:   3
+MaxMag= 38.5202   MinMag= 30.6145    Ak= 7.90575
+Avg = 35.1375
+bs:   4
+MaxMag= 37.3332   MinMag= 30.4794    Ak= 6.85374
+Avg = 34.7611
+bs:   5
+MaxMag= 37.3679   MinMag= 32.9911    Ak= 4.37678
+Avg = 35.1698
+bs:   6
+MaxMag= 37.3099   MinMag= 33.159    Ak= 4.15098
+Avg = 35.4074
+bs:   7
+MaxMag= 36.9991   MinMag= 33.6441    Ak= 3.35494
+Avg = 35.3396
+bs:   8
+MaxMag= 36.883   MinMag= 33.6104    Ak= 3.2726
+Avg = 35.4066
+bs:   9
+MaxMag= 37.1197   MinMag= 33.3724    Ak= 3.74731
+Avg = 35.3649
+bs:   10
+MaxMag= 36.6463   MinMag= 33.5099    Ak= 3.13646
+Avg = 35.4597
+----------------------------- 60.6---------------------------------------
+
+
+bs:   1
+MaxMag= 38.2278   MinMag= 19.0758    Ak= 19.152
+Avg = 32.9649
+bs:   2
+MaxMag= 38.9955   MinMag= 28.4255    Ak= 10.57
+Avg = 34.5346
+bs:   3
+MaxMag= 38.2271   MinMag= 29.543    Ak= 8.68407
+Avg = 35.1434
+bs:   4
+MaxMag= 37.3332   MinMag= 30.4794    Ak= 6.85374
+Avg = 34.7611
+bs:   5
+MaxMag= 37.3679   MinMag= 32.9911    Ak= 4.37678
+Avg = 35.1698
+bs:   6
+MaxMag= 37.3941   MinMag= 33.0615    Ak= 4.33257
+Avg = 35.4865
+bs:   7
+MaxMag= 36.9424   MinMag= 33.4057    Ak= 3.53668
+Avg = 35.3492
+bs:   8
+MaxMag= 36.8849   MinMag= 33.6052    Ak= 3.27965
+Avg = 35.407
+bs:   9
+MaxMag= 37.1197   MinMag= 33.3724    Ak= 3.74731
+Avg = 35.3649
+bs:   10
+MaxMag= 36.6463   MinMag= 33.5099    Ak= 3.13646
+Avg = 35.4597
+----------------------------- 60.7---------------------------------------
+
+
+bs:   1
+MaxMag= 38.2278   MinMag= 19.0758    Ak= 19.152
+Avg = 32.9649
+bs:   2
+MaxMag= 39.7132   MinMag= 26.4861    Ak= 13.2271
+Avg = 34.544
+bs:   3
+MaxMag= 38.2271   MinMag= 29.543    Ak= 8.68407
+Avg = 35.1434
+bs:   4
+MaxMag= 37.3332   MinMag= 30.4794    Ak= 6.85374
+Avg = 34.7611
+bs:   5
+MaxMag= 37.3679   MinMag= 32.9911    Ak= 4.37678
+Avg = 35.1698
+bs:   6
+MaxMag= 37.3941   MinMag= 33.0615    Ak= 4.33257
+Avg = 35.4865
+bs:   7
+MaxMag= 36.8102   MinMag= 32.8813    Ak= 3.92886
+Avg = 35.312
+bs:   8
+MaxMag= 36.6641   MinMag= 33.3914    Ak= 3.2727
+Avg = 35.3587
+bs:   9
+MaxMag= 37.1197   MinMag= 33.3724    Ak= 3.74731
+Avg = 35.3649
+bs:   10
+MaxMag= 37.0797   MinMag= 33.6427    Ak= 3.43708
+Avg = 35.7459
+----------------------------- 60.8---------------------------------------
+
+
+bs:   1
+MaxMag= 38.2278   MinMag= 19.0758    Ak= 19.152
+Avg = 32.9649
+bs:   2
+MaxMag= 38.9639   MinMag= 26.5154    Ak= 12.4484
+Avg = 34.3638
+bs:   3
+MaxMag= 38.2271   MinMag= 29.543    Ak= 8.68407
+Avg = 35.1434
+bs:   4
+MaxMag= 37.3332   MinMag= 30.4794    Ak= 6.85374
+Avg = 34.7611
+bs:   5
+MaxMag= 37.2232   MinMag= 32.3448    Ak= 4.87844
+Avg = 35.0963
+bs:   6
+MaxMag= 36.972   MinMag= 32.8528    Ak= 4.11921
+Avg = 35.439
+bs:   7
+MaxMag= 36.8101   MinMag= 32.8815    Ak= 3.92865
+Avg = 35.312
+bs:   8
+MaxMag= 36.6641   MinMag= 33.3914    Ak= 3.2727
+Avg = 35.3587
+bs:   9
+MaxMag= 37.8971   MinMag= 33.8629    Ak= 4.03415
+Avg = 35.6125
+bs:   10
+MaxMag= 36.7674   MinMag= 33.2944    Ak= 3.47306
+Avg = 35.5515
+----------------------------- 60.9---------------------------------------
+
+
+bs:   1
+MaxMag= 38.2278   MinMag= 19.0758    Ak= 19.152
+Avg = 32.9649
+bs:   2
+MaxMag= 39.196   MinMag= 27.8587    Ak= 11.3373
+Avg = 34.2755
+bs:   3
+MaxMag= 38.2271   MinMag= 29.543    Ak= 8.68407
+Avg = 35.1434
+bs:   4
+MaxMag= 37.3332   MinMag= 30.4794    Ak= 6.85374
+Avg = 34.7611
+bs:   5
+MaxMag= 37.1048   MinMag= 32.0332    Ak= 5.07155
+Avg = 35.1974
+bs:   6
+MaxMag= 36.972   MinMag= 32.8528    Ak= 4.11921
+Avg = 35.439
+bs:   7
+MaxMag= 36.8101   MinMag= 32.8815    Ak= 3.92865
+Avg = 35.312
+bs:   8
+MaxMag= 36.8072   MinMag= 33.4759    Ak= 3.33137
+Avg = 35.4001
+bs:   9
+MaxMag= 37.5351   MinMag= 33.7495    Ak= 3.7856
+Avg = 35.6478
+bs:   10
+MaxMag= 36.7674   MinMag= 33.2944    Ak= 3.47306
+Avg = 35.5515
+----------------------------- 61---------------------------------------
+
+
+bs:   1
+MaxMag= 38.2278   MinMag= 19.0758    Ak= 19.152
+Avg = 32.9649
+bs:   2
+MaxMag= 39.196   MinMag= 27.8587    Ak= 11.3373
+Avg = 34.2755
+bs:   3
+MaxMag= 38.0121   MinMag= 29.6992    Ak= 8.31289
+Avg = 35.0809
+bs:   4
+MaxMag= 37.3332   MinMag= 30.4794    Ak= 6.85374
+Avg = 34.7611
+bs:   5
+MaxMag= 37.1048   MinMag= 32.0332    Ak= 5.07155
+Avg = 35.1974
+bs:   6
+MaxMag= 37.3331   MinMag= 33.1096    Ak= 4.22349
+Avg = 35.4938
+bs:   7
+MaxMag= 37.4006   MinMag= 33.8399    Ak= 3.56071
+Avg = 35.6155
+bs:   8
+MaxMag= 36.8072   MinMag= 33.4759    Ak= 3.33137
+Avg = 35.4001
+bs:   9
+MaxMag= 37.2024   MinMag= 33.9443    Ak= 3.25815
+Avg = 35.6625
+bs:   10
+MaxMag= 36.7674   MinMag= 33.2944    Ak= 3.47306
+Avg = 35.5515
+----------------------------- 61.1---------------------------------------
+
+
+bs:   1
+MaxMag= 38.2278   MinMag= 19.0758    Ak= 19.152
+Avg = 32.9649
+bs:   2
+MaxMag= 39.196   MinMag= 27.8587    Ak= 11.3373
+Avg = 34.2755
+bs:   3
+MaxMag= 38.0808   MinMag= 28.3199    Ak= 9.76093
+Avg = 34.9312
+bs:   4
+MaxMag= 37.3332   MinMag= 30.4794    Ak= 6.85374
+Avg = 34.7611
+bs:   5
+MaxMag= 37.1048   MinMag= 32.0332    Ak= 5.07155
+Avg = 35.1974
+bs:   6
+MaxMag= 37.5287   MinMag= 33.2497    Ak= 4.27893
+Avg = 35.575
+bs:   7
+MaxMag= 37.4006   MinMag= 33.8399    Ak= 3.56071
+Avg = 35.6155
+bs:   8
+MaxMag= 36.8072   MinMag= 33.4759    Ak= 3.33137
+Avg = 35.4001
+bs:   9
+MaxMag= 37.2024   MinMag= 33.9443    Ak= 3.25815
+Avg = 35.6625
+bs:   10
+MaxMag= 36.7674   MinMag= 33.2944    Ak= 3.47306
+Avg = 35.5515
+----------------------------- 61.2---------------------------------------
+
+
+bs:   1
+MaxMag= 38.2278   MinMag= 19.0758    Ak= 19.152
+Avg = 32.9649
+bs:   2
+MaxMag= 38.8516   MinMag= 27.1724    Ak= 11.6792
+Avg = 34.363
+bs:   3
+MaxMag= 38.4054   MinMag= 26.8779    Ak= 11.5274
+Avg = 35.0539
+bs:   4
+MaxMag= 37.3332   MinMag= 30.4794    Ak= 6.85374
+Avg = 34.7611
+bs:   5
+MaxMag= 37.1048   MinMag= 32.0332    Ak= 5.07155
+Avg = 35.1974
+bs:   6
+MaxMag= 37.5287   MinMag= 33.2497    Ak= 4.27893
+Avg = 35.575
+bs:   7
+MaxMag= 37.1421   MinMag= 34.0064    Ak= 3.13569
+Avg = 35.663
+bs:   8
+MaxMag= 36.8072   MinMag= 33.4759    Ak= 3.33137
+Avg = 35.4001
+bs:   9
+MaxMag= 37.2024   MinMag= 33.9443    Ak= 3.25815
+Avg = 35.6625
+bs:   10
+MaxMag= 36.8803   MinMag= 33.3381    Ak= 3.54217
+Avg = 35.5318
+----------------------------- 61.3---------------------------------------
+
+
+bs:   1
+MaxMag= 38.2278   MinMag= 19.0758    Ak= 19.152
+Avg = 32.9649
+bs:   2
+MaxMag= 38.8258   MinMag= 28.6509    Ak= 10.1749
+Avg = 34.5897
+bs:   3
+MaxMag= 38.4726   MinMag= 28.0611    Ak= 10.4116
+Avg = 35.0416
+bs:   4
+MaxMag= 37.3332   MinMag= 30.4794    Ak= 6.85374
+Avg = 34.7611
+bs:   5
+MaxMag= 37.1048   MinMag= 32.0332    Ak= 5.07155
+Avg = 35.1974
+bs:   6
+MaxMag= 37.5287   MinMag= 33.2497    Ak= 4.27893
+Avg = 35.575
+bs:   7
+MaxMag= 37.4968   MinMag= 33.2796    Ak= 4.21719
+Avg = 35.7123
+bs:   8
+MaxMag= 36.8072   MinMag= 33.4759    Ak= 3.33137
+Avg = 35.4001
+bs:   9
+MaxMag= 37.2024   MinMag= 33.9443    Ak= 3.25815
+Avg = 35.6625
+bs:   10
+MaxMag= 36.8803   MinMag= 33.3381    Ak= 3.54217
+Avg = 35.5318
+----------------------------- 61.4---------------------------------------
+
+
+bs:   1
+MaxMag= 38.2278   MinMag= 19.0758    Ak= 19.152
+Avg = 32.9649
+bs:   2
+MaxMag= 39.2531   MinMag= 29.1895    Ak= 10.0635
+Avg = 34.724
+bs:   3
+MaxMag= 38.4225   MinMag= 27.792    Ak= 10.6305
+Avg = 35.1924
+bs:   4
+MaxMag= 37.3332   MinMag= 30.4794    Ak= 6.85374
+Avg = 34.7611
+bs:   5
+MaxMag= 37.3022   MinMag= 32.1367    Ak= 5.16546
+Avg = 35.2835
+bs:   6
+MaxMag= 37.6232   MinMag= 33.2106    Ak= 4.41258
+Avg = 35.6168
+bs:   7
+MaxMag= 37.4968   MinMag= 33.2796    Ak= 4.21719
+Avg = 35.7123
+bs:   8
+MaxMag= 36.8072   MinMag= 33.4759    Ak= 3.33137
+Avg = 35.4001
+bs:   9
+MaxMag= 37.2024   MinMag= 33.9443    Ak= 3.25815
+Avg = 35.6625
+bs:   10
+MaxMag= 36.8803   MinMag= 33.3381    Ak= 3.54217
+Avg = 35.5318
+----------------------------- 61.5---------------------------------------
+
+
+bs:   1
+MaxMag= 38.2278   MinMag= 19.0758    Ak= 19.152
+Avg = 32.9649
+bs:   2
+MaxMag= 38.2535   MinMag= 26.1487    Ak= 12.1048
+Avg = 34.5832
+bs:   3
+MaxMag= 38.4225   MinMag= 27.792    Ak= 10.6305
+Avg = 35.1924
+bs:   4
+MaxMag= 37.8671   MinMag= 30.6122    Ak= 7.25482
+Avg = 34.7746
+bs:   5
+MaxMag= 37.3942   MinMag= 32.0046    Ak= 5.38961
+Avg = 35.3085
+bs:   6
+MaxMag= 37.13   MinMag= 32.8689    Ak= 4.26106
+Avg = 35.5169
+bs:   7
+MaxMag= 37.663   MinMag= 34.2164    Ak= 3.4466
+Avg = 35.7537
+bs:   8
+MaxMag= 36.8072   MinMag= 33.4759    Ak= 3.33137
+Avg = 35.4001
+bs:   9
+MaxMag= 37.2024   MinMag= 33.9443    Ak= 3.25815
+Avg = 35.6625
+bs:   10
+MaxMag= 36.9562   MinMag= 34.4595    Ak= 2.49673
+Avg = 35.576
+----------------------------- 61.6---------------------------------------
+
+
+bs:   1
+MaxMag= 38.1295   MinMag= 25.4473    Ak= 12.6821
+Avg = 32.9828
+bs:   2
+MaxMag= 38.2535   MinMag= 26.1487    Ak= 12.1048
+Avg = 34.5832
+bs:   3
+MaxMag= 38.9143   MinMag= 26.7235    Ak= 12.1909
+Avg = 35.1719
+bs:   4
+MaxMag= 37.6956   MinMag= 30.4984    Ak= 7.19727
+Avg = 34.8513
+bs:   5
+MaxMag= 37.3942   MinMag= 32.0046    Ak= 5.38961
+Avg = 35.3085
+bs:   6
+MaxMag= 37.13   MinMag= 32.8689    Ak= 4.26106
+Avg = 35.5169
+bs:   7
+MaxMag= 37.663   MinMag= 34.2164    Ak= 3.4466
+Avg = 35.7537
+bs:   8
+MaxMag= 37.0881   MinMag= 33.7286    Ak= 3.35959
+Avg = 35.4526
+bs:   9
+MaxMag= 37.2024   MinMag= 33.9443    Ak= 3.25815
+Avg = 35.6625
+bs:   10
+MaxMag= 36.9562   MinMag= 34.4595    Ak= 2.49673
+Avg = 35.576
+----------------------------- 61.7---------------------------------------
+
+
+bs:   1
+MaxMag= 38.1295   MinMag= 25.4473    Ak= 12.6821
+Avg = 32.9828
+bs:   2
+MaxMag= 38.2535   MinMag= 26.1487    Ak= 12.1048
+Avg = 34.5832
+bs:   3
+MaxMag= 38.9143   MinMag= 26.7235    Ak= 12.1909
+Avg = 35.1719
+bs:   4
+MaxMag= 37.6956   MinMag= 30.4984    Ak= 7.19727
+Avg = 34.8513
+bs:   5
+MaxMag= 37.3942   MinMag= 32.0046    Ak= 5.38961
+Avg = 35.3085
+bs:   6
+MaxMag= 37.3719   MinMag= 33.0506    Ak= 4.32136
+Avg = 35.3397
+bs:   7
+MaxMag= 37.251   MinMag= 33.9432    Ak= 3.30781
+Avg = 35.564
+bs:   8
+MaxMag= 37.3247   MinMag= 33.4616    Ak= 3.86303
+Avg = 35.5551
+bs:   9
+MaxMag= 37.6294   MinMag= 34.2052    Ak= 3.42422
+Avg = 35.7394
+bs:   10
+MaxMag= 36.9562   MinMag= 34.4595    Ak= 2.49673
+Avg = 35.576
+----------------------------- 61.8---------------------------------------
+
+
+bs:   1
+MaxMag= 38.1295   MinMag= 25.4473    Ak= 12.6821
+Avg = 32.9828
+bs:   2
+MaxMag= 38.695   MinMag= 21.7969    Ak= 16.8981
+Avg = 34.6417
+bs:   3
+MaxMag= 38.9256   MinMag= 27.9859    Ak= 10.9397
+Avg = 35.0666
+bs:   4
+MaxMag= 37.6956   MinMag= 30.4984    Ak= 7.19727
+Avg = 34.8513
+bs:   5
+MaxMag= 37.3243   MinMag= 32.9141    Ak= 4.41017
+Avg = 35.1028
+bs:   6
+MaxMag= 37.3719   MinMag= 33.0506    Ak= 4.32136
+Avg = 35.3397
+bs:   7
+MaxMag= 37.251   MinMag= 33.9432    Ak= 3.30781
+Avg = 35.564
+bs:   8
+MaxMag= 37.3247   MinMag= 33.4616    Ak= 3.86303
+Avg = 35.5551
+bs:   9
+MaxMag= 37.2024   MinMag= 33.9443    Ak= 3.25815
+Avg = 35.6625
+bs:   10
+MaxMag= 37.4314   MinMag= 34.1996    Ak= 3.23176
+Avg = 35.6211
+----------------------------- 61.9---------------------------------------
+
+
+bs:   1
+MaxMag= 38.1295   MinMag= 25.4473    Ak= 12.6821
+Avg = 32.9828
+bs:   2
+MaxMag= 38.6967   MinMag= 21.7842    Ak= 16.9125
+Avg = 34.6418
+bs:   3
+MaxMag= 38.9256   MinMag= 27.9859    Ak= 10.9397
+Avg = 35.0666
+bs:   4
+MaxMag= 37.6956   MinMag= 30.4984    Ak= 7.19727
+Avg = 34.8513
+bs:   5
+MaxMag= 37.8128   MinMag= 32.9103    Ak= 4.90247
+Avg = 35.3501
+bs:   6
+MaxMag= 37.5078   MinMag= 33.7729    Ak= 3.73491
+Avg = 35.6325
+bs:   7
+MaxMag= 37.251   MinMag= 33.9432    Ak= 3.30781
+Avg = 35.564
+bs:   8
+MaxMag= 37.0919   MinMag= 34.1403    Ak= 2.95157
+Avg = 35.7318
+bs:   9
+MaxMag= 37.6294   MinMag= 34.2052    Ak= 3.42422
+Avg = 35.7394
+bs:   10
+MaxMag= 37.4314   MinMag= 34.1996    Ak= 3.23176
+Avg = 35.6211
+----------------------------- 62---------------------------------------
+
+
+bs:   1
+MaxMag= 38.1295   MinMag= 25.4473    Ak= 12.6821
+Avg = 32.9828
+bs:   2
+MaxMag= 38.697   MinMag= 25.0859    Ak= 13.611
+Avg = 34.7671
+bs:   3
+MaxMag= 39.2034   MinMag= 26.7186    Ak= 12.4848
+Avg = 35.1461
+bs:   4
+MaxMag= 37.915   MinMag= 30.2621    Ak= 7.65291
+Avg = 34.9039
+bs:   5
+MaxMag= 37.8128   MinMag= 32.9103    Ak= 4.90247
+Avg = 35.3501
+bs:   6
+MaxMag= 37.5078   MinMag= 33.7729    Ak= 3.73491
+Avg = 35.6325
+bs:   7
+MaxMag= 37.6489   MinMag= 33.6751    Ak= 3.97385
+Avg = 35.6055
+bs:   8
+MaxMag= 37.3114   MinMag= 34.3487    Ak= 2.96266
+Avg = 35.7397
+bs:   9
+MaxMag= 37.1092   MinMag= 34.3805    Ak= 2.72869
+Avg = 35.8096
+bs:   10
+MaxMag= 37.4314   MinMag= 34.1996    Ak= 3.23176
+Avg = 35.6211
+----------------------------- 62.1---------------------------------------
+
+
+bs:   1
+MaxMag= 38.1295   MinMag= 25.4473    Ak= 12.6821
+Avg = 32.9828
+bs:   2
+MaxMag= 38.3313   MinMag= 28.5513    Ak= 9.77997
+Avg = 34.7355
+bs:   3
+MaxMag= 39.2034   MinMag= 26.7186    Ak= 12.4848
+Avg = 35.1461
+bs:   4
+MaxMag= 37.915   MinMag= 30.2621    Ak= 7.65291
+Avg = 34.9039
+bs:   5
+MaxMag= 38.0776   MinMag= 32.9224    Ak= 5.15519
+Avg = 35.3923
+bs:   6
+MaxMag= 37.5078   MinMag= 33.7729    Ak= 3.73491
+Avg = 35.6325
+bs:   7
+MaxMag= 37.3998   MinMag= 33.8172    Ak= 3.58255
+Avg = 35.6749
+bs:   8
+MaxMag= 37.3114   MinMag= 34.3487    Ak= 2.96266
+Avg = 35.7397
+bs:   9
+MaxMag= 37.1092   MinMag= 34.3805    Ak= 2.72869
+Avg = 35.8096
+bs:   10
+MaxMag= 37.4314   MinMag= 34.1996    Ak= 3.23176
+Avg = 35.6211
+----------------------------- 62.2---------------------------------------
+
+
+bs:   1
+MaxMag= 38.1341   MinMag= 24.2375    Ak= 13.8966
+Avg = 32.9054
+bs:   2
+MaxMag= 38.3313   MinMag= 28.5513    Ak= 9.77997
+Avg = 34.7355
+bs:   3
+MaxMag= 38.9143   MinMag= 26.7235    Ak= 12.1909
+Avg = 35.1719
+bs:   4
+MaxMag= 37.915   MinMag= 30.2621    Ak= 7.65291
+Avg = 34.9039
+bs:   5
+MaxMag= 38.0776   MinMag= 32.9224    Ak= 5.15519
+Avg = 35.3923
+bs:   6
+MaxMag= 37.5078   MinMag= 33.7729    Ak= 3.73491
+Avg = 35.6325
+bs:   7
+MaxMag= 37.8968   MinMag= 33.7412    Ak= 4.15558
+Avg = 35.7587
+bs:   8
+MaxMag= 37.3114   MinMag= 34.3487    Ak= 2.96266
+Avg = 35.7397
+bs:   9
+MaxMag= 37.1092   MinMag= 34.3805    Ak= 2.72869
+Avg = 35.8096
+bs:   10
+MaxMag= 37.33   MinMag= 33.714    Ak= 3.61592
+Avg = 35.7759
+----------------------------- 62.3---------------------------------------
+
+
+bs:   1
+MaxMag= 38.1341   MinMag= 24.2375    Ak= 13.8966
+Avg = 32.9054
+bs:   2
+MaxMag= 38.3313   MinMag= 28.5513    Ak= 9.77997
+Avg = 34.7355
+bs:   3
+MaxMag= 38.9143   MinMag= 26.7235    Ak= 12.1909
+Avg = 35.1719
+bs:   4
+MaxMag= 37.915   MinMag= 30.2621    Ak= 7.65291
+Avg = 34.9039
+bs:   5
+MaxMag= 38.0776   MinMag= 32.9224    Ak= 5.15519
+Avg = 35.3923
+bs:   6
+MaxMag= 37.0748   MinMag= 33.1249    Ak= 3.94992
+Avg = 35.2355
+bs:   7
+MaxMag= 37.6564   MinMag= 33.8985    Ak= 3.75782
+Avg = 35.8067
+bs:   8
+MaxMag= 37.3102   MinMag= 33.5635    Ak= 3.7467
+Avg = 35.7251
+bs:   9
+MaxMag= 37.1092   MinMag= 34.3805    Ak= 2.72869
+Avg = 35.8096
+bs:   10
+MaxMag= 37.33   MinMag= 33.714    Ak= 3.61592
+Avg = 35.7759
+----------------------------- 62.4---------------------------------------
+
+
+bs:   1
+MaxMag= 38.1341   MinMag= 24.2375    Ak= 13.8966
+Avg = 32.9054
+bs:   2
+MaxMag= 38.3313   MinMag= 28.5513    Ak= 9.77997
+Avg = 34.7355
+bs:   3
+MaxMag= 39.1041   MinMag= 27.7226    Ak= 11.3814
+Avg = 35.2134
+bs:   4
+MaxMag= 37.915   MinMag= 30.2621    Ak= 7.65291
+Avg = 34.9039
+bs:   5
+MaxMag= 38.0776   MinMag= 32.9224    Ak= 5.15519
+Avg = 35.3923
+bs:   6
+MaxMag= 37.5219   MinMag= 33.3891    Ak= 4.13288
+Avg = 35.7124
+bs:   7
+MaxMag= 37.5041   MinMag= 34.2948    Ak= 3.2093
+Avg = 35.8055
+bs:   8
+MaxMag= 37.6457   MinMag= 33.4263    Ak= 4.21943
+Avg = 35.762
+bs:   9
+MaxMag= 37.1092   MinMag= 34.3805    Ak= 2.72869
+Avg = 35.8096
+bs:   10
+MaxMag= 37.33   MinMag= 33.714    Ak= 3.61592
+Avg = 35.7759
+----------------------------- 62.5---------------------------------------
+
+
+bs:   1
+MaxMag= 38.1341   MinMag= 24.2375    Ak= 13.8966
+Avg = 32.9054
+bs:   2
+MaxMag= 38.3876   MinMag= 26.9443    Ak= 11.4433
+Avg = 34.5973
+bs:   3
+MaxMag= 39.1041   MinMag= 27.7226    Ak= 11.3814
+Avg = 35.2134
+bs:   4
+MaxMag= 37.915   MinMag= 30.2621    Ak= 7.65291
+Avg = 34.9039
+bs:   5
+MaxMag= 37.6349   MinMag= 32.5914    Ak= 5.04348
+Avg = 35.3614
+bs:   6
+MaxMag= 37.3529   MinMag= 32.4744    Ak= 4.87846
+Avg = 35.2816
+bs:   7
+MaxMag= 37.5041   MinMag= 34.2948    Ak= 3.2093
+Avg = 35.8055
+bs:   8
+MaxMag= 37.2703   MinMag= 33.7673    Ak= 3.50298
+Avg = 35.7271
+bs:   9
+MaxMag= 37.1092   MinMag= 34.3805    Ak= 2.72869
+Avg = 35.8096
+bs:   10
+MaxMag= 37.33   MinMag= 33.714    Ak= 3.61592
+Avg = 35.7759
+----------------------------- 62.6---------------------------------------
+
+
+bs:   1
+MaxMag= 38.1341   MinMag= 24.2375    Ak= 13.8966
+Avg = 32.9054
+bs:   2
+MaxMag= 38.3876   MinMag= 26.9443    Ak= 11.4433
+Avg = 34.5973
+bs:   3
+MaxMag= 39.0615   MinMag= 27.7383    Ak= 11.3233
+Avg = 35.2058
+bs:   4
+MaxMag= 37.915   MinMag= 30.2621    Ak= 7.65291
+Avg = 34.9039
+bs:   5
+MaxMag= 37.7964   MinMag= 32.6858    Ak= 5.11064
+Avg = 35.1083
+bs:   6
+MaxMag= 37.0404   MinMag= 32.5141    Ak= 4.52633
+Avg = 35.2937
+bs:   7
+MaxMag= 37.2562   MinMag= 33.9253    Ak= 3.33081
+Avg = 35.8341
+bs:   8
+MaxMag= 37.2994   MinMag= 33.4373    Ak= 3.8621
+Avg = 35.7802
+bs:   9
+MaxMag= 37.1092   MinMag= 34.3805    Ak= 2.72869
+Avg = 35.8096
+bs:   10
+MaxMag= 37.1468   MinMag= 33.8025    Ak= 3.34432
+Avg = 35.6738
+----------------------------- 62.7---------------------------------------
+
+
+bs:   1
+MaxMag= 38.1341   MinMag= 24.2375    Ak= 13.8966
+Avg = 32.9054
+bs:   2
+MaxMag= 38.8632   MinMag= 27.3507    Ak= 11.5125
+Avg = 34.7576
+bs:   3
+MaxMag= 39.0615   MinMag= 27.7383    Ak= 11.3233
+Avg = 35.2058
+bs:   4
+MaxMag= 37.915   MinMag= 30.2621    Ak= 7.65291
+Avg = 34.9039
+bs:   5
+MaxMag= 37.4227   MinMag= 32.7205    Ak= 4.70215
+Avg = 35.2281
+bs:   6
+MaxMag= 37.0404   MinMag= 32.5141    Ak= 4.52633
+Avg = 35.2937
+bs:   7
+MaxMag= 37.4679   MinMag= 34.0269    Ak= 3.44102
+Avg = 35.8094
+bs:   8
+MaxMag= 37.1936   MinMag= 34.0029    Ak= 3.19064
+Avg = 35.6531
+bs:   9
+MaxMag= 37.1092   MinMag= 34.3805    Ak= 2.72869
+Avg = 35.8096
+bs:   10
+MaxMag= 37.1468   MinMag= 33.8025    Ak= 3.34432
+Avg = 35.6738
+----------------------------- 62.8---------------------------------------
+
+
+bs:   1
+MaxMag= 38.2561   MinMag= 23.2102    Ak= 15.046
+Avg = 33.0083
+bs:   2
+MaxMag= 38.8632   MinMag= 27.3507    Ak= 11.5125
+Avg = 34.7576
+bs:   3
+MaxMag= 38.1444   MinMag= 25.8212    Ak= 12.3232
+Avg = 35.2356
+bs:   4
+MaxMag= 37.915   MinMag= 30.2621    Ak= 7.65291
+Avg = 34.9039
+bs:   5
+MaxMag= 37.4227   MinMag= 32.7205    Ak= 4.70215
+Avg = 35.2281
+bs:   6
+MaxMag= 37.419   MinMag= 32.3425    Ak= 5.07649
+Avg = 35.4357
+bs:   7
+MaxMag= 37.4679   MinMag= 34.0269    Ak= 3.44102
+Avg = 35.8094
+bs:   8
+MaxMag= 37.3511   MinMag= 34.0419    Ak= 3.30921
+Avg = 35.807
+bs:   9
+MaxMag= 37.4346   MinMag= 33.5075    Ak= 3.9271
+Avg = 35.7954
+bs:   10
+MaxMag= 37.1468   MinMag= 33.8025    Ak= 3.34432
+Avg = 35.6738
+----------------------------- 62.9---------------------------------------
+
+
+bs:   1
+MaxMag= 38.2561   MinMag= 23.2102    Ak= 15.046
+Avg = 33.0083
+bs:   2
+MaxMag= 38.8632   MinMag= 27.3507    Ak= 11.5125
+Avg = 34.7576
+bs:   3
+MaxMag= 38.7793   MinMag= 28.8903    Ak= 9.88903
+Avg = 35.3663
+bs:   4
+MaxMag= 37.915   MinMag= 30.2621    Ak= 7.65291
+Avg = 34.9039
+bs:   5
+MaxMag= 37.4227   MinMag= 32.7205    Ak= 4.70215
+Avg = 35.2281
+bs:   6
+MaxMag= 37.419   MinMag= 32.3425    Ak= 5.07649
+Avg = 35.4357
+bs:   7
+MaxMag= 37.4679   MinMag= 34.0269    Ak= 3.44102
+Avg = 35.8094
+bs:   8
+MaxMag= 37.3511   MinMag= 34.0419    Ak= 3.30921
+Avg = 35.807
+bs:   9
+MaxMag= 37.4346   MinMag= 33.5075    Ak= 3.9271
+Avg = 35.7954
+bs:   10
+MaxMag= 37.3562   MinMag= 34.0968    Ak= 3.2594
+Avg = 35.8827
+----------------------------- 63---------------------------------------
+
+
+bs:   1
+MaxMag= 38.3779   MinMag= 23.1477    Ak= 15.2302
+Avg = 33.0675
+bs:   2
+MaxMag= 38.7787   MinMag= 26.2302    Ak= 12.5485
+Avg = 34.7589
+bs:   3
+MaxMag= 38.7793   MinMag= 28.8903    Ak= 9.88903
+Avg = 35.3663
+bs:   4
+MaxMag= 37.9221   MinMag= 30.9605    Ak= 6.9616
+Avg = 34.9996
+bs:   5
+MaxMag= 38.0289   MinMag= 32.6577    Ak= 5.3712
+Avg = 35.3497
+bs:   6
+MaxMag= 37.1742   MinMag= 32.7257    Ak= 4.44845
+Avg = 35.3862
+bs:   7
+MaxMag= 37.5175   MinMag= 34.0349    Ak= 3.48266
+Avg = 35.6868
+bs:   8
+MaxMag= 37.6615   MinMag= 34.1853    Ak= 3.47624
+Avg = 35.8067
+bs:   9
+MaxMag= 37.4346   MinMag= 33.5075    Ak= 3.9271
+Avg = 35.7954
+bs:   10
+MaxMag= 37.6969   MinMag= 33.3755    Ak= 4.32132
+Avg = 36.0042
+----------------------------- 63.1---------------------------------------
+
+
+bs:   1
+MaxMag= 38.3779   MinMag= 23.1477    Ak= 15.2302
+Avg = 33.0675
+bs:   2
+MaxMag= 38.7787   MinMag= 26.2302    Ak= 12.5485
+Avg = 34.7589
+bs:   3
+MaxMag= 38.9114   MinMag= 28.4611    Ak= 10.4503
+Avg = 35.4993
+bs:   4
+MaxMag= 37.7911   MinMag= 31.4533    Ak= 6.33779
+Avg = 34.9781
+bs:   5
+MaxMag= 38.0289   MinMag= 32.6577    Ak= 5.3712
+Avg = 35.3497
+bs:   6
+MaxMag= 37.3014   MinMag= 32.1265    Ak= 5.17496
+Avg = 35.4872
+bs:   7
+MaxMag= 37.5175   MinMag= 34.0349    Ak= 3.48266
+Avg = 35.6868
+bs:   8
+MaxMag= 37.6615   MinMag= 34.1853    Ak= 3.47624
+Avg = 35.8067
+bs:   9
+MaxMag= 37.4346   MinMag= 33.5075    Ak= 3.9271
+Avg = 35.7954
+bs:   10
+MaxMag= 37.443   MinMag= 34.4471    Ak= 2.99591
+Avg = 35.9197
+----------------------------- 63.2---------------------------------------
+
+
+bs:   1
+MaxMag= 38.3779   MinMag= 23.1477    Ak= 15.2302
+Avg = 33.0675
+bs:   2
+MaxMag= 38.7787   MinMag= 26.2302    Ak= 12.5485
+Avg = 34.7589
+bs:   3
+MaxMag= 38.9114   MinMag= 28.4611    Ak= 10.4503
+Avg = 35.4993
+bs:   4
+MaxMag= 37.7911   MinMag= 31.4533    Ak= 6.33779
+Avg = 34.9781
+bs:   5
+MaxMag= 37.9449   MinMag= 32.8992    Ak= 5.04566
+Avg = 35.5628
+bs:   6
+MaxMag= 37.711   MinMag= 33.6895    Ak= 4.02147
+Avg = 35.7661
+bs:   7
+MaxMag= 37.5175   MinMag= 34.0349    Ak= 3.48266
+Avg = 35.6868
+bs:   8
+MaxMag= 37.4066   MinMag= 34.056    Ak= 3.35069
+Avg = 35.8218
+bs:   9
+MaxMag= 37.4346   MinMag= 33.5075    Ak= 3.9271
+Avg = 35.7954
+bs:   10
+MaxMag= 37.6211   MinMag= 34.457    Ak= 3.16419
+Avg = 35.8749
+----------------------------- 63.3---------------------------------------
+
+
+bs:   1
+MaxMag= 38.3779   MinMag= 23.1477    Ak= 15.2302
+Avg = 33.0675
+bs:   2
+MaxMag= 39.955   MinMag= 21.1855    Ak= 18.7696
+Avg = 34.7381
+bs:   3
+MaxMag= 38.9114   MinMag= 28.4611    Ak= 10.4503
+Avg = 35.4993
+bs:   4
+MaxMag= 37.7911   MinMag= 31.4533    Ak= 6.33779
+Avg = 34.9781
+bs:   5
+MaxMag= 38.3744   MinMag= 31.6601    Ak= 6.71428
+Avg = 35.2358
+bs:   6
+MaxMag= 37.711   MinMag= 33.6895    Ak= 4.02147
+Avg = 35.7661
+bs:   7
+MaxMag= 37.8445   MinMag= 34.0748    Ak= 3.76962
+Avg = 35.8311
+bs:   8
+MaxMag= 37.3298   MinMag= 33.8614    Ak= 3.46835
+Avg = 35.9083
+bs:   9
+MaxMag= 37.4346   MinMag= 33.5075    Ak= 3.9271
+Avg = 35.7954
+bs:   10
+MaxMag= 37.6317   MinMag= 34.1513    Ak= 3.48039
+Avg = 35.7802
+----------------------------- 63.4---------------------------------------
+
+
+bs:   1
+MaxMag= 38.3779   MinMag= 23.1477    Ak= 15.2302
+Avg = 33.0675
+bs:   2
+MaxMag= 39.955   MinMag= 21.1855    Ak= 18.7696
+Avg = 34.7381
+bs:   3
+MaxMag= 38.9114   MinMag= 28.4611    Ak= 10.4503
+Avg = 35.4993
+bs:   4
+MaxMag= 37.7911   MinMag= 31.4533    Ak= 6.33779
+Avg = 34.9781
+bs:   5
+MaxMag= 38.3719   MinMag= 31.662    Ak= 6.70993
+Avg = 35.2356
+bs:   6
+MaxMag= 37.711   MinMag= 33.6895    Ak= 4.02147
+Avg = 35.7661
+bs:   7
+MaxMag= 37.5823   MinMag= 32.9636    Ak= 4.61877
+Avg = 35.9482
+bs:   8
+MaxMag= 37.4668   MinMag= 34.2795    Ak= 3.18722
+Avg = 35.8983
+bs:   9
+MaxMag= 37.9165   MinMag= 34.3616    Ak= 3.55491
+Avg = 36.0313
+bs:   10
+MaxMag= 37.4507   MinMag= 34.0224    Ak= 3.42829
+Avg = 36.0634
+----------------------------- 63.5---------------------------------------
+
+
+bs:   1
+MaxMag= 38.2278   MinMag= 19.0758    Ak= 19.152
+Avg = 32.9649
+bs:   2
+MaxMag= 39.0807   MinMag= 20.3486    Ak= 18.7321
+Avg = 34.7154
+bs:   3
+MaxMag= 38.9114   MinMag= 28.4611    Ak= 10.4503
+Avg = 35.4993
+bs:   4
+MaxMag= 37.6364   MinMag= 31.5275    Ak= 6.10891
+Avg = 34.928
+bs:   5
+MaxMag= 38.3719   MinMag= 31.662    Ak= 6.70993
+Avg = 35.2356
+bs:   6
+MaxMag= 37.711   MinMag= 33.6895    Ak= 4.02147
+Avg = 35.7661
+bs:   7
+MaxMag= 37.5823   MinMag= 32.9636    Ak= 4.61877
+Avg = 35.9482
+bs:   8
+MaxMag= 37.4367   MinMag= 34.2379    Ak= 3.19888
+Avg = 35.9573
+bs:   9
+MaxMag= 37.9165   MinMag= 34.3616    Ak= 3.55491
+Avg = 36.0313
+bs:   10
+MaxMag= 37.4718   MinMag= 34.9356    Ak= 2.53616
+Avg = 36.1301
+----------------------------- 63.6---------------------------------------
+
+
+bs:   1
+MaxMag= 38.2278   MinMag= 19.0758    Ak= 19.152
+Avg = 32.9649
+bs:   2
+MaxMag= 39.1555   MinMag= 29.4115    Ak= 9.74395
+Avg = 35.0174
+bs:   3
+MaxMag= 38.9114   MinMag= 28.4611    Ak= 10.4503
+Avg = 35.4993
+bs:   4
+MaxMag= 37.6364   MinMag= 31.5275    Ak= 6.10891
+Avg = 34.928
+bs:   5
+MaxMag= 38.3719   MinMag= 31.662    Ak= 6.70993
+Avg = 35.2356
+bs:   6
+MaxMag= 37.711   MinMag= 33.6895    Ak= 4.02147
+Avg = 35.7661
+bs:   7
+MaxMag= 37.5258   MinMag= 33.715    Ak= 3.81085
+Avg = 35.8225
+bs:   8
+MaxMag= 37.6357   MinMag= 34.0768    Ak= 3.55887
+Avg = 36.009
+bs:   9
+MaxMag= 37.8182   MinMag= 34.4294    Ak= 3.38883
+Avg = 36.0029
+bs:   10
+MaxMag= 37.4718   MinMag= 34.9356    Ak= 2.53616
+Avg = 36.1301
+----------------------------- 63.7---------------------------------------
+
+
+bs:   1
+MaxMag= 38.2278   MinMag= 19.0758    Ak= 19.152
+Avg = 32.9649
+bs:   2
+MaxMag= 39.1555   MinMag= 29.4115    Ak= 9.74395
+Avg = 35.0174
+bs:   3
+MaxMag= 38.9114   MinMag= 28.4611    Ak= 10.4503
+Avg = 35.4993
+bs:   4
+MaxMag= 37.6364   MinMag= 31.5275    Ak= 6.10891
+Avg = 34.928
+bs:   5
+MaxMag= 38.3719   MinMag= 31.662    Ak= 6.70993
+Avg = 35.2356
+bs:   6
+MaxMag= 37.711   MinMag= 33.6895    Ak= 4.02147
+Avg = 35.7661
+bs:   7
+MaxMag= 37.5099   MinMag= 32.8928    Ak= 4.61713
+Avg = 35.8931
+bs:   8
+MaxMag= 37.3647   MinMag= 34.6539    Ak= 2.71078
+Avg = 35.8833
+bs:   9
+MaxMag= 37.6015   MinMag= 34.6641    Ak= 2.9374
+Avg = 35.9737
+bs:   10
+MaxMag= 37.3192   MinMag= 34.6602    Ak= 2.65901
+Avg = 35.8733
+----------------------------- 63.8---------------------------------------
+
+
+bs:   1
+MaxMag= 38.2278   MinMag= 19.0758    Ak= 19.152
+Avg = 32.9649
+bs:   2
+MaxMag= 39.1555   MinMag= 29.4115    Ak= 9.74395
+Avg = 35.0174
+bs:   3
+MaxMag= 38.5623   MinMag= 28.8495    Ak= 9.71282
+Avg = 35.5291
+bs:   4
+MaxMag= 37.6364   MinMag= 31.5275    Ak= 6.10891
+Avg = 34.928
+bs:   5
+MaxMag= 37.5835   MinMag= 31.8037    Ak= 5.7798
+Avg = 35.3851
+bs:   6
+MaxMag= 37.711   MinMag= 33.6895    Ak= 4.02147
+Avg = 35.7661
+bs:   7
+MaxMag= 37.5099   MinMag= 32.8928    Ak= 4.61713
+Avg = 35.8931
+bs:   8
+MaxMag= 37.3647   MinMag= 34.6539    Ak= 2.71078
+Avg = 35.8833
+bs:   9
+MaxMag= 37.6015   MinMag= 34.6641    Ak= 2.9374
+Avg = 35.9737
+bs:   10
+MaxMag= 37.3723   MinMag= 34.4468    Ak= 2.92556
+Avg = 36.003
+----------------------------- 63.9---------------------------------------
+
+
+bs:   1
+MaxMag= 38.1026   MinMag= 22.8008    Ak= 15.3018
+Avg = 33.081
+bs:   2
+MaxMag= 39.0703   MinMag= 26.919    Ak= 12.1513
+Avg = 34.9412
+bs:   3
+MaxMag= 38.5623   MinMag= 28.8495    Ak= 9.71282
+Avg = 35.5291
+bs:   4
+MaxMag= 37.6364   MinMag= 31.5275    Ak= 6.10891
+Avg = 34.928
+bs:   5
+MaxMag= 37.5835   MinMag= 31.8037    Ak= 5.7798
+Avg = 35.3851
+bs:   6
+MaxMag= 37.2185   MinMag= 33.3792    Ak= 3.83932
+Avg = 35.7929
+bs:   7
+MaxMag= 37.5099   MinMag= 32.8928    Ak= 4.61713
+Avg = 35.8931
+bs:   8
+MaxMag= 37.3647   MinMag= 34.6539    Ak= 2.71078
+Avg = 35.8833
+bs:   9
+MaxMag= 37.6015   MinMag= 34.6641    Ak= 2.9374
+Avg = 35.9737
+bs:   10
+MaxMag= 37.3723   MinMag= 34.4468    Ak= 2.92556
+Avg = 36.003
+----------------------------- 64---------------------------------------
+
+
+bs:   1
+MaxMag= 38.1026   MinMag= 22.8008    Ak= 15.3018
+Avg = 33.081
+bs:   2
+MaxMag= 39.0703   MinMag= 26.919    Ak= 12.1513
+Avg = 34.9412
+bs:   3
+MaxMag= 38.5623   MinMag= 28.8495    Ak= 9.71282
+Avg = 35.5291
+bs:   4
+MaxMag= 37.3255   MinMag= 31.4032    Ak= 5.92235
+Avg = 34.9845
+bs:   5
+MaxMag= 37.5835   MinMag= 31.8037    Ak= 5.7798
+Avg = 35.3851
+bs:   6
+MaxMag= 37.519   MinMag= 33.3699    Ak= 4.14912
+Avg = 35.7716
+bs:   7
+MaxMag= 37.5099   MinMag= 32.8928    Ak= 4.61713
+Avg = 35.8931
+bs:   8
+MaxMag= 37.3647   MinMag= 34.6539    Ak= 2.71078
+Avg = 35.8833
+bs:   9
+MaxMag= 37.6399   MinMag= 34.3432    Ak= 3.29669
+Avg = 36.0072
+bs:   10
+MaxMag= 37.3723   MinMag= 34.4468    Ak= 2.92556
+Avg = 36.003
+----------------------------- 64.1---------------------------------------
+
+
+bs:   1
+MaxMag= 38.1026   MinMag= 22.8008    Ak= 15.3018
+Avg = 33.081
+bs:   2
+MaxMag= 39.0703   MinMag= 26.919    Ak= 12.1513
+Avg = 34.9412
+bs:   3
+MaxMag= 38.9685   MinMag= 29.5814    Ak= 9.38709
+Avg = 35.4127
+bs:   4
+MaxMag= 37.3255   MinMag= 31.4032    Ak= 5.92235
+Avg = 34.9845
+bs:   5
+MaxMag= 37.5835   MinMag= 31.8037    Ak= 5.7798
+Avg = 35.3851
+bs:   6
+MaxMag= 37.4239   MinMag= 32.6415    Ak= 4.78235
+Avg = 35.7322
+bs:   7
+MaxMag= 37.5099   MinMag= 32.8928    Ak= 4.61713
+Avg = 35.8931
+bs:   8
+MaxMag= 37.2861   MinMag= 34.3082    Ak= 2.97788
+Avg = 35.9551
+bs:   9
+MaxMag= 37.6399   MinMag= 34.3432    Ak= 3.29669
+Avg = 36.0072
+bs:   10
+MaxMag= 37.3723   MinMag= 34.4468    Ak= 2.92556
+Avg = 36.003
+----------------------------- 64.2---------------------------------------
+
+
+bs:   1
+MaxMag= 38.1026   MinMag= 22.8008    Ak= 15.3018
+Avg = 33.081
+bs:   2
+MaxMag= 39.6326   MinMag= 22.6131    Ak= 17.0195
+Avg = 34.8019
+bs:   3
+MaxMag= 38.9685   MinMag= 29.5814    Ak= 9.38709
+Avg = 35.4127
+bs:   4
+MaxMag= 37.9169   MinMag= 31.7005    Ak= 6.21648
+Avg = 35.2022
+bs:   5
+MaxMag= 37.6543   MinMag= 32.842    Ak= 4.81235
+Avg = 35.7451
+bs:   6
+MaxMag= 37.4239   MinMag= 32.6415    Ak= 4.78235
+Avg = 35.7322
+bs:   7
+MaxMag= 37.5099   MinMag= 32.8928    Ak= 4.61713
+Avg = 35.8931
+bs:   8
+MaxMag= 37.7656   MinMag= 33.9767    Ak= 3.78884
+Avg = 36.0802
+bs:   9
+MaxMag= 37.4349   MinMag= 34.4625    Ak= 2.97244
+Avg = 35.9521
+bs:   10
+MaxMag= 37.3723   MinMag= 34.4468    Ak= 2.92556
+Avg = 36.003
+----------------------------- 64.3---------------------------------------
+
+
+bs:   1
+MaxMag= 38.1026   MinMag= 22.8008    Ak= 15.3018
+Avg = 33.081
+bs:   2
+MaxMag= 38.9003   MinMag= 29.1338    Ak= 9.76654
+Avg = 34.9319
+bs:   3
+MaxMag= 38.2958   MinMag= 28.3871    Ak= 9.9087
+Avg = 35.3182
+bs:   4
+MaxMag= 38.1417   MinMag= 31.2669    Ak= 6.87478
+Avg = 35.2462
+bs:   5
+MaxMag= 37.6543   MinMag= 32.842    Ak= 4.81235
+Avg = 35.7451
+bs:   6
+MaxMag= 37.3851   MinMag= 32.467    Ak= 4.91814
+Avg = 35.8367
+bs:   7
+MaxMag= 37.5099   MinMag= 32.8928    Ak= 4.61713
+Avg = 35.8931
+bs:   8
+MaxMag= 38.3296   MinMag= 34.849    Ak= 3.48056
+Avg = 36.2027
+bs:   9
+MaxMag= 37.7058   MinMag= 34.1783    Ak= 3.52744
+Avg = 35.9805
+bs:   10
+MaxMag= 37.3723   MinMag= 34.4468    Ak= 2.92556
+Avg = 36.003
+----------------------------- 64.4---------------------------------------
+
+
+bs:   1
+MaxMag= 38.1026   MinMag= 22.8008    Ak= 15.3018
+Avg = 33.081
+bs:   2
+MaxMag= 38.9003   MinMag= 29.1338    Ak= 9.76654
+Avg = 34.9319
+bs:   3
+MaxMag= 38.5623   MinMag= 28.8495    Ak= 9.71282
+Avg = 35.5291
+bs:   4
+MaxMag= 38.1417   MinMag= 31.2669    Ak= 6.87478
+Avg = 35.2462
+bs:   5
+MaxMag= 37.6543   MinMag= 32.842    Ak= 4.81235
+Avg = 35.7451
+bs:   6
+MaxMag= 37.3851   MinMag= 32.467    Ak= 4.91814
+Avg = 35.8367
+bs:   7
+MaxMag= 37.5108   MinMag= 32.8955    Ak= 4.61525
+Avg = 35.8931
+bs:   8
+MaxMag= 38.3296   MinMag= 34.849    Ak= 3.48056
+Avg = 36.2027
+bs:   9
+MaxMag= 37.7058   MinMag= 34.1783    Ak= 3.52744
+Avg = 35.9805
+bs:   10
+MaxMag= 37.2212   MinMag= 34.4219    Ak= 2.79933
+Avg = 35.8446
+----------------------------- 64.5---------------------------------------
+
+
+bs:   1
+MaxMag= 38.1026   MinMag= 22.8008    Ak= 15.3018
+Avg = 33.081
+bs:   2
+MaxMag= 38.9003   MinMag= 29.1338    Ak= 9.76654
+Avg = 34.9319
+bs:   3
+MaxMag= 38.656   MinMag= 28.6801    Ak= 9.97588
+Avg = 35.6243
+bs:   4
+MaxMag= 38.1417   MinMag= 31.2669    Ak= 6.87478
+Avg = 35.2462
+bs:   5
+MaxMag= 37.6543   MinMag= 32.842    Ak= 4.81235
+Avg = 35.7451
+bs:   6
+MaxMag= 37.3851   MinMag= 32.467    Ak= 4.91814
+Avg = 35.8367
+bs:   7
+MaxMag= 37.2199   MinMag= 33.3421    Ak= 3.87788
+Avg = 35.8238
+bs:   8
+MaxMag= 37.479   MinMag= 34.4862    Ak= 2.99283
+Avg = 35.9916
+bs:   9
+MaxMag= 37.7058   MinMag= 34.1783    Ak= 3.52744
+Avg = 35.9805
+bs:   10
+MaxMag= 37.2212   MinMag= 34.4219    Ak= 2.79933
+Avg = 35.8446
+----------------------------- 64.6---------------------------------------
+
+
+bs:   1
+MaxMag= 38.1026   MinMag= 22.8008    Ak= 15.3018
+Avg = 33.081
+bs:   2
+MaxMag= 38.5852   MinMag= 26.8314    Ak= 11.7538
+Avg = 34.7325
+bs:   3
+MaxMag= 39.0779   MinMag= 26.4463    Ak= 12.6316
+Avg = 35.6568
+bs:   4
+MaxMag= 38.1417   MinMag= 31.2669    Ak= 6.87478
+Avg = 35.2462
+bs:   5
+MaxMag= 37.6543   MinMag= 32.842    Ak= 4.81235
+Avg = 35.7451
+bs:   6
+MaxMag= 37.3851   MinMag= 32.467    Ak= 4.91814
+Avg = 35.8367
+bs:   7
+MaxMag= 37.2199   MinMag= 33.3421    Ak= 3.87788
+Avg = 35.8238
+bs:   8
+MaxMag= 37.5856   MinMag= 34.0961    Ak= 3.48953
+Avg = 36.0271
+bs:   9
+MaxMag= 37.8748   MinMag= 33.9947    Ak= 3.88005
+Avg = 36.0199
+bs:   10
+MaxMag= 37.4386   MinMag= 34.4323    Ak= 3.00637
+Avg = 35.9851
+----------------------------- 64.7---------------------------------------
+
+
+bs:   1
+MaxMag= 38.1026   MinMag= 22.8008    Ak= 15.3018
+Avg = 33.081
+bs:   2
+MaxMag= 38.5852   MinMag= 26.8314    Ak= 11.7538
+Avg = 34.7325
+bs:   3
+MaxMag= 39.0772   MinMag= 26.4594    Ak= 12.6178
+Avg = 35.6565
+bs:   4
+MaxMag= 38.1417   MinMag= 31.2669    Ak= 6.87478
+Avg = 35.2462
+bs:   5
+MaxMag= 37.8093   MinMag= 32.5726    Ak= 5.23676
+Avg = 35.7412
+bs:   6
+MaxMag= 37.6955   MinMag= 34.042    Ak= 3.65347
+Avg = 35.9084
+bs:   7
+MaxMag= 37.1536   MinMag= 33.7964    Ak= 3.35721
+Avg = 35.9401
+bs:   8
+MaxMag= 37.5856   MinMag= 34.0961    Ak= 3.48953
+Avg = 36.0271
+bs:   9
+MaxMag= 37.6484   MinMag= 34.4799    Ak= 3.1685
+Avg = 36.0915
+bs:   10
+MaxMag= 37.4386   MinMag= 34.4323    Ak= 3.00637
+Avg = 35.9851
+----------------------------- 64.8---------------------------------------
+
+
+bs:   1
+MaxMag= 38.5506   MinMag= 23.1916    Ak= 15.359
+Avg = 33.1477
+bs:   2
+MaxMag= 39.45   MinMag= 22.2177    Ak= 17.2323
+Avg = 34.9056
+bs:   3
+MaxMag= 38.0763   MinMag= 25.7257    Ak= 12.3506
+Avg = 35.2067
+bs:   4
+MaxMag= 38.1417   MinMag= 31.2669    Ak= 6.87478
+Avg = 35.2462
+bs:   5
+MaxMag= 37.8093   MinMag= 32.5726    Ak= 5.23676
+Avg = 35.7412
+bs:   6
+MaxMag= 37.6962   MinMag= 34.0427    Ak= 3.65358
+Avg = 35.9084
+bs:   7
+MaxMag= 37.1536   MinMag= 33.7964    Ak= 3.35721
+Avg = 35.9401
+bs:   8
+MaxMag= 37.5856   MinMag= 34.0961    Ak= 3.48953
+Avg = 36.0271
+bs:   9
+MaxMag= 37.6484   MinMag= 34.4799    Ak= 3.1685
+Avg = 36.0915
+bs:   10
+MaxMag= 37.4386   MinMag= 34.4323    Ak= 3.00637
+Avg = 35.9851
+----------------------------- 64.9---------------------------------------
+
+
+bs:   1
+MaxMag= 38.3311   MinMag= 17.0797    Ak= 21.2514
+Avg = 33.1335
+bs:   2
+MaxMag= 39.45   MinMag= 22.2177    Ak= 17.2323
+Avg = 34.9056
+bs:   3
+MaxMag= 38.3621   MinMag= 28.6709    Ak= 9.69121
+Avg = 35.4122
+bs:   4
+MaxMag= 38.1417   MinMag= 31.2669    Ak= 6.87478
+Avg = 35.2462
+bs:   5
+MaxMag= 37.763   MinMag= 32.6796    Ak= 5.08342
+Avg = 35.8281
+bs:   6
+MaxMag= 37.6962   MinMag= 34.0427    Ak= 3.65358
+Avg = 35.9084
+bs:   7
+MaxMag= 37.1536   MinMag= 33.7964    Ak= 3.35721
+Avg = 35.9401
+bs:   8
+MaxMag= 37.5856   MinMag= 34.0961    Ak= 3.48953
+Avg = 36.0271
+bs:   9
+MaxMag= 37.9075   MinMag= 34.7584    Ak= 3.14911
+Avg = 36.173
+bs:   10
+MaxMag= 37.4386   MinMag= 34.4323    Ak= 3.00637
+Avg = 35.9851
+----------------------------- 65---------------------------------------
+
+
+bs:   1
+MaxMag= 38.3311   MinMag= 17.0797    Ak= 21.2514
+Avg = 33.1335
+bs:   2
+MaxMag= 39.45   MinMag= 22.2177    Ak= 17.2323
+Avg = 34.9056
+bs:   3
+MaxMag= 38.2363   MinMag= 26.9372    Ak= 11.2991
+Avg = 35.2545
+bs:   4
+MaxMag= 37.6369   MinMag= 30.915    Ak= 6.72184
+Avg = 35.1463
+bs:   5
+MaxMag= 37.763   MinMag= 32.6796    Ak= 5.08342
+Avg = 35.8281
+bs:   6
+MaxMag= 37.6326   MinMag= 33.1033    Ak= 4.52933
+Avg = 35.7982
+bs:   7
+MaxMag= 37.1536   MinMag= 33.7964    Ak= 3.35721
+Avg = 35.9401
+bs:   8
+MaxMag= 37.5856   MinMag= 34.0961    Ak= 3.48953
+Avg = 36.0271
+bs:   9
+MaxMag= 37.9075   MinMag= 34.7584    Ak= 3.14911
+Avg = 36.173
+bs:   10
+MaxMag= 37.2824   MinMag= 34.5855    Ak= 2.69692
+Avg = 35.9487
+----------------------------- 65.1---------------------------------------
+
+
+bs:   1
+MaxMag= 38.3311   MinMag= 17.0797    Ak= 21.2514
+Avg = 33.1335
+bs:   2
+MaxMag= 39.45   MinMag= 22.2177    Ak= 17.2323
+Avg = 34.9056
+bs:   3
+MaxMag= 38.2363   MinMag= 26.9372    Ak= 11.2991
+Avg = 35.2545
+bs:   4
+MaxMag= 37.9329   MinMag= 31.5989    Ak= 6.33408
+Avg = 35.1308
+bs:   5
+MaxMag= 37.763   MinMag= 32.6796    Ak= 5.08342
+Avg = 35.8281
+bs:   6
+MaxMag= 37.6326   MinMag= 33.1033    Ak= 4.52933
+Avg = 35.7982
+bs:   7
+MaxMag= 37.5102   MinMag= 32.8931    Ak= 4.61712
+Avg = 35.8931
+bs:   8
+MaxMag= 37.5654   MinMag= 34.3863    Ak= 3.17907
+Avg = 36.2572
+bs:   9
+MaxMag= 37.9075   MinMag= 34.7584    Ak= 3.14911
+Avg = 36.173
+bs:   10
+MaxMag= 37.2167   MinMag= 34.3522    Ak= 2.86454
+Avg = 35.9274
+----------------------------- 65.2---------------------------------------
+
+
+bs:   1
+MaxMag= 38.3311   MinMag= 17.0797    Ak= 21.2514
+Avg = 33.1335
+bs:   2
+MaxMag= 39.45   MinMag= 22.2177    Ak= 17.2323
+Avg = 34.9056
+bs:   3
+MaxMag= 38.2363   MinMag= 26.9372    Ak= 11.2991
+Avg = 35.2545
+bs:   4
+MaxMag= 37.9329   MinMag= 31.5989    Ak= 6.33408
+Avg = 35.1308
+bs:   5
+MaxMag= 37.763   MinMag= 32.6796    Ak= 5.08342
+Avg = 35.8281
+bs:   6
+MaxMag= 37.5284   MinMag= 33.3469    Ak= 4.18154
+Avg = 35.9058
+bs:   7
+MaxMag= 38.1363   MinMag= 33.7742    Ak= 4.36204
+Avg = 36.0772
+bs:   8
+MaxMag= 37.9821   MinMag= 33.7342    Ak= 4.2479
+Avg = 36.1194
+bs:   9
+MaxMag= 37.9075   MinMag= 34.7584    Ak= 3.14911
+Avg = 36.173
+bs:   10
+MaxMag= 37.2167   MinMag= 34.3522    Ak= 2.86454
+Avg = 35.9274
+----------------------------- 65.3---------------------------------------
+
+
+bs:   1
+MaxMag= 38.3311   MinMag= 17.0797    Ak= 21.2514
+Avg = 33.1335
+bs:   2
+MaxMag= 39.45   MinMag= 22.2177    Ak= 17.2323
+Avg = 34.9056
+bs:   3
+MaxMag= 38.2363   MinMag= 26.9372    Ak= 11.2991
+Avg = 35.2545
+bs:   4
+MaxMag= 37.9323   MinMag= 30.5181    Ak= 7.4142
+Avg = 35.1393
+bs:   5
+MaxMag= 37.763   MinMag= 32.6796    Ak= 5.08342
+Avg = 35.8281
+bs:   6
+MaxMag= 37.5284   MinMag= 33.3469    Ak= 4.18154
+Avg = 35.9058
+bs:   7
+MaxMag= 38.0928   MinMag= 34.1533    Ak= 3.93951
+Avg = 36.0709
+bs:   8
+MaxMag= 37.7355   MinMag= 34.7169    Ak= 3.0186
+Avg = 36.2642
+bs:   9
+MaxMag= 37.9075   MinMag= 34.7584    Ak= 3.14911
+Avg = 36.173
+bs:   10
+MaxMag= 37.2167   MinMag= 34.3522    Ak= 2.86454
+Avg = 35.9274
+----------------------------- 65.4---------------------------------------
+
+
+bs:   1
+MaxMag= 38.3311   MinMag= 17.0797    Ak= 21.2514
+Avg = 33.1335
+bs:   2
+MaxMag= 38.9162   MinMag= 29.0688    Ak= 9.84741
+Avg = 35.0269
+bs:   3
+MaxMag= 38.2363   MinMag= 26.9372    Ak= 11.2991
+Avg = 35.2545
+bs:   4
+MaxMag= 37.9323   MinMag= 30.5181    Ak= 7.4142
+Avg = 35.1393
+bs:   5
+MaxMag= 38.3486   MinMag= 32.2758    Ak= 6.07285
+Avg = 35.9234
+bs:   6
+MaxMag= 38.1989   MinMag= 31.7083    Ak= 6.4906
+Avg = 36.081
+bs:   7
+MaxMag= 38.0928   MinMag= 34.1533    Ak= 3.93951
+Avg = 36.0709
+bs:   8
+MaxMag= 37.6069   MinMag= 34.8844    Ak= 2.72254
+Avg = 36.2719
+bs:   9
+MaxMag= 37.9075   MinMag= 34.7584    Ak= 3.14911
+Avg = 36.173
+bs:   10
+MaxMag= 37.2167   MinMag= 34.3522    Ak= 2.86454
+Avg = 35.9274
+----------------------------- 65.5---------------------------------------
+
+
+bs:   1
+MaxMag= 38.3311   MinMag= 17.0797    Ak= 21.2514
+Avg = 33.1335
+bs:   2
+MaxMag= 38.9162   MinMag= 29.0688    Ak= 9.84741
+Avg = 35.0269
+bs:   3
+MaxMag= 38.2597   MinMag= 29.5889    Ak= 8.6708
+Avg = 35.4112
+bs:   4
+MaxMag= 37.8682   MinMag= 31.7762    Ak= 6.09204
+Avg = 35.1916
+bs:   5
+MaxMag= 37.763   MinMag= 32.6796    Ak= 5.08342
+Avg = 35.8281
+bs:   6
+MaxMag= 38.1989   MinMag= 31.7083    Ak= 6.4906
+Avg = 36.081
+bs:   7
+MaxMag= 37.6961   MinMag= 34.345    Ak= 3.35116
+Avg = 36.0837
+bs:   8
+MaxMag= 37.6069   MinMag= 34.8844    Ak= 2.72254
+Avg = 36.2719
+bs:   9
+MaxMag= 37.9075   MinMag= 34.7584    Ak= 3.14911
+Avg = 36.173
+bs:   10
+MaxMag= 37.3845   MinMag= 34.5743    Ak= 2.81025
+Avg = 35.9854
+----------------------------- 65.6---------------------------------------
+
+
+bs:   1
+MaxMag= 38.3311   MinMag= 17.0797    Ak= 21.2514
+Avg = 33.1335
+bs:   2
+MaxMag= 38.9162   MinMag= 29.0688    Ak= 9.84741
+Avg = 35.0269
+bs:   3
+MaxMag= 38.4964   MinMag= 29.5673    Ak= 8.92907
+Avg = 35.407
+bs:   4
+MaxMag= 37.8682   MinMag= 31.7762    Ak= 6.09204
+Avg = 35.1916
+bs:   5
+MaxMag= 37.763   MinMag= 32.6796    Ak= 5.08342
+Avg = 35.8281
+bs:   6
+MaxMag= 38.1975   MinMag= 31.7064    Ak= 6.49115
+Avg = 36.0808
+bs:   7
+MaxMag= 38.1866   MinMag= 33.9661    Ak= 4.22048
+Avg = 36.1428
+bs:   8
+MaxMag= 37.9739   MinMag= 33.835    Ak= 4.13887
+Avg = 36.2261
+bs:   9
+MaxMag= 37.9075   MinMag= 34.7584    Ak= 3.14911
+Avg = 36.173
+bs:   10
+MaxMag= 37.3845   MinMag= 34.5743    Ak= 2.81025
+Avg = 35.9854
+----------------------------- 65.7---------------------------------------
+
+
+bs:   1
+MaxMag= 38.3311   MinMag= 17.0797    Ak= 21.2514
+Avg = 33.1335
+bs:   2
+MaxMag= 39.2857   MinMag= 28.6059    Ak= 10.6798
+Avg = 35.0665
+bs:   3
+MaxMag= 38.8163   MinMag= 28.342    Ak= 10.4743
+Avg = 35.3994
+bs:   4
+MaxMag= 37.4075   MinMag= 31.0405    Ak= 6.36697
+Avg = 35.0346
+bs:   5
+MaxMag= 37.7389   MinMag= 32.9945    Ak= 4.74439
+Avg = 35.7941
+bs:   6
+MaxMag= 38.1975   MinMag= 31.7064    Ak= 6.49115
+Avg = 36.0808
+bs:   7
+MaxMag= 38.1866   MinMag= 33.9661    Ak= 4.22048
+Avg = 36.1428
+bs:   8
+MaxMag= 37.9739   MinMag= 33.835    Ak= 4.13887
+Avg = 36.2261
+bs:   9
+MaxMag= 37.5215   MinMag= 34.4881    Ak= 3.03335
+Avg = 36.1926
+bs:   10
+MaxMag= 37.7159   MinMag= 34.5789    Ak= 3.13697
+Avg = 36.4012
+----------------------------- 65.8---------------------------------------
+
+
+bs:   1
+MaxMag= 38.3311   MinMag= 17.0797    Ak= 21.2514
+Avg = 33.1335
+bs:   2
+MaxMag= 39.2857   MinMag= 28.6059    Ak= 10.6798
+Avg = 35.0665
+bs:   3
+MaxMag= 38.6916   MinMag= 30.4087    Ak= 8.28287
+Avg = 35.4227
+bs:   4
+MaxMag= 37.4075   MinMag= 31.0405    Ak= 6.36697
+Avg = 35.0346
+bs:   5
+MaxMag= 37.7389   MinMag= 32.9945    Ak= 4.74439
+Avg = 35.7941
+bs:   6
+MaxMag= 38.1975   MinMag= 31.7064    Ak= 6.49115
+Avg = 36.0808
+bs:   7
+MaxMag= 37.9576   MinMag= 34.235    Ak= 3.72265
+Avg = 36.0676
+bs:   8
+MaxMag= 37.6969   MinMag= 33.7939    Ak= 3.90292
+Avg = 36.2917
+bs:   9
+MaxMag= 37.5215   MinMag= 34.4881    Ak= 3.03335
+Avg = 36.1926
+bs:   10
+MaxMag= 37.7159   MinMag= 34.5789    Ak= 3.13697
+Avg = 36.4012
+----------------------------- 65.9---------------------------------------
+
+
+bs:   1
+MaxMag= 38.3497   MinMag= 22.0976    Ak= 16.2521
+Avg = 33.2123
+bs:   2
+MaxMag= 39.2857   MinMag= 28.6059    Ak= 10.6798
+Avg = 35.0665
+bs:   3
+MaxMag= 38.9078   MinMag= 29.2732    Ak= 9.63455
+Avg = 35.5488
+bs:   4
+MaxMag= 37.8851   MinMag= 30.3978    Ak= 7.48732
+Avg = 35.1337
+bs:   5
+MaxMag= 37.7389   MinMag= 32.9945    Ak= 4.74439
+Avg = 35.7941
+bs:   6
+MaxMag= 38.1975   MinMag= 31.7064    Ak= 6.49115
+Avg = 36.0808
+bs:   7
+MaxMag= 37.9576   MinMag= 34.235    Ak= 3.72265
+Avg = 36.0676
+bs:   8
+MaxMag= 37.6969   MinMag= 33.7939    Ak= 3.90292
+Avg = 36.2917
+bs:   9
+MaxMag= 37.5215   MinMag= 34.4881    Ak= 3.03335
+Avg = 36.1926
+bs:   10
+MaxMag= 37.6996   MinMag= 34.4425    Ak= 3.25706
+Avg = 36.277
+----------------------------- 66---------------------------------------
+
+
+bs:   1
+MaxMag= 38.3497   MinMag= 22.0976    Ak= 16.2521
+Avg = 33.2123
+bs:   2
+MaxMag= 39.6249   MinMag= 28.9244    Ak= 10.7006
+Avg = 34.9292
+bs:   3
+MaxMag= 39.2084   MinMag= 29.0025    Ak= 10.2059
+Avg = 35.5056
+bs:   4
+MaxMag= 37.8177   MinMag= 31.0105    Ak= 6.80715
+Avg = 35.0762
+bs:   5
+MaxMag= 37.8301   MinMag= 32.6304    Ak= 5.19973
+Avg = 35.8103
+bs:   6
+MaxMag= 38.1975   MinMag= 31.7064    Ak= 6.49115
+Avg = 36.0808
+bs:   7
+MaxMag= 37.9576   MinMag= 34.235    Ak= 3.72265
+Avg = 36.0676
+bs:   8
+MaxMag= 37.7009   MinMag= 34.8478    Ak= 2.85312
+Avg = 36.2504
+bs:   9
+MaxMag= 37.9075   MinMag= 34.7584    Ak= 3.14911
+Avg = 36.173
+bs:   10
+MaxMag= 37.5214   MinMag= 34.9282    Ak= 2.59318
+Avg = 36.1951
+----------------------------- 66.1---------------------------------------
+
+
+bs:   1
+MaxMag= 38.3497   MinMag= 22.0976    Ak= 16.2521
+Avg = 33.2123
+bs:   2
+MaxMag= 39.6249   MinMag= 28.9244    Ak= 10.7006
+Avg = 34.9292
+bs:   3
+MaxMag= 39.2084   MinMag= 29.0025    Ak= 10.2059
+Avg = 35.5056
+bs:   4
+MaxMag= 38.4103   MinMag= 31.7413    Ak= 6.66896
+Avg = 35.2993
+bs:   5
+MaxMag= 37.8301   MinMag= 32.6304    Ak= 5.19973
+Avg = 35.8103
+bs:   6
+MaxMag= 38.1975   MinMag= 31.7064    Ak= 6.49115
+Avg = 36.0808
+bs:   7
+MaxMag= 37.9576   MinMag= 34.235    Ak= 3.72265
+Avg = 36.0676
+bs:   8
+MaxMag= 37.6396   MinMag= 34.3897    Ak= 3.24993
+Avg = 36.3396
+bs:   9
+MaxMag= 37.9075   MinMag= 34.7584    Ak= 3.14911
+Avg = 36.173
+bs:   10
+MaxMag= 37.5214   MinMag= 34.9282    Ak= 2.59318
+Avg = 36.1951
+----------------------------- 66.2---------------------------------------
+
+
+bs:   1
+MaxMag= 38.3497   MinMag= 22.0976    Ak= 16.2521
+Avg = 33.2123
+bs:   2
+MaxMag= 39.241   MinMag= 28.2709    Ak= 10.97
+Avg = 34.9128
+bs:   3
+MaxMag= 39.2084   MinMag= 29.0025    Ak= 10.2059
+Avg = 35.5056
+bs:   4
+MaxMag= 37.9082   MinMag= 31.4031    Ak= 6.50512
+Avg = 35.2504
+bs:   5
+MaxMag= 37.8301   MinMag= 32.6304    Ak= 5.19973
+Avg = 35.8103
+bs:   6
+MaxMag= 38.1975   MinMag= 31.7064    Ak= 6.49115
+Avg = 36.0808
+bs:   7
+MaxMag= 37.9576   MinMag= 34.235    Ak= 3.72265
+Avg = 36.0676
+bs:   8
+MaxMag= 37.6396   MinMag= 34.3897    Ak= 3.24993
+Avg = 36.3396
+bs:   9
+MaxMag= 37.7594   MinMag= 34.0714    Ak= 3.68798
+Avg = 36.4276
+bs:   10
+MaxMag= 37.5214   MinMag= 34.9282    Ak= 2.59318
+Avg = 36.1951
+----------------------------- 66.3---------------------------------------
+
+
+bs:   1
+MaxMag= 38.3497   MinMag= 22.0976    Ak= 16.2521
+Avg = 33.2123
+bs:   2
+MaxMag= 39.241   MinMag= 28.2709    Ak= 10.97
+Avg = 34.9128
+bs:   3
+MaxMag= 39.2084   MinMag= 29.0025    Ak= 10.2059
+Avg = 35.5056
+bs:   4
+MaxMag= 37.9082   MinMag= 31.4031    Ak= 6.50512
+Avg = 35.2504
+bs:   5
+MaxMag= 37.8301   MinMag= 32.6304    Ak= 5.19973
+Avg = 35.8103
+bs:   6
+MaxMag= 38.1975   MinMag= 31.7064    Ak= 6.49115
+Avg = 36.0808
+bs:   7
+MaxMag= 38.0046   MinMag= 34.4909    Ak= 3.51369
+Avg = 36.254
+bs:   8
+MaxMag= 37.6396   MinMag= 34.3897    Ak= 3.24993
+Avg = 36.3396
+bs:   9
+MaxMag= 37.713   MinMag= 34.836    Ak= 2.87706
+Avg = 36.1638
+bs:   10
+MaxMag= 37.7243   MinMag= 34.7683    Ak= 2.956
+Avg = 36.2882
+----------------------------- 66.4---------------------------------------
+
+
+bs:   1
+MaxMag= 38.3497   MinMag= 22.0976    Ak= 16.2521
+Avg = 33.2123
+bs:   2
+MaxMag= 38.6414   MinMag= 29.6695    Ak= 8.97184
+Avg = 35.1152
+bs:   3
+MaxMag= 39.2084   MinMag= 29.0025    Ak= 10.2059
+Avg = 35.5056
+bs:   4
+MaxMag= 37.9082   MinMag= 31.4031    Ak= 6.50512
+Avg = 35.2504
+bs:   5
+MaxMag= 37.8301   MinMag= 32.6304    Ak= 5.19973
+Avg = 35.8103
+bs:   6
+MaxMag= 38.1975   MinMag= 31.7064    Ak= 6.49115
+Avg = 36.0808
+bs:   7
+MaxMag= 37.8226   MinMag= 34.1299    Ak= 3.69276
+Avg = 36.1192
+bs:   8
+MaxMag= 37.6396   MinMag= 34.3897    Ak= 3.24993
+Avg = 36.3396
+bs:   9
+MaxMag= 37.8615   MinMag= 34.333    Ak= 3.52853
+Avg = 36.478
+bs:   10
+MaxMag= 37.681   MinMag= 34.6486    Ak= 3.0324
+Avg = 36.3499
+----------------------------- 66.5---------------------------------------
+
+
+bs:   1
+MaxMag= 38.3497   MinMag= 22.0976    Ak= 16.2521
+Avg = 33.2123
+bs:   2
+MaxMag= 39.1066   MinMag= 28.9047    Ak= 10.202
+Avg = 35.2702
+bs:   3
+MaxMag= 39.1397   MinMag= 29.7391    Ak= 9.4006
+Avg = 35.3776
+bs:   4
+MaxMag= 37.9082   MinMag= 31.4031    Ak= 6.50512
+Avg = 35.2504
+bs:   5
+MaxMag= 37.8301   MinMag= 32.6304    Ak= 5.19973
+Avg = 35.8103
+bs:   6
+MaxMag= 38.1975   MinMag= 31.7064    Ak= 6.49115
+Avg = 36.0808
+bs:   7
+MaxMag= 37.8226   MinMag= 34.1299    Ak= 3.69276
+Avg = 36.1192
+bs:   8
+MaxMag= 37.9297   MinMag= 34.1054    Ak= 3.82428
+Avg = 36.294
+bs:   9
+MaxMag= 37.8615   MinMag= 34.333    Ak= 3.52853
+Avg = 36.478
+bs:   10
+MaxMag= 37.681   MinMag= 34.6486    Ak= 3.0324
+Avg = 36.3499
+----------------------------- 66.6---------------------------------------
+
+
+bs:   1
+MaxMag= 38.3497   MinMag= 22.0976    Ak= 16.2521
+Avg = 33.2123
+bs:   2
+MaxMag= 39.1066   MinMag= 28.9047    Ak= 10.202
+Avg = 35.2702
+bs:   3
+MaxMag= 39.1397   MinMag= 29.7391    Ak= 9.4006
+Avg = 35.3776
+bs:   4
+MaxMag= 37.9082   MinMag= 31.4031    Ak= 6.50512
+Avg = 35.2504
+bs:   5
+MaxMag= 37.831   MinMag= 32.6328    Ak= 5.19825
+Avg = 35.8107
+bs:   6
+MaxMag= 38.1975   MinMag= 31.7064    Ak= 6.49115
+Avg = 36.0808
+bs:   7
+MaxMag= 38.2055   MinMag= 34.3751    Ak= 3.83045
+Avg = 36.2473
+bs:   8
+MaxMag= 37.9297   MinMag= 34.1054    Ak= 3.82428
+Avg = 36.294
+bs:   9
+MaxMag= 37.8615   MinMag= 34.333    Ak= 3.52853
+Avg = 36.478
+bs:   10
+MaxMag= 37.681   MinMag= 34.6486    Ak= 3.0324
+Avg = 36.3499
+----------------------------- 66.7---------------------------------------
+
+
+bs:   1
+MaxMag= 38.3497   MinMag= 22.0976    Ak= 16.2521
+Avg = 33.2123
+bs:   2
+MaxMag= 38.7266   MinMag= 29.6762    Ak= 9.05044
+Avg = 35.1214
+bs:   3
+MaxMag= 39.1397   MinMag= 29.7391    Ak= 9.4006
+Avg = 35.3776
+bs:   4
+MaxMag= 37.9082   MinMag= 31.4031    Ak= 6.50512
+Avg = 35.2504
+bs:   5
+MaxMag= 37.831   MinMag= 32.6328    Ak= 5.19825
+Avg = 35.8107
+bs:   6
+MaxMag= 38.9127   MinMag= 34.1347    Ak= 4.77799
+Avg = 36.1521
+bs:   7
+MaxMag= 38.2055   MinMag= 34.3751    Ak= 3.83045
+Avg = 36.2473
+bs:   8
+MaxMag= 37.9319   MinMag= 34.1068    Ak= 3.82511
+Avg = 36.2944
+bs:   9
+MaxMag= 37.8615   MinMag= 34.333    Ak= 3.52853
+Avg = 36.478
+bs:   10
+MaxMag= 37.681   MinMag= 34.6486    Ak= 3.0324
+Avg = 36.3499
+----------------------------- 66.8---------------------------------------
+
+
+bs:   1
+MaxMag= 38.3497   MinMag= 22.0976    Ak= 16.2521
+Avg = 33.2123
+bs:   2
+MaxMag= 39.2848   MinMag= 28.603    Ak= 10.6818
+Avg = 35.0664
+bs:   3
+MaxMag= 39.1397   MinMag= 29.7391    Ak= 9.4006
+Avg = 35.3776
+bs:   4
+MaxMag= 37.9082   MinMag= 31.4031    Ak= 6.50512
+Avg = 35.2504
+bs:   5
+MaxMag= 37.8289   MinMag= 32.1716    Ak= 5.65733
+Avg = 35.828
+bs:   6
+MaxMag= 38.9127   MinMag= 34.1347    Ak= 4.77799
+Avg = 36.1521
+bs:   7
+MaxMag= 38.2055   MinMag= 34.3751    Ak= 3.83045
+Avg = 36.2473
+bs:   8
+MaxMag= 37.7636   MinMag= 33.8171    Ak= 3.94644
+Avg = 36.2154
+bs:   9
+MaxMag= 37.7204   MinMag= 35.0088    Ak= 2.71162
+Avg = 36.4266
+bs:   10
+MaxMag= 37.681   MinMag= 34.6486    Ak= 3.0324
+Avg = 36.3499
+----------------------------- 66.9---------------------------------------
+
+
+bs:   1
+MaxMag= 38.3497   MinMag= 22.0976    Ak= 16.2521
+Avg = 33.2123
+bs:   2
+MaxMag= 39.066   MinMag= 28.85    Ak= 10.216
+Avg = 35.0865
+bs:   3
+MaxMag= 39.1405   MinMag= 29.7434    Ak= 9.39711
+Avg = 35.3775
+bs:   4
+MaxMag= 37.9082   MinMag= 31.4031    Ak= 6.50512
+Avg = 35.2504
+bs:   5
+MaxMag= 37.8289   MinMag= 32.1716    Ak= 5.65733
+Avg = 35.828
+bs:   6
+MaxMag= 38.9127   MinMag= 34.1347    Ak= 4.77799
+Avg = 36.1521
+bs:   7
+MaxMag= 37.8623   MinMag= 33.9838    Ak= 3.87846
+Avg = 36.2255
+bs:   8
+MaxMag= 38.4095   MinMag= 34.2624    Ak= 4.14717
+Avg = 36.2523
+bs:   9
+MaxMag= 37.7204   MinMag= 35.0088    Ak= 2.71162
+Avg = 36.4266
+bs:   10
+MaxMag= 37.681   MinMag= 34.6486    Ak= 3.0324
+Avg = 36.3499
+----------------------------- 67---------------------------------------
+
+
+bs:   1
+MaxMag= 38.6118   MinMag= 24.3835    Ak= 14.2284
+Avg = 33.003
+bs:   2
+MaxMag= 39.066   MinMag= 28.85    Ak= 10.216
+Avg = 35.0865
+bs:   3
+MaxMag= 39.1405   MinMag= 29.7434    Ak= 9.39711
+Avg = 35.3775
+bs:   4
+MaxMag= 37.9082   MinMag= 31.4031    Ak= 6.50512
+Avg = 35.2504
+bs:   5
+MaxMag= 38.5074   MinMag= 32.8662    Ak= 5.64121
+Avg = 35.8939
+bs:   6
+MaxMag= 38.2362   MinMag= 33.7025    Ak= 4.53363
+Avg = 36.076
+bs:   7
+MaxMag= 37.7335   MinMag= 33.9861    Ak= 3.74737
+Avg = 36.1215
+bs:   8
+MaxMag= 38.4095   MinMag= 34.2624    Ak= 4.14717
+Avg = 36.2523
+bs:   9
+MaxMag= 37.7204   MinMag= 35.0088    Ak= 2.71162
+Avg = 36.4266
+bs:   10
+MaxMag= 37.7314   MinMag= 34.3455    Ak= 3.38586
+Avg = 36.2976
+----------------------------- 67.1---------------------------------------
+
+
+bs:   1
+MaxMag= 38.6118   MinMag= 24.3835    Ak= 14.2284
+Avg = 33.003
+bs:   2
+MaxMag= 39.066   MinMag= 28.85    Ak= 10.216
+Avg = 35.0865
+bs:   3
+MaxMag= 39.1405   MinMag= 29.7434    Ak= 9.39711
+Avg = 35.3775
+bs:   4
+MaxMag= 37.9082   MinMag= 31.4031    Ak= 6.50512
+Avg = 35.2504
+bs:   5
+MaxMag= 38.6482   MinMag= 32.6757    Ak= 5.97246
+Avg = 36.0661
+bs:   6
+MaxMag= 38.2362   MinMag= 33.7025    Ak= 4.53363
+Avg = 36.076
+bs:   7
+MaxMag= 37.7335   MinMag= 33.9861    Ak= 3.74737
+Avg = 36.1215
+bs:   8
+MaxMag= 37.8373   MinMag= 33.9074    Ak= 3.92989
+Avg = 36.3246
+bs:   9
+MaxMag= 37.9876   MinMag= 34.8251    Ak= 3.16247
+Avg = 36.3677
+bs:   10
+MaxMag= 37.7314   MinMag= 34.3455    Ak= 3.38586
+Avg = 36.2976
+----------------------------- 67.2---------------------------------------
+
+
+bs:   1
+MaxMag= 38.6118   MinMag= 24.3835    Ak= 14.2284
+Avg = 33.003
+bs:   2
+MaxMag= 39.1552   MinMag= 29.4112    Ak= 9.74401
+Avg = 35.0175
+bs:   3
+MaxMag= 39.1405   MinMag= 29.7434    Ak= 9.39711
+Avg = 35.3775
+bs:   4
+MaxMag= 37.9868   MinMag= 30.271    Ak= 7.71575
+Avg = 35.4555
+bs:   5
+MaxMag= 38.7062   MinMag= 32.7705    Ak= 5.93561
+Avg = 36.0948
+bs:   6
+MaxMag= 38.6373   MinMag= 33.6849    Ak= 4.95243
+Avg = 36.1196
+bs:   7
+MaxMag= 37.7335   MinMag= 33.9861    Ak= 3.74737
+Avg = 36.1215
+bs:   8
+MaxMag= 37.9575   MinMag= 34.0097    Ak= 3.94785
+Avg = 36.2769
+bs:   9
+MaxMag= 37.9876   MinMag= 34.8251    Ak= 3.16247
+Avg = 36.3677
+bs:   10
+MaxMag= 37.7314   MinMag= 34.3455    Ak= 3.38586
+Avg = 36.2976
+----------------------------- 67.3---------------------------------------
+
+
+bs:   1
+MaxMag= 38.6118   MinMag= 24.3835    Ak= 14.2284
+Avg = 33.003
+bs:   2
+MaxMag= 39.1552   MinMag= 29.4112    Ak= 9.74401
+Avg = 35.0175
+bs:   3
+MaxMag= 39.1405   MinMag= 29.7434    Ak= 9.39711
+Avg = 35.3775
+bs:   4
+MaxMag= 37.9868   MinMag= 30.271    Ak= 7.71575
+Avg = 35.4555
+bs:   5
+MaxMag= 38.7062   MinMag= 32.7705    Ak= 5.93561
+Avg = 36.0948
+bs:   6
+MaxMag= 37.6584   MinMag= 32.3481    Ak= 5.31028
+Avg = 35.7974
+bs:   7
+MaxMag= 37.8938   MinMag= 33.8468    Ak= 4.04701
+Avg = 36.3029
+bs:   8
+MaxMag= 38.3565   MinMag= 34.1473    Ak= 4.20924
+Avg = 36.3679
+bs:   9
+MaxMag= 37.9876   MinMag= 34.8251    Ak= 3.16247
+Avg = 36.3677
+bs:   10
+MaxMag= 37.7314   MinMag= 34.3455    Ak= 3.38586
+Avg = 36.2976
+----------------------------- 67.4---------------------------------------
+
+
+bs:   1
+MaxMag= 38.6118   MinMag= 24.3835    Ak= 14.2284
+Avg = 33.003
+bs:   2
+MaxMag= 39.1552   MinMag= 29.4112    Ak= 9.74401
+Avg = 35.0175
+bs:   3
+MaxMag= 39.1405   MinMag= 29.7434    Ak= 9.39711
+Avg = 35.3775
+bs:   4
+MaxMag= 37.9868   MinMag= 30.271    Ak= 7.71575
+Avg = 35.4555
+bs:   5
+MaxMag= 38.442   MinMag= 32.551    Ak= 5.89102
+Avg = 36.0449
+bs:   6
+MaxMag= 37.6584   MinMag= 32.3481    Ak= 5.31028
+Avg = 35.7974
+bs:   7
+MaxMag= 37.8938   MinMag= 33.8468    Ak= 4.04701
+Avg = 36.3029
+bs:   8
+MaxMag= 38.3565   MinMag= 34.1473    Ak= 4.20924
+Avg = 36.3679
+bs:   9
+MaxMag= 37.9876   MinMag= 34.8251    Ak= 3.16247
+Avg = 36.3677
+bs:   10
+MaxMag= 37.7314   MinMag= 34.3455    Ak= 3.38586
+Avg = 36.2976
+----------------------------- 67.5---------------------------------------
+
+
+bs:   1
+MaxMag= 38.6118   MinMag= 24.3835    Ak= 14.2284
+Avg = 33.003
+bs:   2
+MaxMag= 38.7266   MinMag= 29.6762    Ak= 9.05044
+Avg = 35.1214
+bs:   3
+MaxMag= 39.1405   MinMag= 29.7434    Ak= 9.39711
+Avg = 35.3775
+bs:   4
+MaxMag= 37.9868   MinMag= 30.271    Ak= 7.71575
+Avg = 35.4555
+bs:   5
+MaxMag= 38.442   MinMag= 32.551    Ak= 5.89102
+Avg = 36.0449
+bs:   6
+MaxMag= 38.037   MinMag= 34.1023    Ak= 3.93466
+Avg = 36.3196
+bs:   7
+MaxMag= 37.8211   MinMag= 34.2806    Ak= 3.54057
+Avg = 36.3099
+bs:   8
+MaxMag= 38.3565   MinMag= 34.1473    Ak= 4.20924
+Avg = 36.3679
+bs:   9
+MaxMag= 37.9876   MinMag= 34.8251    Ak= 3.16247
+Avg = 36.3677
+bs:   10
+MaxMag= 37.7314   MinMag= 34.3455    Ak= 3.38586
+Avg = 36.2976
+----------------------------- 67.6---------------------------------------
+
+
+bs:   1
+MaxMag= 38.6118   MinMag= 24.3835    Ak= 14.2284
+Avg = 33.003
+bs:   2
+MaxMag= 38.7266   MinMag= 29.6762    Ak= 9.05044
+Avg = 35.1214
+bs:   3
+MaxMag= 39.1442   MinMag= 26.6822    Ak= 12.4619
+Avg = 35.9438
+bs:   4
+MaxMag= 38.2322   MinMag= 30.9253    Ak= 7.30691
+Avg = 35.2782
+bs:   5
+MaxMag= 38.4419   MinMag= 32.5515    Ak= 5.89037
+Avg = 36.0449
+bs:   6
+MaxMag= 38.1844   MinMag= 34.4276    Ak= 3.75684
+Avg = 36.3409
+bs:   7
+MaxMag= 37.8211   MinMag= 34.2806    Ak= 3.54057
+Avg = 36.3099
+bs:   8
+MaxMag= 37.8318   MinMag= 34.0869    Ak= 3.74496
+Avg = 36.3915
+bs:   9
+MaxMag= 37.9876   MinMag= 34.8251    Ak= 3.16247
+Avg = 36.3677
+bs:   10
+MaxMag= 38.0585   MinMag= 35.0891    Ak= 2.96944
+Avg = 36.4323
+----------------------------- 67.7---------------------------------------
+
+
+bs:   1
+MaxMag= 38.6118   MinMag= 24.3835    Ak= 14.2284
+Avg = 33.003
+bs:   2
+MaxMag= 39.154   MinMag= 28.339    Ak= 10.815
+Avg = 35.2323
+bs:   3
+MaxMag= 39.0738   MinMag= 28.3739    Ak= 10.6999
+Avg = 35.8402
+bs:   4
+MaxMag= 38.2322   MinMag= 30.9253    Ak= 7.30691
+Avg = 35.2782
+bs:   5
+MaxMag= 38.1234   MinMag= 33.1073    Ak= 5.01604
+Avg = 36.0521
+bs:   6
+MaxMag= 38.0761   MinMag= 34.5257    Ak= 3.55045
+Avg = 36.3312
+bs:   7
+MaxMag= 38.016   MinMag= 33.9348    Ak= 4.08125
+Avg = 36.211
+bs:   8
+MaxMag= 37.8318   MinMag= 34.0869    Ak= 3.74496
+Avg = 36.3915
+bs:   9
+MaxMag= 37.9193   MinMag= 34.6845    Ak= 3.23483
+Avg = 36.4736
+bs:   10
+MaxMag= 38.0585   MinMag= 35.0891    Ak= 2.96944
+Avg = 36.4323
+----------------------------- 67.8---------------------------------------
+
+
+bs:   1
+MaxMag= 38.6118   MinMag= 24.3835    Ak= 14.2284
+Avg = 33.003
+bs:   2
+MaxMag= 39.1613   MinMag= 27.2023    Ak= 11.959
+Avg = 35.2965
+bs:   3
+MaxMag= 39.0738   MinMag= 28.3739    Ak= 10.6999
+Avg = 35.8402
+bs:   4
+MaxMag= 38.3595   MinMag= 30.9071    Ak= 7.45243
+Avg = 35.5096
+bs:   5
+MaxMag= 38.7703   MinMag= 33.3959    Ak= 5.37436
+Avg = 36.0985
+bs:   6
+MaxMag= 38.3503   MinMag= 34.9732    Ak= 3.37718
+Avg = 36.5908
+bs:   7
+MaxMag= 38.016   MinMag= 33.9348    Ak= 4.08125
+Avg = 36.211
+bs:   8
+MaxMag= 37.8318   MinMag= 34.0869    Ak= 3.74496
+Avg = 36.3915
+bs:   9
+MaxMag= 37.9967   MinMag= 35.3701    Ak= 2.62656
+Avg = 36.5892
+bs:   10
+MaxMag= 37.7772   MinMag= 35.2258    Ak= 2.55138
+Avg = 36.4623
+----------------------------- 67.9---------------------------------------
+
+
+bs:   1
+MaxMag= 38.6118   MinMag= 24.3835    Ak= 14.2284
+Avg = 33.003
+bs:   2
+MaxMag= 39.9212   MinMag= 26.1963    Ak= 13.7249
+Avg = 35.5539
+bs:   3
+MaxMag= 39.0738   MinMag= 28.3739    Ak= 10.6999
+Avg = 35.8402
+bs:   4
+MaxMag= 38.3595   MinMag= 30.9071    Ak= 7.45243
+Avg = 35.5096
+bs:   5
+MaxMag= 38.7703   MinMag= 33.3959    Ak= 5.37436
+Avg = 36.0985
+bs:   6
+MaxMag= 38.3503   MinMag= 34.9732    Ak= 3.37718
+Avg = 36.5908
+bs:   7
+MaxMag= 38.016   MinMag= 33.9348    Ak= 4.08125
+Avg = 36.211
+bs:   8
+MaxMag= 37.8318   MinMag= 34.0869    Ak= 3.74496
+Avg = 36.3915
+bs:   9
+MaxMag= 37.9915   MinMag= 34.4973    Ak= 3.4942
+Avg = 36.3661
+bs:   10
+MaxMag= 37.9405   MinMag= 35.0794    Ak= 2.86116
+Avg = 36.4873
+----------------------------- 68---------------------------------------
+
+
+bs:   1
+MaxMag= 38.6118   MinMag= 24.3835    Ak= 14.2284
+Avg = 33.003
+bs:   2
+MaxMag= 39.9212   MinMag= 26.1963    Ak= 13.7249
+Avg = 35.5539
+bs:   3
+MaxMag= 39.0349   MinMag= 29.7202    Ak= 9.3147
+Avg = 36.1389
+bs:   4
+MaxMag= 38.3595   MinMag= 30.9071    Ak= 7.45243
+Avg = 35.5096
+bs:   5
+MaxMag= 38.7703   MinMag= 33.3959    Ak= 5.37436
+Avg = 36.0985
+bs:   6
+MaxMag= 38.3503   MinMag= 34.9732    Ak= 3.37718
+Avg = 36.5908
+bs:   7
+MaxMag= 38.9706   MinMag= 34.4506    Ak= 4.52004
+Avg = 36.2663
+bs:   8
+MaxMag= 37.8318   MinMag= 34.0869    Ak= 3.74496
+Avg = 36.3915
+bs:   9
+MaxMag= 37.9915   MinMag= 34.4973    Ak= 3.4942
+Avg = 36.3661
+bs:   10
+MaxMag= 37.9405   MinMag= 35.0794    Ak= 2.86116
+Avg = 36.4873
+----------------------------- 68.1---------------------------------------
+
+
+bs:   1
+MaxMag= 38.6118   MinMag= 24.3835    Ak= 14.2284
+Avg = 33.003
+bs:   2
+MaxMag= 39.9212   MinMag= 26.1963    Ak= 13.7249
+Avg = 35.5539
+bs:   3
+MaxMag= 39.0349   MinMag= 29.7202    Ak= 9.3147
+Avg = 36.1389
+bs:   4
+MaxMag= 38.3247   MinMag= 30.5871    Ak= 7.73757
+Avg = 35.4475
+bs:   5
+MaxMag= 38.6025   MinMag= 33.3443    Ak= 5.25812
+Avg = 36.1103
+bs:   6
+MaxMag= 37.9661   MinMag= 33.2479    Ak= 4.71826
+Avg = 36.1126
+bs:   7
+MaxMag= 38.355   MinMag= 34.2956    Ak= 4.05942
+Avg = 36.3267
+bs:   8
+MaxMag= 37.8318   MinMag= 34.0869    Ak= 3.74496
+Avg = 36.3915
+bs:   9
+MaxMag= 37.9915   MinMag= 34.4973    Ak= 3.4942
+Avg = 36.3661
+bs:   10
+MaxMag= 38.4503   MinMag= 34.7608    Ak= 3.68947
+Avg = 36.6768
+----------------------------- 68.2---------------------------------------
+
+
+bs:   1
+MaxMag= 38.5951   MinMag= 23.339    Ak= 15.2561
+Avg = 32.9651
+bs:   2
+MaxMag= 39.9212   MinMag= 26.1963    Ak= 13.7249
+Avg = 35.5539
+bs:   3
+MaxMag= 39.0349   MinMag= 29.7202    Ak= 9.3147
+Avg = 36.1389
+bs:   4
+MaxMag= 38.6886   MinMag= 31.5799    Ak= 7.10875
+Avg = 35.6899
+bs:   5
+MaxMag= 38.6025   MinMag= 33.3443    Ak= 5.25812
+Avg = 36.1103
+bs:   6
+MaxMag= 38.6193   MinMag= 33.2378    Ak= 5.38156
+Avg = 36.2689
+bs:   7
+MaxMag= 38.069   MinMag= 34.0481    Ak= 4.02083
+Avg = 36.4073
+bs:   8
+MaxMag= 38.4276   MinMag= 34.2422    Ak= 4.18544
+Avg = 36.7238
+bs:   9
+MaxMag= 37.9546   MinMag= 34.6428    Ak= 3.31185
+Avg = 36.5116
+bs:   10
+MaxMag= 38.009   MinMag= 34.9084    Ak= 3.1007
+Avg = 36.633
+----------------------------- 68.3---------------------------------------
+
+
+bs:   1
+MaxMag= 38.5951   MinMag= 23.339    Ak= 15.2561
+Avg = 32.9651
+bs:   2
+MaxMag= 39.9212   MinMag= 26.1963    Ak= 13.7249
+Avg = 35.5539
+bs:   3
+MaxMag= 39.0349   MinMag= 29.7202    Ak= 9.3147
+Avg = 36.1389
+bs:   4
+MaxMag= 38.3111   MinMag= 30.7048    Ak= 7.60625
+Avg = 35.6596
+bs:   5
+MaxMag= 38.3633   MinMag= 33.221    Ak= 5.14227
+Avg = 36.0851
+bs:   6
+MaxMag= 38.5345   MinMag= 31.8999    Ak= 6.63465
+Avg = 36.2249
+bs:   7
+MaxMag= 38.069   MinMag= 34.0481    Ak= 4.02083
+Avg = 36.4073
+bs:   8
+MaxMag= 38.4276   MinMag= 34.2422    Ak= 4.18544
+Avg = 36.7238
+bs:   9
+MaxMag= 37.9546   MinMag= 34.6428    Ak= 3.31185
+Avg = 36.5116
+bs:   10
+MaxMag= 38.109   MinMag= 34.634    Ak= 3.47495
+Avg = 36.4358
+----------------------------- 68.4---------------------------------------
+
+
+bs:   1
+MaxMag= 38.5951   MinMag= 23.339    Ak= 15.2561
+Avg = 32.9651
+bs:   2
+MaxMag= 39.5571   MinMag= 26.5775    Ak= 12.9795
+Avg = 35.5691
+bs:   3
+MaxMag= 39.0349   MinMag= 29.7202    Ak= 9.3147
+Avg = 36.1389
+bs:   4
+MaxMag= 38.416   MinMag= 31.4553    Ak= 6.9606
+Avg = 35.7272
+bs:   5
+MaxMag= 38.5053   MinMag= 33.0524    Ak= 5.45287
+Avg = 36.1461
+bs:   6
+MaxMag= 38.5345   MinMag= 31.8999    Ak= 6.63465
+Avg = 36.2249
+bs:   7
+MaxMag= 38.069   MinMag= 34.0481    Ak= 4.02083
+Avg = 36.4073
+bs:   8
+MaxMag= 38.4276   MinMag= 34.2422    Ak= 4.18544
+Avg = 36.7238
+bs:   9
+MaxMag= 37.9546   MinMag= 34.6428    Ak= 3.31185
+Avg = 36.5116
+bs:   10
+MaxMag= 37.7567   MinMag= 34.7305    Ak= 3.02618
+Avg = 36.4165
+----------------------------- 68.5---------------------------------------
+
+
+bs:   1
+MaxMag= 38.5951   MinMag= 23.339    Ak= 15.2561
+Avg = 32.9651
+bs:   2
+MaxMag= 39.5571   MinMag= 26.5775    Ak= 12.9795
+Avg = 35.5691
+bs:   3
+MaxMag= 39.0349   MinMag= 29.7202    Ak= 9.3147
+Avg = 36.1389
+bs:   4
+MaxMag= 38.416   MinMag= 31.4553    Ak= 6.9606
+Avg = 35.7272
+bs:   5
+MaxMag= 38.5053   MinMag= 33.0524    Ak= 5.45287
+Avg = 36.1461
+bs:   6
+MaxMag= 38.5345   MinMag= 31.8999    Ak= 6.63465
+Avg = 36.2249
+bs:   7
+MaxMag= 38.1438   MinMag= 33.2253    Ak= 4.91843
+Avg = 36.2434
+bs:   8
+MaxMag= 38.4276   MinMag= 34.2422    Ak= 4.18544
+Avg = 36.7238
+bs:   9
+MaxMag= 37.9546   MinMag= 34.6428    Ak= 3.31185
+Avg = 36.5116
+bs:   10
+MaxMag= 37.7567   MinMag= 34.7305    Ak= 3.02618
+Avg = 36.4165
+----------------------------- 68.6---------------------------------------
+
+
+bs:   1
+MaxMag= 38.5951   MinMag= 23.339    Ak= 15.2561
+Avg = 32.9651
+bs:   2
+MaxMag= 40.1945   MinMag= 26.6187    Ak= 13.5757
+Avg = 35.3962
+bs:   3
+MaxMag= 39.0349   MinMag= 29.7202    Ak= 9.3147
+Avg = 36.1389
+bs:   4
+MaxMag= 38.416   MinMag= 31.4553    Ak= 6.9606
+Avg = 35.7272
+bs:   5
+MaxMag= 38.1234   MinMag= 33.1073    Ak= 5.01604
+Avg = 36.0521
+bs:   6
+MaxMag= 38.5345   MinMag= 31.8999    Ak= 6.63465
+Avg = 36.2249
+bs:   7
+MaxMag= 38.1438   MinMag= 33.2253    Ak= 4.91843
+Avg = 36.2434
+bs:   8
+MaxMag= 38.3099   MinMag= 34.9096    Ak= 3.40026
+Avg = 36.4878
+bs:   9
+MaxMag= 37.9546   MinMag= 34.6428    Ak= 3.31185
+Avg = 36.5116
+bs:   10
+MaxMag= 37.7567   MinMag= 34.7305    Ak= 3.02618
+Avg = 36.4165
+----------------------------- 68.7---------------------------------------
+
+
+bs:   1
+MaxMag= 38.5951   MinMag= 23.339    Ak= 15.2561
+Avg = 32.9651
+bs:   2
+MaxMag= 40.1945   MinMag= 26.6187    Ak= 13.5757
+Avg = 35.3962
+bs:   3
+MaxMag= 39.0349   MinMag= 29.7202    Ak= 9.3147
+Avg = 36.1389
+bs:   4
+MaxMag= 38.416   MinMag= 31.4553    Ak= 6.9606
+Avg = 35.7272
+bs:   5
+MaxMag= 38.1234   MinMag= 33.1073    Ak= 5.01604
+Avg = 36.0521
+bs:   6
+MaxMag= 38.5345   MinMag= 31.8999    Ak= 6.63465
+Avg = 36.2249
+bs:   7
+MaxMag= 38.1438   MinMag= 33.2253    Ak= 4.91843
+Avg = 36.2434
+bs:   8
+MaxMag= 38.3099   MinMag= 34.9096    Ak= 3.40026
+Avg = 36.4878
+bs:   9
+MaxMag= 37.9546   MinMag= 34.6428    Ak= 3.31185
+Avg = 36.5116
+bs:   10
+MaxMag= 38.1517   MinMag= 33.7412    Ak= 4.41059
+Avg = 36.6571
+----------------------------- 68.8---------------------------------------
+
+
+bs:   1
+MaxMag= 38.5951   MinMag= 23.339    Ak= 15.2561
+Avg = 32.9651
+bs:   2
+MaxMag= 40.1945   MinMag= 26.6187    Ak= 13.5757
+Avg = 35.3962
+bs:   3
+MaxMag= 39.0349   MinMag= 29.7202    Ak= 9.3147
+Avg = 36.1389
+bs:   4
+MaxMag= 38.9522   MinMag= 30.7159    Ak= 8.23624
+Avg = 35.8524
+bs:   5
+MaxMag= 38.1234   MinMag= 33.1073    Ak= 5.01604
+Avg = 36.0521
+bs:   6
+MaxMag= 38.5345   MinMag= 31.8999    Ak= 6.63465
+Avg = 36.2249
+bs:   7
+MaxMag= 38.1438   MinMag= 33.2253    Ak= 4.91843
+Avg = 36.2434
+bs:   8
+MaxMag= 38.3099   MinMag= 34.9096    Ak= 3.40026
+Avg = 36.4878
+bs:   9
+MaxMag= 38.2311   MinMag= 34.7132    Ak= 3.51795
+Avg = 36.7545
+bs:   10
+MaxMag= 38.1514   MinMag= 35.1411    Ak= 3.0103
+Avg = 36.6683
+----------------------------- 68.9---------------------------------------
+
+
+bs:   1
+MaxMag= 38.5951   MinMag= 23.339    Ak= 15.2561
+Avg = 32.9651
+bs:   2
+MaxMag= 40.1945   MinMag= 26.6187    Ak= 13.5757
+Avg = 35.3962
+bs:   3
+MaxMag= 39.0443   MinMag= 29.8341    Ak= 9.21027
+Avg = 35.9259
+bs:   4
+MaxMag= 38.9522   MinMag= 30.7159    Ak= 8.23624
+Avg = 35.8524
+bs:   5
+MaxMag= 38.3855   MinMag= 33.2326    Ak= 5.15283
+Avg = 36.1199
+bs:   6
+MaxMag= 38.5345   MinMag= 31.8999    Ak= 6.63465
+Avg = 36.2249
+bs:   7
+MaxMag= 38.1438   MinMag= 33.2253    Ak= 4.91843
+Avg = 36.2434
+bs:   8
+MaxMag= 38.3398   MinMag= 34.9214    Ak= 3.41842
+Avg = 36.6051
+bs:   9
+MaxMag= 38.2311   MinMag= 34.7132    Ak= 3.51795
+Avg = 36.7545
+bs:   10
+MaxMag= 38.5032   MinMag= 34.9524    Ak= 3.5508
+Avg = 36.5473
+----------------------------- 69---------------------------------------
+
+
+bs:   1
+MaxMag= 38.0067   MinMag= 24.4794    Ak= 13.5273
+Avg = 32.8861
+bs:   2
+MaxMag= 40.1945   MinMag= 26.6187    Ak= 13.5757
+Avg = 35.3962
+bs:   3
+MaxMag= 39.0443   MinMag= 29.8341    Ak= 9.21027
+Avg = 35.9259
+bs:   4
+MaxMag= 39.3063   MinMag= 27.7549    Ak= 11.5514
+Avg = 35.9657
+bs:   5
+MaxMag= 38.3855   MinMag= 33.2326    Ak= 5.15283
+Avg = 36.1199
+bs:   6
+MaxMag= 38.4375   MinMag= 34.7287    Ak= 3.70879
+Avg = 36.552
+bs:   7
+MaxMag= 38.1438   MinMag= 33.2253    Ak= 4.91843
+Avg = 36.2434
+bs:   8
+MaxMag= 38.3398   MinMag= 34.9214    Ak= 3.41842
+Avg = 36.6051
+bs:   9
+MaxMag= 38.1142   MinMag= 35.1019    Ak= 3.01227
+Avg = 36.6658
+bs:   10
+MaxMag= 38.1514   MinMag= 35.1411    Ak= 3.0103
+Avg = 36.6683
+----------------------------- 69.1---------------------------------------
+
+
+bs:   1
+MaxMag= 38.0067   MinMag= 24.4794    Ak= 13.5273
+Avg = 32.8861
+bs:   2
+MaxMag= 40.1945   MinMag= 26.6187    Ak= 13.5757
+Avg = 35.3962
+bs:   3
+MaxMag= 38.8363   MinMag= 30.4275    Ak= 8.40882
+Avg = 35.9536
+bs:   4
+MaxMag= 39.3063   MinMag= 27.7549    Ak= 11.5514
+Avg = 35.9657
+bs:   5
+MaxMag= 38.3855   MinMag= 33.2326    Ak= 5.15283
+Avg = 36.1199
+bs:   6
+MaxMag= 38.4375   MinMag= 34.7287    Ak= 3.70879
+Avg = 36.552
+bs:   7
+MaxMag= 38.1438   MinMag= 33.2253    Ak= 4.91843
+Avg = 36.2434
+bs:   8
+MaxMag= 38.3398   MinMag= 34.9214    Ak= 3.41842
+Avg = 36.6051
+bs:   9
+MaxMag= 38.1083   MinMag= 34.7722    Ak= 3.33603
+Avg = 36.6828
+bs:   10
+MaxMag= 37.9129   MinMag= 35.4652    Ak= 2.44773
+Avg = 36.6587
+----------------------------- 69.2---------------------------------------
+
+
+bs:   1
+MaxMag= 38.0067   MinMag= 24.4794    Ak= 13.5273
+Avg = 32.8861
+bs:   2
+MaxMag= 40.1945   MinMag= 26.6187    Ak= 13.5757
+Avg = 35.3962
+bs:   3
+MaxMag= 39.5181   MinMag= 26.7368    Ak= 12.7813
+Avg = 35.6518
+bs:   4
+MaxMag= 39.3063   MinMag= 27.7549    Ak= 11.5514
+Avg = 35.9657
+bs:   5
+MaxMag= 38.3855   MinMag= 33.2326    Ak= 5.15283
+Avg = 36.1199
+bs:   6
+MaxMag= 38.4375   MinMag= 34.7287    Ak= 3.70879
+Avg = 36.552
+bs:   7
+MaxMag= 37.848   MinMag= 32.6445    Ak= 5.20349
+Avg = 36.2203
+bs:   8
+MaxMag= 38.3398   MinMag= 34.9214    Ak= 3.41842
+Avg = 36.6051
+bs:   9
+MaxMag= 38.1083   MinMag= 34.7722    Ak= 3.33603
+Avg = 36.6828
+bs:   10
+MaxMag= 38.0829   MinMag= 35.0084    Ak= 3.07451
+Avg = 36.6829
+----------------------------- 69.3---------------------------------------
+
+
+bs:   1
+MaxMag= 38.0067   MinMag= 24.4794    Ak= 13.5273
+Avg = 32.8861
+bs:   2
+MaxMag= 40.1945   MinMag= 26.6187    Ak= 13.5757
+Avg = 35.3962
+bs:   3
+MaxMag= 39.5181   MinMag= 26.7368    Ak= 12.7813
+Avg = 35.6518
+bs:   4
+MaxMag= 39.2518   MinMag= 26.8809    Ak= 12.3709
+Avg = 35.9387
+bs:   5
+MaxMag= 38.3855   MinMag= 33.2326    Ak= 5.15283
+Avg = 36.1199
+bs:   6
+MaxMag= 38.0468   MinMag= 34.0599    Ak= 3.98692
+Avg = 36.3847
+bs:   7
+MaxMag= 37.848   MinMag= 32.6445    Ak= 5.20349
+Avg = 36.2203
+bs:   8
+MaxMag= 38.3398   MinMag= 34.9214    Ak= 3.41842
+Avg = 36.6051
+bs:   9
+MaxMag= 38.1083   MinMag= 34.7722    Ak= 3.33603
+Avg = 36.6828
+bs:   10
+MaxMag= 38.0829   MinMag= 35.0084    Ak= 3.07451
+Avg = 36.6829
+----------------------------- 69.4---------------------------------------
+
+
+bs:   1
+MaxMag= 38.0067   MinMag= 24.4794    Ak= 13.5273
+Avg = 32.8861
+bs:   2
+MaxMag= 40.1945   MinMag= 26.6187    Ak= 13.5757
+Avg = 35.3962
+bs:   3
+MaxMag= 39.3669   MinMag= 28.8424    Ak= 10.5245
+Avg = 35.9883
+bs:   4
+MaxMag= 38.8058   MinMag= 27.1385    Ak= 11.6674
+Avg = 36.1129
+bs:   5
+MaxMag= 38.3855   MinMag= 33.2326    Ak= 5.15283
+Avg = 36.1199
+bs:   6
+MaxMag= 38.0468   MinMag= 34.0599    Ak= 3.98692
+Avg = 36.3847
+bs:   7
+MaxMag= 37.7051   MinMag= 34.3349    Ak= 3.37019
+Avg = 36.4777
+bs:   8
+MaxMag= 38.3398   MinMag= 34.9214    Ak= 3.41842
+Avg = 36.6051
+bs:   9
+MaxMag= 38.1083   MinMag= 34.7722    Ak= 3.33603
+Avg = 36.6828
+bs:   10
+MaxMag= 38.0829   MinMag= 35.0084    Ak= 3.07451
+Avg = 36.6829
+----------------------------- 69.5---------------------------------------
+
+
+bs:   1
+MaxMag= 38.0067   MinMag= 24.4794    Ak= 13.5273
+Avg = 32.8861
+bs:   2
+MaxMag= 40.1945   MinMag= 26.6187    Ak= 13.5757
+Avg = 35.3962
+bs:   3
+MaxMag= 39.3669   MinMag= 28.8424    Ak= 10.5245
+Avg = 35.9883
+bs:   4
+MaxMag= 38.8058   MinMag= 27.1385    Ak= 11.6674
+Avg = 36.1129
+bs:   5
+MaxMag= 38.3855   MinMag= 33.2326    Ak= 5.15283
+Avg = 36.1199
+bs:   6
+MaxMag= 38.0468   MinMag= 34.0599    Ak= 3.98692
+Avg = 36.3847
+bs:   7
+MaxMag= 38.0564   MinMag= 33.529    Ak= 4.52732
+Avg = 36.55
+bs:   8
+MaxMag= 38.3398   MinMag= 34.9214    Ak= 3.41842
+Avg = 36.6051
+bs:   9
+MaxMag= 38.4908   MinMag= 35.1938    Ak= 3.29695
+Avg = 36.7106
+bs:   10
+MaxMag= 38.0829   MinMag= 35.0084    Ak= 3.07451
+Avg = 36.6829
+----------------------------- 69.6---------------------------------------
+
+
+bs:   1
+MaxMag= 38.0067   MinMag= 24.4794    Ak= 13.5273
+Avg = 32.8861
+bs:   2
+MaxMag= 41.1804   MinMag= 25.786    Ak= 15.3944
+Avg = 35.1277
+bs:   3
+MaxMag= 39.3669   MinMag= 28.8424    Ak= 10.5245
+Avg = 35.9883
+bs:   4
+MaxMag= 39.2041   MinMag= 30.6576    Ak= 8.54651
+Avg = 35.8964
+bs:   5
+MaxMag= 38.3855   MinMag= 33.2326    Ak= 5.15283
+Avg = 36.1199
+bs:   6
+MaxMag= 38.0468   MinMag= 34.0599    Ak= 3.98692
+Avg = 36.3847
+bs:   7
+MaxMag= 38.3012   MinMag= 33.8629    Ak= 4.43829
+Avg = 36.4659
+bs:   8
+MaxMag= 38.3398   MinMag= 34.9214    Ak= 3.41842
+Avg = 36.6051
+bs:   9
+MaxMag= 38.4055   MinMag= 34.2171    Ak= 4.18833
+Avg = 36.7147
+bs:   10
+MaxMag= 38.2603   MinMag= 35.1351    Ak= 3.12521
+Avg = 36.7713
+----------------------------- 69.7---------------------------------------
+
+
+bs:   1
+MaxMag= 38.0067   MinMag= 24.4794    Ak= 13.5273
+Avg = 32.8861
+bs:   2
+MaxMag= 40.1713   MinMag= 26.9223    Ak= 13.2491
+Avg = 35.5185
+bs:   3
+MaxMag= 39.3649   MinMag= 28.6008    Ak= 10.7641
+Avg = 36.0129
+bs:   4
+MaxMag= 38.7591   MinMag= 27.0081    Ak= 11.751
+Avg = 35.8986
+bs:   5
+MaxMag= 38.2695   MinMag= 33.2863    Ak= 4.98325
+Avg = 36.0798
+bs:   6
+MaxMag= 38.0468   MinMag= 34.0599    Ak= 3.98692
+Avg = 36.3847
+bs:   7
+MaxMag= 38.3012   MinMag= 33.8629    Ak= 4.43829
+Avg = 36.4659
+bs:   8
+MaxMag= 38.85   MinMag= 34.9918    Ak= 3.85818
+Avg = 36.7294
+bs:   9
+MaxMag= 38.4558   MinMag= 34.7425    Ak= 3.71327
+Avg = 36.7808
+bs:   10
+MaxMag= 37.9661   MinMag= 35.546    Ak= 2.42015
+Avg = 36.6831
+----------------------------- 69.8---------------------------------------
+
+
+bs:   1
+MaxMag= 38.0067   MinMag= 24.4794    Ak= 13.5273
+Avg = 32.8861
+bs:   2
+MaxMag= 40.1713   MinMag= 26.9223    Ak= 13.2491
+Avg = 35.5185
+bs:   3
+MaxMag= 39.3649   MinMag= 28.6008    Ak= 10.7641
+Avg = 36.0129
+bs:   4
+MaxMag= 38.7591   MinMag= 27.0081    Ak= 11.751
+Avg = 35.8986
+bs:   5
+MaxMag= 38.2695   MinMag= 33.2863    Ak= 4.98325
+Avg = 36.0798
+bs:   6
+MaxMag= 38.2505   MinMag= 34.4864    Ak= 3.76412
+Avg = 36.4867
+bs:   7
+MaxMag= 38.5092   MinMag= 34.1931    Ak= 4.31613
+Avg = 36.5685
+bs:   8
+MaxMag= 38.85   MinMag= 34.9918    Ak= 3.85818
+Avg = 36.7294
+bs:   9
+MaxMag= 38.5451   MinMag= 34.0645    Ak= 4.48062
+Avg = 36.7252
+bs:   10
+MaxMag= 37.9541   MinMag= 34.9914    Ak= 2.96276
+Avg = 36.6482
+----------------------------- 69.9---------------------------------------
+
+
+bs:   1
+MaxMag= 38.0067   MinMag= 24.4794    Ak= 13.5273
+Avg = 32.8861
+bs:   2
+MaxMag= 40.2481   MinMag= 25.9025    Ak= 14.3457
+Avg = 35.5215
+bs:   3
+MaxMag= 39.3649   MinMag= 28.6008    Ak= 10.7641
+Avg = 36.0129
+bs:   4
+MaxMag= 39.2041   MinMag= 30.6576    Ak= 8.54651
+Avg = 35.8964
+bs:   5
+MaxMag= 38.2695   MinMag= 33.2863    Ak= 4.98325
+Avg = 36.0798
+bs:   6
+MaxMag= 38.2513   MinMag= 34.4862    Ak= 3.7651
+Avg = 36.4867
+bs:   7
+MaxMag= 38.5092   MinMag= 34.1931    Ak= 4.31613
+Avg = 36.5685
+bs:   8
+MaxMag= 38.85   MinMag= 34.9918    Ak= 3.85818
+Avg = 36.7294
+bs:   9
+MaxMag= 38.5451   MinMag= 34.0645    Ak= 4.48062
+Avg = 36.7252
+bs:   10
+MaxMag= 37.9541   MinMag= 34.9914    Ak= 2.96276
+Avg = 36.6482
+----------------------------- 70---------------------------------------
+
+
+bs:   1
+MaxMag= 38.0067   MinMag= 24.4794    Ak= 13.5273
+Avg = 32.8861
+bs:   2
+MaxMag= 40.2481   MinMag= 25.9025    Ak= 14.3457
+Avg = 35.5215
+bs:   3
+MaxMag= 39.6133   MinMag= 29.5479    Ak= 10.0655
+Avg = 36.1407
+bs:   4
+MaxMag= 39.2041   MinMag= 30.6576    Ak= 8.54651
+Avg = 35.8964
+bs:   5
+MaxMag= 38.2695   MinMag= 33.2863    Ak= 4.98325
+Avg = 36.0798
+bs:   6
+MaxMag= 38.0685   MinMag= 34.7318    Ak= 3.33663
+Avg = 36.5224
+bs:   7
+MaxMag= 38.2382   MinMag= 34.3677    Ak= 3.87047
+Avg = 36.6069
+bs:   8
+MaxMag= 38.3462   MinMag= 34.5646    Ak= 3.78153
+Avg = 36.76
+bs:   9
+MaxMag= 38.5451   MinMag= 34.0645    Ak= 4.48062
+Avg = 36.7252
+bs:   10
+MaxMag= 37.9541   MinMag= 34.9914    Ak= 2.96276
+Avg = 36.6482
